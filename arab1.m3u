@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/cWE5KYM.png" ,Maroc - Aloula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="hhttps://imgur.com/dtTBpuF.png" ,Maroc - 2M
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/dtTBpuF.png" ,Maroc - 2M
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://imgur.com/XTFtchF.png" ,Maroc - ARRIADYA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
@@ -9,7 +9,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-ID="A" tvg-name=" " tvg-logo="https://imgur.com/2AACMqn.png" ,Maroc - AL MAGHRIBIA 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="hhttps://imgur.com/sopcFge.png" ,Maroc - ASSADISA 
+#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://imgur.com/sopcFge.png" ,Maroc - ASSADISA 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/uEk0OMu.png/150px-Logo_aflam_tv.png" ,Maroc - AFLAM TV 
 http://premium.pro4ott.com:8789/qkbkpyfd/atxyqet/4468
@@ -23,39 +23,39 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_b978000_DVR_slar.
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/S2l2isR.png" ,Maroc - TELE MAROC
 http://premium.pro4ott.com:8789/qkbkpyfd/atxyqet/28317
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/watania_tn_1.png" ,Tunisie - Watania 1
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/1ChviGh.png" ,Tunisie - Watania 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/watania_tn_2.png" ,Tunisie - Watania 2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/attessia-tv-tn.png" ,Tunisie - Tassiaa
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/XqQmEe0.png" ,Tunisie - Tassiaa
 http://iptvtree.net:8080/F11682/82ca5fbd/11237
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hannibal-tv-tn.png" ,Tunisie - Hannibal
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/Hg3APrb.png" ,Tunisie - Hannibal
 http://iptvtree.net:8080/F11682/82ca5fbd/1253
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nessma-tn.png" ,Tunisie - Nessma
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/i58g6sl.png" ,Tunisie - Nessma
 http://iptvtree.net:8080/F11682/82ca5fbd/11359
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syrian-satellite-channel-sy.png" ,Syria - Syria TV
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/hQ62TQm.png" ,Syria - Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syria-drama-sy.png" ,Syria - Syria Drama
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/W6BLDp0.png" ,Syria - Syria Drama
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alikhbaria-syria-sy.png" ,Syria - Syria News
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/7vWKNVe.png" ,Syria - Syria News
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syrian-educational-tv-sy.png" ,Syria - Syria Educational
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/HtGUjOf.png" ,Syria - Syria Educational
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sama-tv-sy.png" ,Syria - SAma Syria 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/8IsSHBm.png" ,Syria - SAma Syria 
 https://stream.sama-tv.net/hls/samatv.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syria-local-tv-sy.png" ,Syria - Almahaliya
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/c6H8pPu.png" ,Syria - Almahaliya
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nour-el-sham-sy.png	" ,Syria - Nour Esham
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/w0ki1hN.png	" ,Syria - Nour Esham
 http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/souryana-tv-sy.png" ,Syria - Souriana
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/XXQww5o.png" ,Syria - Souriana
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halab-today-tv-sy.png" ,Syria - Halab Today
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/PrY6mL4.png" ,Syria - Halab Today
 https://video1.getstreamhosting.com:1936/8320/8320/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo.png" ,Syria - Alaraby TV
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/Db1hRmI.png" ,Syria - Alaraby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.fadaatmedia.com/sites/default/files/styles/medium/public/2022-01/Alaraby_2_Logo_NoText.png" ,Syria - Alaraby 2 TV
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/HLnNcNZ.png" ,Syria - Alaraby 2 TV
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-logo_Approved04-1-300x276.png" ,Syria - Lana TV
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/QKj5EtA.png" ,Syria - Lana TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.dreamboxgate.com/imgcache/2021/528487_dreambox-sat.com.png" ,Syria - Lana+ TV
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/bYn24Tx.png" ,Syria - Lana+ TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
