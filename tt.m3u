@@ -6,7 +6,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snr
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRIADYA MAROC " tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="AR | MAROC",|AR| ARRIADYA MAROC 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRABIA TV" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/arrabiaa.png" group-title="AR | MAROC",|AR| ARRABIA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| ARRABIA TV" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/arrabiaa.png" group-tiptle="AR | MAROC",|AR| ARRABIA TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-ID="Al Maghribia ARB" tvg-name="|AR| AL MAGHRIBIA " tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_5_almaghribya.png" group-title="AR | MAROC",|AR| AL MAGHRIBIA 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
