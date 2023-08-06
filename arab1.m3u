@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/alaoulainter_2.png" ,Maroc - Aloula
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://lo1.in/LOGO/MOROCCO/alaoula.png" ,Maroc - Aloula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/2mmaroc.png" ,Maroc - 2M
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://lo1.in/LOGO/MOROCCO/2m.png" ,Maroc - 2M
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" ,Maroc - ARRIADYA
+#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://lo1.in/LOGO/MOROCCO/arriyadia.png" ,Maroc - ARRIADYA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/arrabiaa.png" ,Maroc - ARRABIA TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
