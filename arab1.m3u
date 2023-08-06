@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/O6Hipeb.png" ,Maroc - Aloula
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/cWE5KYM.png" ,Maroc - Aloula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://lo1.in/LOGO/MOROCCO/2m.png" ,Maroc - 2M
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="hhttps://imgur.com/dtTBpuF.png" ,Maroc - 2M
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://lo1.in/LOGO/MOROCCO/arriyadia.png" ,Maroc - ARRIADYA
+#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://imgur.com/XTFtchF.png" ,Maroc - ARRIADYA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/arrabiaa.png" ,Maroc - ARRABIA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|" tvg-logo="https://imgur.com/PlSKKrl.png" ,Maroc - ARRABIA TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="A" tvg-name=" " tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_5_almaghribya.png" ,Maroc - AL MAGHRIBIA 
+#EXTINF:-1 tvg-ID="A" tvg-name=" " tvg-logo="https://imgur.com/2AACMqn.png" ,Maroc - AL MAGHRIBIA 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/assadissa.png" ,Maroc - ASSADISA 
+#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="hhttps://imgur.com/sopcFge.png" ,Maroc - ASSADISA 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_aflam_tv.png/150px-Logo_aflam_tv.png" ,Maroc - AFLAM TV 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/uEk0OMu.png/150px-Logo_aflam_tv.png" ,Maroc - AFLAM TV 
 http://premium.pro4ott.com:8789/qkbkpyfd/atxyqet/4468
-#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_8_tamazight.png" ,Maroc - TAMAZIGHT 
+#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://imgur.com/ce5kzAE.png" ,Maroc - TAMAZIGHT 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_laayoune.png" ,Maroc - LAAYOUNE 
+#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://imgur.com/GCRaWO2.png" ,Maroc - LAAYOUNE 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/medi-1-tv-ma.png" ,Maroc - MEDI1 TV 
+#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://imgur.com/j2m7NNU.png" ,Maroc - MEDI1 TV 
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_b978000_DVR_slar.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/c2/%D8%B4%D8%AF%D9%89_%D8%A5%D9%81_%D8%A5%D9%85.png" ,Maroc - CHADA TV 
+#EXTINF:-1 tvg-ID="" tvg-name=" " tvg-logo="https://imgur.com/QwMMUnI.png" ,Maroc - CHADA TV 
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://logo-iptvpro.com/LOGO/ARABE/telemaroc.png" ,Maroc - TELE MAROC
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/S2l2isR.png" ,Maroc - TELE MAROC
 http://premium.pro4ott.com:8789/qkbkpyfd/atxyqet/28317
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/watania_tn_1.png" ,Tunisie - Watania 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
