@@ -59,3 +59,28 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/bYn24Tx.png" ,Syria - Lana+ TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/NpXvmli.png" ,UAE - Dubai ONE
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/OzJgw7n.png" ,UAE - Dubai Zaman
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/g0epqtF.png" ,UAE - Noor Dubai
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/ZhCfGRQ.png" ,UAE - Sama Dubai
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/Hl42XFI.png" ,UAE - Nat Geo AD
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/9SpUvlj.png" ,UAE - Sharjah TV
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/wTv2nd5.png" ,UAE - Sharjah TV 2
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/YwRLt1u.png" ,UAE - Abudhabi TV
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/wocJjhl.png" ,UAE - Majid TV
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/P1wmaSJ.png" ,UAE - Alarabiya
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/6Nmvhnm.png" ,UAE - Emarat TV
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/M53wVBy.png" ,UAE - Hawass TV
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+
