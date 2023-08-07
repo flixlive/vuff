@@ -8,7 +8,43 @@ http://livetv.ktv.zone/154/play.m3u8
 #EXTINF:-1 " tvg-logo="https://imgur.com/sAyINCt.png",Rai YOYO
 http://livetv.ktv.zone/153/play.m3u8
 #EXTINF:-1 " tvg-logo="https://imgur.com/YSgO62d.png",Rai Movie
-http://livetv.ktv.zone/157/play.m3u8
+http://livetv.ktv.zone/157/play.m3u8*
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/df01e6346dc5ff381ea735c61848773b.png",IT_Rai.1
+http://w.bs-share.com:8000/247179867825237/23141543216575/423575
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/f3e3e4dd982ec2ab2b73f95ec31e9862.png",IT_Rai.2
+http://w.bs-share.com:8000/247179867825237/23141543216575/423576
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/5b3eca60b73f30b95c65d8a9a4cbffb0.png",IT_Rai.3
+http://w.bs-share.com:8000/247179867825237/23141543216575/423577
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/0a9615139b806469a9538260b657dcc7.png",IT_Rai.4
+http://w.bs-share.com:8000/247179867825237/23141543216575/423578
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/301976965c282b380cf203b683047a61.png",IT_ITALIA.1.HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/423581
+#EXTINF:-1 group-title="ITALIE + SPORT",IT_Canale 7
+http://w.bs-share.com:8000/247179867825237/23141543216575/423585
+#EXTINF:-1 group-title="ITALIE + SPORT",IT_Rai 5
+http://w.bs-share.com:8000/247179867825237/23141543216575/423588
+#EXTINF:-1 group-title="ITALIE + SPORT",IT_La 7 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/423589
+#EXTINF:-1 group-title="ITALIE + SPORT",IT: RAI MOVIE HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/423590
+#EXTINF:-1 group-title="ITALIE + SPORT",IT: RAI PREMIUM HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/423591
+#EXTINF:-1 group-title="ITALIE + SPORT",IT_LA7d HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/423649
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/bf146b1d1d7281749d2715c20bbb9c46.png",IT_BOING.PLUS
+http://w.bs-share.com:8000/247179867825237/23141543216575/423656
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 2 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/424232
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 3 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/424233
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 4 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/424234
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/e1d80b64345b963d17a4631c5efe558d.png",IT RSI LA 1 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/438023
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/8f66d6ba7a5a0c00077c6eb2e16bd1be.png",IT RSI LA 2 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/438024
+#EXTINF:-1 group-title="ITALIE + SPORT",IT:TOP CRIME HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/438535
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/mBYxWOg.png",12 TV Parma (540p) 
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Y2pEs8H.png",16 Anni e Incinta Italy 
