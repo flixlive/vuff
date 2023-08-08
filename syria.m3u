@@ -1,0 +1,27 @@
+#EXTINF :
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/hQ62TQm.png" ,Syria - Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/W6BLDp0.png" ,Syria - Syria Drama
+http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/7vWKNVe.png" ,Syria - Syria News
+http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/HtGUjOf.png" ,Syria - Syria Educational
+http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/8IsSHBm.png" ,Syria - SAma Syria 
+https://stream.sama-tv.net/hls/samatv.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/c6H8pPu.png" ,Syria - Almahaliya
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/w0ki1hN.png	" ,Syria - Nour Esham
+http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/XXQww5o.png" ,Syria - Souriana
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/PrY6mL4.png" ,Syria - Halab Today
+https://video1.getstreamhosting.com:1936/8320/8320/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/Db1hRmI.png" ,Syria - Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/HLnNcNZ.png" ,Syria - Alaraby 2 TV
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/QKj5EtA.png" ,Syria - Lana TV
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/bYn24Tx.png" ,Syria - Lana+ TV
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
