@@ -1,0 +1,1207 @@
+#EXTM3U
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://pbs.twimg.com/profile_images/1498684702747774983/rSyuDSmo_400x400.jpg",CANAL 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?hdnts=exp=1656267791~acl=/*~hmac=e8c4066bd68bc6f8c7d71624209307e886598841fbbf4c57ec264a271d4dfd1a
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/320px-Canal-21.png",CANAL 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?hdnts=exp=1656268920~acl=/*~hmac=8fda93655adbfe1025b406ea7775f2e8f576dd0b7b3984173d4e4110b986a18a
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/640px-Canal_10_%28El_Salvador%29_2019.svg.png",CANAL 10 SD
+http://138.59.177.34:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.imgur.com/yk46NxC.png",1 | WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TU-TV-El-Salvador-Canal-11-en-vivo-Online.png?resize=696%2C392&ssl=1",CANAL 11 TUTV
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://www.freeetv.com/images/02_logo/tvu_salvador.jpg",TV USULUTECA
+http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png",CANAL 12
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+#EXTINF:-1 ,CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://static.wixstatic.com/media/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png/v1/fill/w_260,h_246,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png",CANAL 65
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1599px-Deutsche_Welle_symbol_2012.svg.png",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",RT EN ESPAÑOL
+https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-P9Bv-kq6Etg/VMAEpcl4wOI/AAAAAAAABk8/0-MRckwugTM/s1600/nick-classicos-500x250.jpg",NICK CLASICO JR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-P9Bv-kq6Etg/VMAEpcl4wOI/AAAAAAAABk8/0-MRckwugTM/s1600/nick-classicos-500x250.jpg",NICK JR CLUB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-P9Bv-kq6Etg/VMAEpcl4wOI/AAAAAAAABk8/0-MRckwugTM/s1600/nick-classicos-500x250.jpg",NICK CLASICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=bc342b32-6e53-468c-9a43-1cbc213945ac&clientModelNumber=na&deviceDNT=false&deviceId=bc342b32-6e53-468c-9a43-1cbc213945ac&deviceLat=13.7066&deviceLon=-89.2053&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d5b8a4f4-6969-11eb-ac8e-0242ac110002&sid=d5b8a4f4-6969-11eb-ac8e-0242ac110002&userId=
+#EXTINF:-1 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/featuredImage.jpg",BOB ESPONJA
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/460px-Bob_esponja_logotipo.svg.png",BOB SPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://i.pinimg.com/236x/54/cc/c6/54ccc6489166a7b5deeca24728f98f67--movies-free-in-the-middle.jpg",MALCOM
+http://51.159.104.29:8080/malcom/index.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Ben-10-logo-720x473.png",BEN 10
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:-1 ,NICKTEEN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="24/7" tvg-logo="https://www.infobae.com/new-resizer/gDDr1pjxwOk8ikXEw7g68Sd-ZmQ=/768x432/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/05/02150322/Los-tres-chiflados-1920.jpg",LOS 3 CHIFLADOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png",TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png",UNIVISION
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.ts
+#EXTINF:-1 ,RADIO FUEGO
+https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/master.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png",SKY MX
+http://168.228.194.33:48001/play/a0au/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/152px-FOX_Deportes_logo.svg.png",Fox Deportes
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp",ESPN 3 SD
+http://45.179.140.242:8000/play/a0je
+#EXTINF:-1 group-title="ESPAÑA",Dazn La Liga 🇪🇸
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+#EXTINF:-1 group-title="ESPAÑA",Dazn 1 🇪🇸
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+#EXTINF:-1 group-title="ESPAÑA",Dazn 2 🇪🇸
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M+ LIGA DE CAMPEONES
+http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg?p=facebook",BEIN EXTRA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://www.radioextremacr.com/img/logo.png",CARTOONS
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.radioextremacr.com/img/logo.png",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniBkt2owc7521PEADA6YRtBj-pHALzuFFgnJy5eZQ=s240-c-k-c0x00ffffff-no-rj",WTV NIC
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://confidencial.digital/wp-content/uploads/2022/11/logo_canal_61.png",Canal 6 Nicaragua
+http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://www.canal10.com.ni/wp-content/uploads/2020/10/logo_mini.png",Canal 10 Nicaragua
+http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Tv%20Florencia.png",TV FLORENCIA
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Teleonce_%28Guatemala%29.png",TELE11
+http://45.228.234.77:3340/play/canal_once/index.m3u8
+#EXTINF:-1 ,TELE11.
+https://na.gt-app.com:2083/live/UIapp/qLzpvNzf04JgYjTvKbGjMnRoLgXf/3.ts
+#EXTINF:-1 ,CANAL 8
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:-1 group-title="CULTURA",ECUARADIO TV
+https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.orotv.es/images/2020/canales-azmundo.png",TV Azteca Mundo
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.orotv.es/images/2020/canales-azcorazon.png",TV Azteca Corazon
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 ,CANAL 4 JUJUY
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/CxJN3qj.png",Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg",FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1",ADN 40
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="NOTICIAS",MEGA CL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 ,NICOYA TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2018/05/dbz-logo.jpg",DRAGON BALL
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2336.m3u8
+#EXTINF:-1 ,ESTRELLA TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1600px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN
+http://190.171.101.36/CNN/index.m3u8?token=ADM1-1659291007-74e5b4871adfefeaf0f42a18956a230fc9420dab
+#EXTINF:-1 ,Animal Planett
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.ts
+#EXTINF:-1 group-title="MEXICO",DISCOVERY KIDS
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
+#EXTINF:-1 ,WARNER
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.ts
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png",UNIVERSAL CINEMA
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.ytimg.com/vi/cRTl-lInUAo/maxresdefault.jpg",Dreamworks
+http://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
+#EXTINF:-1 group-title="CENTROAMERICA",HBO
+http://190.171.101.36/HBO/tracks-v3a2/mono.m3u8
+#EXTINF:-1 group-title="RUSSIA",RAI ITALIA
+http://190.171.101.36/Rail/index.m3u8?token=ADM1-1659291123-82f9a51b0f5255d7faa0298e4af7fad98477613d
+#EXTINF:-1 group-title="RELIGIOSOS",CRISTIANO TV
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC39000033J_20221026T010920.png",El PAIS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC1400001L8_20221109T010708.png",EL CONFIDENCIAL
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=samsung.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg",XTREMA ANIME
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg",CINE INFANTIL
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoRETROCARTOONS2-1.jpg",RETRO INFANTIL
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 group-title="CABLE",CANAL 34 PR
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",CINE CLÁSICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://www.sarapiquitvcr.com/images/100.png",STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 group-title="CABLE",QUINCE UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
+#EXTINF:-1 group-title="CABLE",PLANETA TV KIDS
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 ,MONI TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/R6738GE.png",PREMIERE 1HD
+http://51.83.238.223:16725
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/R6738GE.png",PREMIERE 2HD
+http://185.150.190.225:16482/
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/R6738GE.png",PREMIERE 3HD
+http://185.150.190.225:16476/
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/R6738GE.png",PREMIERE 4HD
+http://185.150.190.225:16472/
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/300px-Canal_Golden_logo.svg.png",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="CABLE",NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="http://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",NICK LATINO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.imgur.com/roN9yBg.png",NICK
+https://v3.playerlatino.live/stream/m3u8/645
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/446px-TN_todo_noticias_logo.svg.png",TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png",DAZN
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.ts
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png",CANAL 4 ESA
+http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png",CANAL 6 ESA
+http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png",CANAL 2 ESA
+http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN PA
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png",Nat Geo Wild
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+#EXTINF:-1 group-title="RUSSIA" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",MATCH TV
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIA" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/ab60/61f4/ab6061f4cecf5112c21bd1e549f467dc.jpg",MATCH 2
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIA" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/3d63/1cbe/3d631cbef4cc0b09408fc9ac1ada1a99.jpg",MATCH 3
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL",ESPN 4 BR HD
+http://89.38.96.234:14525/
+#EXTINF:-1 group-title="RUSSIA",ARENA SPORTS 3
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+#EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/350px-LaLiga_Santander_logo_%28stacked%29.svg.png",LIGA ESPAÑOLA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png",PREMIER LEAGUE
+http://190.83.60.34:1414/play/a036
+#EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png",BUNDESLIGA
+http://168.228.194.33:48001/play/a09m/index.m3u8
+#EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://stconcacafwp001.blob.core.windows.net/media/h41jui1q/gc-menu-logo-es.png",COPA ORO opc 2
+http://190.61.101.9:9000/play/a03a/index.m3u8
+#EXTINF:-1 ,L QUIPE
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg",EL CHAVO
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://www.themoviedb.org/t/p/w1280/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png",LA FAMILIA PELUCHE
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=108&f=.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg",LA ROSA DE GUADALUPE OPC 2
+https://v3.playerlatino.live/stream/m3u8/886|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="24/7" tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg",LA ROSA DE GUADALUPE
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 ,TURKMEN TV
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1600px-UFC_Logo.svg.png",UFC
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 group-title="CABLE",TU UNIVERSO TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png",Rocket Power
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:-1 ,SAN MARINO SPORT
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE",TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png/v1/crop/x_233,y_353,w_1480,h_333/fill/w_894,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ID%20VARIEDTV%20WEB.png",VARIEDTV
+https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w415121730.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp",RETRO CARTOONS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="24/7" tvg-logo="https://d2snwnmzyr8jue.cloudfront.net/via_kek222a_270.jpeg",KENAN & KEL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://m.media-amazon.com/images/I/71ffizLpXcL.png",TOON GOGGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png",CANAL INFANTIL
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-768x519.png",DIOS TV KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO.png",DIOS TV
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://static.wixstatic.com/media/7acae1_3e1035966c6443d8a18aca291c038e4a~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Penielky.png",PENIEL K&Y
+https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
+#EXTINF:-1 group-title="CABLE",TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/300px-Canal6CR.png",CANAL 6 CR
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3%A1s_2_Logo.svg.png",TD+2
+https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3%A1s_2_Logo.svg.png",TD+
+http://190.171.101.36/TD2/index.m3u8?token=ADM1-1659291194-84fd5abb62fbef72467d2fcfdf37e92d3168046b
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/400px-Teletica_Logo.png",TELETICA
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://www.telelima.pe/logo.png",TELELIMA
+http://38.44.237.132:2080/TeleLima/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png",RSV
+https://stmv1.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/1200px-Repretel_11_logo.png",CANAL 11 CR
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11_720.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg",Bein Sports Extra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&profilesFromStream=true
+#EXTINF:-1 group-title="24/7" tvg-logo="https://cdn-hobbyconsolas-com.cdn.ampproject.org/i/s/cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/11/avatar-leyenda-aang-netflix-2538979.jpg",CASO CERRADO
+https://tinyurl.com/2qf6qovz
+#EXTINF:-1 group-title="24/7" tvg-logo="https://www.dafont.com/forum/attach/orig/5/0/50601.gif",CANDY CANDY
+https://v3.playerlatino.live/stream/m3u8/808|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="RUSSIA" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/042c/80f5/042c80f5a8074b9d3458af1561ba5ec0.jpg",MATCH 1
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="http://www.gentvoficial.com/img/gentv.jpg",GEN TV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO CA
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tyc-sports_m.png",TYC SPORTS
+http://45.179.140.242:8000/play/a0k7
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/dtvsports.webp",DI SPORTS
+https://v3.playerlatino.live/stream/m3u8/259%7Cuser-agent=Lavf/57.71.001
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online.png",CANAL 9 CR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://www.descargas.com/images/5848/canal-25-sr-oficial_android_1973_1.png",CANAL 25 GT
+https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/400px-Canal3GT2022.png",CANAL 3 GT
+http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/400px-Canal7GT2022.png",CANAL 7 GT
+http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png",TN23 GT
+http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
+#EXTINF:-1 group-title="CABLE",CANAL 28 ATV
+https://emisoras.hn:8081/atv/index.m3u8
+#EXTINF:-1 group-title="RUSSIA",RTS SPORT
+http://79.106.90.124:5151/live/rtshsport/playlist.m3u8?
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1024px-Boing.svg.png",BOING
+http://91.126.182.211:9981/stream/channelid/1052784018?profile=pass
+#EXTINF:-1 group-title="CABLE",Azteca Guate
+http://190.122.96.187:8888/http/002
+#EXTINF:-1 group-title="CABLE",Sanvito TV
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=UniversoSport
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s88-c-k-c0x00ffffff-no-rj",Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA",CANAL 6 NICA
+https://cootv.cootel.com.ni:8095/Canal06_CooTel/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/49pK1bB.png",Información Periodística
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://lasbuenasnuevas.ca/wp-content/uploads/2021/10/unnamed.jpg",CBN Español
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="http://www.asiesmigente.com/wp-content/uploads/2018/11/logo_header2.png",ASI ES MI GENTE TV
+https://www.yupi.live:1936/tvmigente/tvmigente/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png",TIGO SPORTS GT
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg",FS1 USA
+http://41.205.93.154/FOXSPORTS1/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2 USA
+http://41.205.93.154/FOXSPORTS2/index.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://www.diariotrv.com/media/diariotrv/images/2022/07/03/2022070322053487885.png",TRV
+http://64.71.148.2:1935/latin/encoder44/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png/v1/fill/w_524,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/totovision.png",TOTOVISION
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://radioyskl.com/wp-content/uploads/2019/04/Radio-Cadena-YSKL-232x300.png",YSKL RADIO
+http://media.dominiocreativo.com:8000/
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://www.appcreator24.com/srv/imgs/temp/ku149rxsjb_1_p.png",ELIM RADIO
+http://cdn-radio.elim.org.sv:8007/mp3_64
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://www.televisionfamiliar.com/wp-content/uploads/2022/08/logo_header.png",TV FAMILIAR
+https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
+#EXTINF:-1 group-title="SD",COMEDY CENTRAL
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1 group-title="SD",TOONCAST
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1 group-title="SD",SPACE
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1 group-title="SD",PARAMOUNT
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1 group-title="SD",TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 group-title="SD",DISCOVERY
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1 group-title="SD",ANTENA 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1 group-title="SD",FOX SPORTS mx
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 group-title="SD",NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1 group-title="SD",HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+#EXTINF:-1 group-title="SD",PASIONES
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+#EXTINF:-1 group-title="SD",CINE CANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1 group-title="SD",MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1 group-title="SD",STUDIO UNIVERSAL
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1 group-title="SD",CARTOON NETWORK
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1 group-title="SD",WB TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1 group-title="SD",FOX SPORTS 2 mx
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 group-title="SD",ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 group-title="SD",ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1 group-title="SD",SONY CHANEL
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1 group-title="SD",NICK MUSIC
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1 group-title="SD",TELEMUNDO
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 group-title="SD",TRU TV
+http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
+#EXTINF:-1 group-title="SD",AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 group-title="SD",CARTOONITO
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+#EXTINF:-1 group-title="SD",HISTORY
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1 group-title="SD",SYFY
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+#EXTINF:-1 group-title="SD",BABY TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1 group-title="SD",CNN
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+#EXTINF:-1 group-title="SD",MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+#EXTINF:-1 group-title="SD",UNIVERSAL TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1 group-title="SD",UNIVERSO
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+#EXTINF:-1 group-title="SD",ENI
+http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+#EXTINF:-1 group-title="SD",ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+#EXTINF:-1 group-title="SD",ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+#EXTINF:-1 group-title="SD",TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1 group-title="SD",AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1 group-title="SD",NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1 group-title="SD",HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1 group-title="SD",KANAL D
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+#EXTINF:-1 group-title="SD",DREAMWORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1 group-title="SD",H&H
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+#EXTINF:-1 group-title="SD",FOX SPORTS 3 mx
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 group-title="SD",TURBO
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1 group-title="SD",NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1 group-title="SD",ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1 group-title="SD",FOX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+#EXTINF:-1 group-title="SD",TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+#EXTINF:-1 group-title="SD",CANAL 11 GT
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+#EXTINF:-1 group-title="SD",MODO CINE
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+#EXTINF:-1 group-title="SD",GOLDEN
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+#EXTINF:-1 group-title="SD",FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+#EXTINF:-1 group-title="SD",TNT SPORTS CHI
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1 group-title="SD",ENLACE
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+#EXTINF:-1 group-title="SD",HINSPAN TV
+http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+#EXTINF:-1 group-title="SD",TELEMUNDO INTER
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+#EXTINF:-1 group-title="SD",IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+#EXTINF:-1 group-title="SD",LIFETIME
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+#EXTINF:-1 group-title="SD",E
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+#EXTINF:-1 group-title="SD",HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1 group-title="SD",A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1 group-title="SD",ESPN Sur
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=158&f=.m3u8
+#EXTINF:-1 group-title="SD",ESPN 2 Sur
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=148&f=.m3u8
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ceGk1VcuI8pSXQhSlnqsqTFCPLD.jpg",Tarzan (1999)
+http://144.217.70.79/VODS-M/1080P/Tarzan%201999.mkv
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dvjFM3GgYm3gDZ6Ulw0JurDYs4r.jpg",BARBIE CASTILLO DE DIAMANTES
+http://archive.org/download/15902146490988087416513007050637/6.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500",BARBIE EL DIARIO DE BARBIE
+http://archive.org/download/15902146490988087416513007050637/10.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/sLpCLVQWTU7BI4yAL6kIFM9J3eX.jpg",BARBIE EL LAGO DE LOS CISNES
+http://archive.org/download/15902146490988087416513007050637/9.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/wn2aoYKOonwMNKkzfgO5y4ji8pB.jpg",BARBIE EL SECRETO DE LAS HADAS
+http://archive.org/download/15902146490988087416513007050637/7.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/lI2jPbssax6XX5vDqB9mTJHGzfH.jpg",BARBIE ESCUELA DE PRINCESAS
+http://archive.org/download/15902146490988087416513007050637/8.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500",BARBIE LA MAGIA DEL PAGASO
+http://archive.org/download/15902146490988087416513007050637/4.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500",BARBIE LAS 3 MOSQUETERAS
+http://archive.org/download/15902139288862477066218214529000/2.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jtOlo3AaXVBnqfMeKGFrZUMPFui.jpg",BARBIE UNA AVENTURA DE SIRENAS
+http://archive.org/download/15902139288862477066218214529000/3.mp4
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,2,380,562_.jpg",SHREK 1
+http://archive.org/download/e0be10b1b8a58ca1683b94f291114605-480p/jsiuwuwu.mp4
+#EXTINF:-1 group-title="HD",MTV
+https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
+#EXTINF:-1 group-title="HD",CINEMAX
+https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
+#EXTINF:-1 group-title="HD",STUDIO UNIVERSAL
+https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+#EXTINF:-1 group-title="HD",UNIVERSAL TV
+https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
+#EXTINF:-1 group-title="HD",FX
+https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
+#EXTINF:-1 group-title="HD",A&E
+https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1600px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN
+http://45.228.234.77:3340/play/cnnespaniol/index.m3u8
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png",TV DEL ESTE
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/featuredImage.jpg",NICKTEEN
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage.jpg",LOS PADRINOS MAGICOS
+https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/bbcnews.php
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/abcaustralia.php
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+#EXTINF:-1 ,#EXTVLCOPT--http-reconnect=true
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011
+#EXTINF:-1 ,#EXTVLCOPT--http-reconnect=true
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",IDMAN TV
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png",POCOYÓ
+https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg",Volver al Futuro | REGIOFLIX
+https://archive.org:443/download/videotime-cine-latino/Volver%20al%20futuro%201.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg",Volver al Futuro 2 | REGIOFLIX
+https://archive.org:443/download/videotime-cine-latino/Volver%20al%20futuro%202.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg",Volver al Futuro 3 | REGIOFLIX
+https://archive.org:443/download/videotime-cine-latino/Volver%20al%20futuro%203.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/FWdM57_XEAM9FC2?format=jpg&name=large",BEBE SUELTO | REGIOFLIX
+https://archive.org/download/4523-cuidado-bebe-suelto-1994-720p-d-s-spa-eng-web-dl-v/4523-Cuidado%20Bebe%20Suelto%20%281994%29%20720p%20D%20S%20spa%20eng%20WEB-DL%20v.ia.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/jesus_of_nazareth-101677941-mmed.jpg",JESUS DE NAZARETH (1977)
+https://ia601400.us.archive.org/33/items/jes-naz-esp-lat/Jes%C3%BAs%20de%20Nazareth%20%281977%29.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-biblia-en-su-principio-37189_SPA-65.jpg",La Biblia... En el Principio (1966)
+https://ia601504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20La%20Biblia%20En%20el%20Principio%20%281966%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://vecindadch.com/wp-content/uploads/2015/07/ep-vacaciones-acapulco.jpg",EL CHAVO ACAPULCO (1977)
+https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png",UCV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png",DE PELICULA
+https://v3.playerlatino.live/stream/m3u8/481
+#EXTINF:-1 group-title="MEXICO",HBO FAMILY
+https://v3.playerlatino.live/stream/m3u8/968
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1672073379338-Claro_sports_2.webp",CLARO SPORTS 2
+http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://v3.playerlatino.live/stream/m3u8/946
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png",Azteca 7
+http://168.228.194.33:48001/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://notired.hol.es/wp-content/uploads/2017/08/hispantv.png",HispanTV
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://photos.live-tv-channels.org/tv-logo/sv-canal-57-6594-300x225.jpg",668 | Canal 57 Apopa TV || EL SALVADOR
+https://streaming.grupocsanetwork.net:3424/canal57/canal57/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",TVO
+http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/Arirang-TV-Logo.jpg",Arirang TV Korea
+https://amdlive-ch01-ctnd-com.akamaized.net:443/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://i.imgur.com/L0zLsl9.png",BLACKGHOST 01
+http://bgtv.site/TV
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/dAyJqJ8KoglZysttC6BfVmDFQUt.jpg",A través del mar 2023
+https://archive.org/download/01_20230623_20230623_1813/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de Rescate 2 2023
+https://archive.org/download/01_20230623_20230623_1839/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8fk4l8PvGGjHYCUpA4gGbyIoS3S.jpg",Sé tu misma 2023
+https://archive.org/download/01_20230623_20230623_2021/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",Culpa mía
+https://archive.org/download/01_20230623_20230623_2005/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",Black Clover: La espada del rey mago
+https://archive.org/download/01_20230623_20230623_1910/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",Flash
+https://archive.org/download/01_20230623_20230623_1636/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg",Nimona
+http://208.88.245.85/nuevo/nimona.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",Suzume
+http://208.88.245.85/nuevo/suzume.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Suegros de armas tomar
+http://208.88.245.85/nuevo/suegros.dearmas.tomar.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",Reposo absoluto
+http://208.88.245.85/nuevo/reposo.absoluto.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg",El rey de los clones
+http://208.88.245.85/nuevo/rey.delos.clones.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9xvEhZZMOmLIkqe4khrtF5TkOnO.jpg",El mejor del mundo
+http://208.88.245.85/nuevo/el.mejor.delmundo.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",Ofrenda al demonio
+http://208.88.245.85/nuevo/ofrenda.aldemonio.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hAKV3WLdHOL313IImAoR2GFWC1W.jpg",Maquillame otra vez
+http://208.88.245.85/nuevo/maquillame.otravez.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",The Black clover la espada del rey
+http://208.88.245.81/nuevo/blacklover.espadadelreymago.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya
+http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto
+http://208.88.245.81/nuevo/el.pacto.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",The flash
+http://208.88.245.81/nuevo/the.flash.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/3AhywIKyyom2ec8RgDxy2wTEGyg.jpg",Invasión secreta
+https://archive.org/download/01_20230623_20230623_1954/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers despertar de las bestias
+http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg",Lego friends
+http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9aYflMUqFZo5zEbquNmVSQpFfby.jpg",Los blancos no saben saltar
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/40UPlmnQcG71KSmjijksZjbsH2q.jpg",La usurpadora
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2
+http://208.88.245.85/nuevo/extraction.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg",Taz odisea por las hamburguesas
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uYxrWr9o44yO0HvVfFFHGu01gfX.jpg",La niña de la comunión
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",Flaminhot
+http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023)
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023)
+https://archive.org/download/01_20230602_20230602_1628/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: A través del Spider-Verso (2023)
+https://archive.org/download/01_20230602_20230602/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2axXVpi3dKfESWzgncbakLB7o7f.jpg",La princesa cisne
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",Ellas quieren más
+http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/nRVnpz4dzRvknK0BANjJ76dP0D3.jpg",Big Mack gangsters
+http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",El último vagón (2023)
+https://archive.org/download/01_20230602_20230602_2139/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023)
+https://archive.org/download/01_20230602_20230602_2101/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2lEyzOq6ILNgBpLLpTRckQhbNNt.jpg",la pelicula
+https://archive.org/download/01_20230602_20230602_1944/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",Pearl (2022)
+https://archive.org/download/01_20230602_20230602_2008/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",Hypnotic
+https://archive.org/download/01_20230602_20230602_2054/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/snkWwY1gEk7n1azAZi4WPW6PZ3h.jpg",El año en que empecé a masturbarme
+https://archive.org/download/01_20230602_20230602_2114/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",Quiero Tu Vida (2023)
+https://archive.org/download/01_20230602_20230602_1700/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita Suegra (2023)
+https://archive.org/download/01_20230602_20230602_1653/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/j741ip55NOzabrllOXHJv2vpag7.jpg",Día de la Madre (2023)
+https://archive.org/download/01_20230602_20230602_1709/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",Book Club: Ahora Italia (2023)
+https://archive.org/download/01_20230602_20230602_1723/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4rS1rcaeIJd2zdTn2G8RMfTNeiV.jpg",Reality (2023)
+https://archive.org/download/01_20230602_20230602_1730/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg",Rock dog 3
+http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicolle
+http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",El último vagon
+http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",Nada qué ver
+http://208.88.245.85/nuevo/nadakver.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir
+http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater
+http://208.88.245.81/nuevo/crater.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita suegra
+http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/j741ip55NOzabrllOXHJv2vpag7.jpg",Hasta la madre
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicole Smith: Tú no me conoces (2023)
+https://archive.org/download/01_20230520_20230520_2211/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kY13qAaWf5BOzdN15LkM89vDiNY.jpg",Fanfik (2023)
+https://archive.org/download/01_20230520_20230520_2157/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rdtgGyd1HEkODzm7he8TVlAwSob.jpg",Air: La historia detrás del logo (2023)
+https://archive.org/download/01_20230520_20230520_2013/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/iKcnbqhKvlwfF4CnMVlRrYlOvM5.jpg",Air (2023)
+http://208.88.245.85/nuevo/air.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",La madre (2023)
+http://208.88.245.85/nuevo/la.madre.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar (2023)
+http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos X (2023)
+https://archive.org/download/01_20230519_20230519_2125/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78W8tIM3PgIO6OIMfugi6p1GHNT.jpg",Black Knight (2023)
+https://archive.org/download/01_20230514_20230514_2127/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater (2023)
+https://archive.org/download/01_20230514_20230514_2220/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2gkKRFDiuSvBB57glAMBsdRGeWk.jpg",Royalteen: Princess Margrethe (2023)
+https://archive.org/download/01_20230514_20230514_2224/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen (2023)
+https://archive.org/download/01_20230513/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/p1hH2FXEUHuY5kzm9bEBxEmdD8D.jpg",Linaje Oscuro (2022)
+https://archive.org/download/01_20230513_202305/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNYtkngatCVyDvbSkaYV2ZOr0lS.jpg",La madre (2023)
+https://archive.org/download/01_20230512_20230512_2326/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir (2023)
+https://archive.org/download/01_20230509_202305/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/u3M1bVxEbIe3BVkFJWwMi8DIea1.jpg",Sustitutos (2023)
+https://archive.org/download/01_20230509_20230509/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar (2023)
+https://archive.org/download/01_20230509_20230509_1915/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",Quiero tu vida (2023)
+http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",Ghosted (2023)
+http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",Renfield: Asistente de vampiro (2023)
+http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",hoy y siempre (2023)
+http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg",Peter Pan y Wendy (2023)
+http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la Galaxia volumen 3 (2023)
+https://archive.org/download/01_20230506_20230506_1652/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",Renfield (2023)
+https://archive.org/download/01_20230504_20230504_1831/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",Dungeons y Dragons: Honor entre ladrones (2023)
+https://archive.org/download/01_20230504_20230504_1812/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",El exorcista del papa (2023)
+https://archive.org/download/01_20230504_20230504_1822/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg",El Club de los Asesinos (2023)
+https://archive.org/download/01_20230504_20230504_1804/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2NBxSwARcPi4wwpLH1wyFWKXeJo.jpg",Citadel
+https://archive.org/download/01_20230502_20230502_0257/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uUeLr12fYHvVPyjI3Hjr2fZ7NaK.jpg",Poker Face (2023)
+https://archive.org/download/01_20230502_20230502_0234/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg",Clock (2023)
+https://archive.org/download/01_20230502_20230502_0224/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/xnouzPXu3xjhy437LeogB4L9nkg.jpg",Alias (2023)
+https://archive.org/download/01_20230502_20230502/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg",Legado de sangre (2023)
+https://archive.org/download/01_20230428_20230428_1931/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",Scream VI (2023)
+https://archive.org/download/01_20230428_20230428/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/wLSytRNOCq4Epz6cL9INHPJOrg0.jpg",Jesus Revolution (2023)
+https://archive.org/download/01_20230428_202304/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg",Peter Pan y Wendy (2023)
+https://archive.org/download/01_20230429_20230429/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",Ghosting (2023)
+https://archive.org/download/01_20230423/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gbGHezV6yrhua0KfAgwrknSOiIY.jpg",Supercell (2023)
+https://archive.org/download/01_20230422_20230422_1907/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/suASijYyJ3jwwEfPki1V3R8vuO9.jpg",Game of Love (2023)
+https://archive.org/download/01_20230422_20230422_1912/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/wUVuJXnBfNpSwvSDGnqzZ5VUBwP.jpg",Dieciocho Otra Vez  (2023)
+https://archive.org/download/01_20230422_20230422_1852/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uWkpjbBe4gRZilXRXbYfsMUZMhz.jpg",Guia de Viaje hacia el Amor  (2023)
+https://archive.org/download/01_20230422_20230422_1845/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",hoy y siempre
+https://archive.org/download/01_20230422_20230422_1858/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4EbeUgW9V5X4fabqWejxSZa4wtC.jpg",Crímenes En Chinatown
+https://archive.org/download/01_20230419_20230419_1553/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",Chupa (2023)
+https://archive.org/download/01_20230409_20230409/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/pufQnUSzjrf70cHR3mGxG0eXHem.jpg",Fuga de Reinas (2023)
+https://archive.org/download/01_20230415_20230415_2331/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hYR2doH3arnX0Y6WULuBPbtaLjN.jpg",El hijo(2022)
+https://archive.org/download/01_20230415_20230415_2325/01.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",Scream 5
+http://regioplay.xyz/604023/Scream5Grita.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",Spider Man No Way Home
+http://regioplay.xyz/604023/SpiderManNoWayHome2021.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",365 dias Aquel dia
+http://regioplay.xyz/604023/365.Dias.Aquel.dia.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",Uncharted
+http://regioplay.xyz/604023/Uncharted.2022.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/wGcxQDM60CDgKeBzsCg0pV6RAyW.jpg",Que despadre
+http://regioplay.xyz/604023/Qu%C3%A9.despadre.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",Sonic 2
+http://regioplay.xyz/604023/Sonic.2.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg",Memory: Asesino sin memoria
+http://regioplay.xyz/604023/Memory.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg",Chip and Dale
+http://regioplay.xyz/604023/Chip.n.Dale.Rescue.Rangers.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",Fresh
+http://regioplay.xyz/604023/Fresh.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg",Father Stu
+http://regioplay.xyz/604023/Father.Stu.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",Jurassic World Dominio
+http://regioplay.xyz/604023/JurassicWorldDominio.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lr11mCT85T1JanlgjMuhs9nMht4.jpg",Telefono negro
+http://regioplay.xyz/604023/El.Telefono.Negro.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",LightYear
+http://regioplay.xyz/604023/lightyear.2022.SRREGIO.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",Minions Nace un villano
+http://regioplay.xyz/604023/Minions.NaceUnVillano.SrRegio.Net.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",Predator: Prey
+http://regioplay.xyz/604023/Predator_Prey_SrRegio.Net.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/fR49hZdFJ6ZtRS23JW79VYmZgI7.jpg",Las Leyendas: El Origen
+http://regioplay.xyz/604023/Las.leyendas.El.origen.2021.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg",365 dias mas
+http://regioplay.xyz/604023/365.Days.Part.III.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",LUCK
+http://regioplay.xyz/604023/Luck.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/561TUe0s63tKVMMj9IZznGNoWLH.jpg",Y como es el?
+http://regioplay.xyz/604023/Backseat.Driver.2020..lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tsk3MrYrSKGRNCOm2DYaDxLh6KR.jpg",Mentada de padre
+http://regioplay.xyz/604023/Mentada.de.padre.2019.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",COCO
+http://regioplay.xyz/604023/coco.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",Space Jam Una Nueva Era
+http://regioplay.xyz/604023/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7he8glf7j41d3amgf4Nbpt3HVq1.jpg",Un rescate de huevitos
+http://regioplay.xyz/604023/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",Rapidos y Furiosos 9
+http://regioplay.xyz/604023/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vlUJOOyIsyUk5P770RF0Rbg7aLd.jpg",You´re not alone
+http://regioplay.xyz/604023/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",No respires 2
+http://regioplay.xyz/604023/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg",La calle del terror P1
+http://regioplay.xyz/604023/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",Free Guy
+http://regioplay.xyz/604023/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",Halloween Kills
+http://regioplay.xyz/604023/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7AKS0KlPv9WdgzbGj5kdP6WKb9q.jpg",Isabelle 2018
+http://regioplay.xyz/604023/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/y37QvulwOJ1uv0onnDB4ocWEQZn.jpg",Una momia en Halloween
+http://regioplay.xyz/604023/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6a1iqhfM0Y31kNPOSNPIuPrsYQ6.jpg",Polaroid
+http://regioplay.xyz/604023/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg",Nobody sleeps in the woods tonight
+http://regioplay.xyz/604023/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/12qaWw3KntFPoOCEJFSCLAuL7rN.jpg",A un paso de mi
+http://regioplay.xyz/604023/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",Shang Chi La Leyenda de los 10 anillos
+http://regioplay.xyz/604023/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/dSU7wJBbBdcx1XtTzH83iJcn3TI.jpg",Alerta Roja
+http://regioplay.xyz/604023/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg",Por Fin Solo en Casa
+http://regioplay.xyz/604023/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",VENOM carnage liberado
+http://regioplay.xyz/604023/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/l8Bn3Hr2mSRRRhuzspv9Ywj1Bbq.jpg",Franco Escamilla:Bienvenido al mundo
+http://regioplay.xyz/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg",El diario de Greg
+http://regioplay.xyz/604023/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/bPq6x47nEqMZED5PrKelcWWpezM.jpg",La casa de los abuelos
+http://regioplay.xyz/604023/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",Canta 2
+http://regioplay.xyz/604023/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/xCTn3IA729UuyvB4rY65fiOOzUv.jpg",Cazafantasmas: El Legado
+http://regioplay.xyz/604023/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lFByFSLV5WDJEv3KabbdAF959F2.jpg",Eternals
+http://regioplay.xyz/604023/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/oifhfVhUcuDjE61V5bS5dfShQrm.jpg",Clifford El Gran Perro Rojo
+http://regioplay.xyz/604023/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",Supermascotas
+http://regioplay.xyz/604023/DC.League.of.Super.Pets.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",NOPE
+http://regioplay.xyz/604023/Nope.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg",Hocus Pocus 2
+http://regioplay.xyz/604023/Hocus.Pocus.2.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/mkRQn520JQD07BNP03NK3iKCaPD.jpg",Una noche en el museo: El regreso de Kahumunrah
+http://regioplay.xyz/604023/Night.at.the.Museum.Kahmunrah.Rises.Again.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kw0G0kPguSWxRQ524uYj9GaK9JU.jpg",Atrapados en el Cubo
+http://regioplay.xyz/604023/Cube.2021.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",Pinocchio
+http://regioplay.xyz/604023/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",Emancipacion
+http://regioplay.xyz/604023/Emancipaci%C3%B3n.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gBBCBMXKzWRADtliUYfV69aVIcz.jpg",Huevitos congelados
+http://regioplay.xyz/604023/Huevitos.congelados.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/d0RgJjlxH3uEPRpo3TROI2uiKwC.jpg",Gato con botas
+http://regioplay.xyz/604023/Puss.in.Boots.The.Last.Wish.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",El Menu
+http://regioplay.xyz/604023/The.Menu.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther Wakanda Forever
+http://regioplay.xyz/604023/Black.Panther.Wakanda.Forever.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/cF0pwv6ce82pPVCIEzB5ArnuIZx.jpg",Mirame
+http://regioplay.xyz/604023/M%C3%ADrame.2021.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",Oso vicioso
+http://regioplay.xyz/604023/Cocaine.Bear.2023.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg",The Fallen Sun
+http://regioplay.xyz/604023/Luther.The.Fallen.Sun.2023.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",Jack in the box 2
+http://regioplay.xyz/604023/The.Jack.in.the.Box.Awakening.2022.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ohaIkrTd47z43IuLlwwNg7bi96c.jpg",Puedes hacerlo Chang
+http://regioplay.xyz/604023/Chang.Can.Dunk.2023.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg",CREED III
+http://regioplay.xyz/604023/Creed.3.2023.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",Tetris
+http://regioplay.xyz/604023/Tetris.2023.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg",Misterio a la vista 2
+http://regioplay.xyz/604023/Murder.Mystery.2.2023.lati.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/cO6x9pTZHIBXbPLcmFSCXAI6Ky3.jpg",Noé (2014)
+http://vod.tuxchannel.mx/peliculas/720/noah.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2C9vyK6leWDb2ds65R7uIwSmh8V.jpg",La pasión de Cristo (2004)
+http://vod.tuxchannel.mx/peliculas/720/the%20passion%20of%20the%20christ.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",Pinocho de Guillermo del Toro (2022)
+http://208.88.245.85/nuevo/pinocchio.deltoro.dual.2022.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",Hacia la libertad (2022)
+http://208.88.245.85/nuevo/emancipation.dual.2022.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",M3GAN (2022)
+http://208.88.245.85/nuevo/megan.dual.2022.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/26yQPXymbWeCLKwcmyL8dRjAzth.jpg",Historia de Honor (2022)
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023)
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023)
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",Alerta extrema (2023)
+http://208.88.245.81/nuevo/alerta.extrema.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="movie",Pig (2021)
+http://vod.tuxchannel.mx/peliculas/720/pig%202021.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",THE9
+https://archive.org/download/th-3.-l-4st.-0f.-us.-1-5/Th3.L4st.0f.Us.1-9.mp4
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/b9n2R3xZWQ8MVZgndQoV34stS0h.jpg",Furia de titanes 2 (2012)
+http://vod.tuxchannel.mx/peliculas4k/wrath%20of%20the%20titans.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",Transformers 3 (2011)
+http://vod.tuxchannel.mx/peliculas4k/transformers%20dark%20of%20the%20moon.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/37vpRkrD4OxQN0MQ7C59eszkylh.jpg",La quinta ola (2016)
+http://vod.tuxchannel.mx/peliculas4k/the%20fifth%20wave.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",Furia de titanes 1 (2010)
+http://vod.tuxchannel.mx/peliculas4k/clash%20of%20the%20titans.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg",xXx 3 (2017)
+http://vod.tuxchannel.mx/peliculas/720/xxx%20return%20of%20xander%20cage.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2tQxTAmgNtgKOyjkQS4auFeTscA.jpg",xXx 2 (2005)
+http://vod.tuxchannel.mx/peliculas/720/xxx%20estado%20de%20emergencia.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",Volver al futuro 1 (1985)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",Volver al futuro 3 (1990)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro%203.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",Volver al futuro 2 (1989)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro%202.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gsFun8nATm52aGHeT8ueAel98nE.jpg",Van Helsing (2004)
+http://vod.tuxchannel.mx/peliculas/720/van%20helsing.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",Triple Frontier (2019)
+http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rs6P8hg1BTf6AdpGlRnGE4DFlYF.jpg",Transformers 1 (2007)
+http://vod.tuxchannel.mx/peliculas/720/transformers.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",Transformers 5 (2017)
+http://vod.tuxchannel.mx/peliculas/720/transformers%20the%20last%20knight.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",Estación Zombie 1 (2016)
+http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",Estación Zombie 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan%202.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1gSmNsz16HyYW5R0GVS54w4AGZx.jpg",Miedo profundo (2016)
+http://vod.tuxchannel.mx/peliculas/720/the%20shallows.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",El único (2001)
+http://vod.tuxchannel.mx/peliculas/720/the%20one.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lWJC8om086h01f0CMGR9ombdpnI.jpg",La historia sin fin 1 (1984)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/o75HHfr23sgeqIeUPwjKY0V9Ppi.jpg",La historia sin fin 3 (1994)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story%203%20escape%20from%20fantasia%201994.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5QfUCbgKzWzjHO5X4ANsDmuTxNQ.jpg",La historia sin fin 2 (1990)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story%202%20the%20next%20chapter%201990.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jLKdbksOvi5cDqUhwXdIpeLpKki.jpg",El poder del talismán (2003)
+http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",Maze Runner 1 (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20maze%20runner.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/s9t9kliNmv2uc9dVyQLhruk2tXW.jpg",El llanero solitario (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20lone%20ranger.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",El último samurái (2003)
+http://vod.tuxchannel.mx/peliculas/720/the%20last%20samurai.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lQWtLTy7xBxXx1l89sSQRfplHXm.jpg",El bosque maldito (2019)
+http://vod.tuxchannel.mx/peliculas/720/the%20hole%20in%20the%20ground%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",Qué pasó ayer? 1 (2009)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",Que pasó ayer? 3 (2013)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20III.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jrP9zmdSUpOzzUXpEqPqg3dryUr.jpg",Qué pasó ayer? 2 (2011)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20II.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tDynwDj3pvexrEQ8wb0uy8EdcGQ.jpg",Los mercenarios 1 (2010)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/d63qz4XeNtbpDC5c70AlSUIbnTQ.jpg",Los mercenarios 3 (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/zPSB6B5duZIjF0QOBsP1aPBjNRg.jpg",Los muertos no mueren (2019)
+http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg",Crónicas de Navidad 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",El libro de Eli (2010)
+http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 4 (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spiderman.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",Terremoto:la falla de San Andrés (2015)
+http://vod.tuxchannel.mx/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",Tenet (2020)
+http://vod.tuxchannel.mx/peliculas/720/tenet%202020.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/pn51im1JIMJgq9eqRAIvoQ1b1cv.jpg",Saw 9 (2021)
+http://vod.tuxchannel.mx/peliculas/720/spiral%20from%20the%20book%20of%20saw%202021.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",El Hombre Araña 1 (2002)
+http://vod.tuxchannel.mx/peliculas/720/spiderman.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 6 (2019)
+http://vod.tuxchannel.mx/peliculas/720/spider-man%20far%20from%20home%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",El Hombre Araña 3 (2007)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%203.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",El Hombre Araña 2 (2004)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%202.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 5 (2017)
+http://vod.tuxchannel.mx/peliculas/720/spider%20man%20homecoming.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",8 Minutos Antes De Morir (2011)
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",Sonic la película (2020)
+http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%202020.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",Silent Hill 1 (2006)
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg",Silent Hill 2 (2012)
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill%20revelation.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg",Nos vemos ayer (2019)
+http://vod.tuxchannel.mx/peliculas/720/see%20you%20yesterday%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9WQ5e3Jxj6Tz1ZZhF9RMXf6Cc7V.jpg",Scream 1 (1996)
+http://vod.tuxchannel.mx/peliculas/720/scream%20grita%20antes%20de%20morir.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/g0YcSd5QpgGXOjg9tl0if0soOkE.jpg",Scream 4 (2011)
+http://vod.tuxchannel.mx/peliculas/720/scream%204.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",Scream 3 (2000)
+http://vod.tuxchannel.mx/peliculas/720/scream%203%20la%20mascara%20de%20la%20muerte.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",Scream 2 (1997)
+http://vod.tuxchannel.mx/peliculas/720/scream%202%20grita%20y%20vuelve%20a%20gritar.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",Scary Movie (2000)
+http://vod.tuxchannel.mx/peliculas/720/scary%20movie.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vC9T3hjrV9jEBIQ5Ce9eZzN1xxJ.jpg",Saw 7 (2010)
+http://vod.tuxchannel.mx/peliculas/720/saw%20VII.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9fFI57FuE9X4pUCIiKZZZCB7caK.jpg",Saw 6 (2009)
+http://vod.tuxchannel.mx/peliculas/720/saw%20VI.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/dpiS8OcDaTkBdQZkkrdQPPXdJgK.jpg",Saw 5 (2008)
+http://vod.tuxchannel.mx/peliculas/720/saw%20V.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/e3pLI0qN1AKGHwOcMuwTpyI2SLN.jpg",Saw 4 (2007)
+http://vod.tuxchannel.mx/peliculas/720/saw%20IV.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/plyiG0xAkrMZWy1kEC5Rz9lSu7s.jpg",Saw 3 (2006)
+http://vod.tuxchannel.mx/peliculas/720/saw%20III.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vadsox7kS3dTzODeGdeWg3cbW9z.jpg",Saw 2 (2005)
+http://vod.tuxchannel.mx/peliculas/720/saw%20II.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg",Saw 1 (2004)
+http://vod.tuxchannel.mx/peliculas/720/saw%20I.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",Riddick 1 (2013)
+http://vod.tuxchannel.mx/peliculas/720/riddick.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg",Resident Evil: Bienvenidos a Raccoon City (2021)
+http://vod.tuxchannel.mx/peliculas/720/resident%20evil%20welcome%20to%20raccoon%20city%202021.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",Ready Player One (2018)
+http://vod.tuxchannel.mx/peliculas/720/ready%20player%20one.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/MGADip4thVSErP34FAAfzFBTZ5.jpg",Rampage (2018)
+http://vod.tuxchannel.mx/peliculas/720/rampage.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",Rambo: Last Blood (2019)
+http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",Quarantine 2 (2011)
+http://vod.tuxchannel.mx/peliculas/720/quarantine%202%20terminal%202011.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",Power Rangers (2017)
+http://vod.tuxchannel.mx/peliculas/720/power%20rangers.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg",Ouija: El origen del mal (2016)
+http://vod.tuxchannel.mx/peliculas/720/ouija%20%20origin%20of%20evil.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",Máquinas mortales (2018)
+http://vod.tuxchannel.mx/peliculas/720/mortal%20engines%202018.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lq9n07JSzdhK5l1TKxQ9SHawNYn.jpg",Maze Runner 2 (2015)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg",Maze Runner 3 (2018)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",Maléfica 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/maleficent%20mistress%20of%20evil%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",Looper: asesinos del futuro (2012)
+http://vod.tuxchannel.mx/peliculas/720/looper.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/wztfli5NgYDgurVgShNflvnyA3Z.jpg",Life: vida inteligente (2017)
+http://vod.tuxchannel.mx/peliculas/720/life%20w.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ahbwIJl7T0D34m3sPKlBaCqs2xH.jpg",El misterio de Soho (2021)
+http://vod.tuxchannel.mx/peliculas/720/last%20night%20in%20soho%202021.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/z6LVJXEmY8E6s57uf8cV3RlWvws.jpg",Las crónicas de Narnia 3 (2010)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",Las crónicas de Narnia 2 (2008)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20el%20principe%20caspian.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/pH6mHzusE2iHQHWo89cER90s4PH.jpg",Jinete sin cabeza (1999)
+http://vod.tuxchannel.mx/peliculas/720/la%20leyenda%20del%20jinete%20sin%20cabeza.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/nzbwTwSo8aKuvAytaPG6s0xGVE8.jpg",La casa de las flores: la película (2021)
+http://vod.tuxchannel.mx/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",Kong: la Isla Calavera (2017)
+http://vod.tuxchannel.mx/peliculas/720/kong%20skull%20island.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/xn6t1nYJaUMmudnHHiK390AORNu.jpg",Kill Command (2016)
+http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg",John Carter (2012)
+http://vod.tuxchannel.mx/peliculas/720/john%20carter.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2mUqHJG7ZiGwZYIylczFCsRPbXM.jpg",Saw 8 (2017)
+http://vod.tuxchannel.mx/peliculas/720/jigsaw.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/dabXVfrAFfhDte8XVemom3mTJog.jpg",IT 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/it%20chapter%20two%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg",Invasión a la Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9S50foUIYGwiNPWOxi1WJF6IPwI.jpg",Día de la Independencia: contraataque (2016)
+http://vod.tuxchannel.mx/peliculas/720/independence%20day%20-%20resurgence.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg",Ocultos por la luna (2019)
+http://vod.tuxchannel.mx/peliculas/720/in%20the%20shadow%20of%20the%20moon%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",Escupiré sobre tu tumba 1 (2010)
+http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jG5GDIcqiqHXkvINZSjyzBUO2vH.jpg",Escupiré sobre tu tumba 3 (2015)
+http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%203.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/cy3zp7PA4JFq8bT0WwSi8uDlrbD.jpg",Escupiré sobre tu tumba 2 (2013)
+http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%202.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg",Cazadora de gigantes (2017)
+http://vod.tuxchannel.mx/peliculas/720/i%20kill%20giants.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg",I Am Mother (2019)
+http://vod.tuxchannel.mx/peliculas/720/i%20am%20mother%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/dbhC6qRydXyRmpUdcl9bL9rARya.jpg",El Halloween de Hubie (2020)
+http://vod.tuxchannel.mx/peliculas/720/hubie%20halloween%202020.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/prdFM08mGvVDA6uQxKJh8n8Vek1.jpg",El final de todo (2018)
+http://vod.tuxchannel.mx/peliculas/720/how%20it%20ends.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",Hotel Transylvania 1 (2012)
+http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",Hotel Transylvania 3 (2018)
+http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%203.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kKFgwQnR5q08UFsAvtoYyTIiHyj.jpg",Hotel Transylvania 2 (2015)
+http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%202.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",Hostel 1 (2005)
+http://vod.tuxchannel.mx/peliculas/720/hostal.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/fedRspcT8CoALqSvUZTtdoJqP9p.jpg",Hostel 3 (2011)
+http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%203.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9IFgKpXWF5GWgtyoXPAL1AkO3Zs.jpg",Hostel 2 (2007)
+http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%202.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2MCKRii4gzkbg4YBqPkexcoimrL.jpg",El manicomio (2018)
+http://vod.tuxchannel.mx/peliculas/720/heilstatten%202018.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",Hardcore Henry (2015)
+http://vod.tuxchannel.mx/peliculas/720/hardcore%20henry.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",Feliz día de tu muerte 1 (2017)
+http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",Feliz día de tu muerte 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day%202%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",Escalofrios 1 (2015)
+http://vod.tuxchannel.mx/peliculas/720/goosebumps.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rLb1IncCARJWbioGxYNDY5NUxb0.jpg",Huye (2017)
+http://vod.tuxchannel.mx/peliculas/720/get%20out.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",Geo-tormenta (2017)
+http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",Proyecto Géminis (2019)
+http://vod.tuxchannel.mx/peliculas/720/gemini%20man%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ibFdvidQgmBvDSMRW39sAu8P4zn.jpg",Gabriel (2007)
+http://vod.tuxchannel.mx/peliculas/720/gabriel%202007.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vQljMYQKVApQFXfTXKt9J8diVLG.jpg",Freaky (2020)
+http://vod.tuxchannel.mx/peliculas/720/freaky%202020.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",Escalofríos 2 (2018)
+http://vod.tuxchannel.mx/peliculas/720/escalofrios%202.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/sk1sXr1pslO7ol1wxrzwnFG95ju.jpg",El rito (2011)
+http://vod.tuxchannel.mx/peliculas/720/el%20rito.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/52ml62vClzrlqvXZq2FEW6UF6c1.jpg",Rascacielos (2018)
+http://vod.tuxchannel.mx/peliculas/720/el%20rascacielos.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lkp1GFmWyf7k2WKvKIQuuGyichI.jpg",Prince of Persia (2010)
+http://vod.tuxchannel.mx/peliculas/720/el%20principe%20de%20persia%20las%20arenas%20del%20tiempo.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/u3EEVihxNbFIOvnUkBJIJK93Jcn.jpg",El legado del diablo (2018)
+http://vod.tuxchannel.mx/peliculas/720/el%20legado%20del%20diablo.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",El Exorcista (1973)
+http://vod.tuxchannel.mx/peliculas/720/el%20exorcista.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qMN0HIP34f736kkQcfvTfmL9TP3.jpg",El exorcismo de Emily Rose (2005)
+http://vod.tuxchannel.mx/peliculas/720/el%20exorcismo%20de%20emily%20ross.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/mrw9NShY6I2FgXwk8Ge437pn08N.jpg",El día que la tierra se detuvo (2008)
+http://vod.tuxchannel.mx/peliculas/720/el%20dia%20que%20la%20tierra%20se%20detuvo.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vfnsGUwurUQqlpvArBvUVc9rYXa.jpg",El cuarto contacto (2009)
+http://vod.tuxchannel.mx/peliculas/720/el%20cuarto%20contacto.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/3RtOffRhVHyST1d5BDVu5dnFI04.jpg",El cazador de sueños (2003)
+http://vod.tuxchannel.mx/peliculas/720/el%20cazador%20de%20suenos.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1TohqCqMbaiuRLJPrPW0vnQP3lE.jpg",El bosque de los suicidios (2016)
+http://vod.tuxchannel.mx/peliculas/720/el%20bosque%20de%20los%20suicidios.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",Distrito 9 (2009)
+http://vod.tuxchannel.mx/peliculas/720/distrit%209.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",Destino final 1 (2000)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg",Destino final 5 (2011)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg",Destino final 4 (2009)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%204.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",Destino final 3 (2006)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%203.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg",Destino final 2 (2003)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%202.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jq4TVchWAWac6zGmCuriFhfBSzo.jpg",Demonic (2015)
+http://vod.tuxchannel.mx/peliculas/720/demonic.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9OkZ94drVlmLfa1uBYaP8yMv7Ow.jpg",Déjame entrar (2008)
+http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",El amanecer de los muertos (2004)
+http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rR1YpHTejg1YijqLAiJrOkZKqdf.jpg",La crucifixión (2017)
+http://vod.tuxchannel.mx/peliculas/720/crucifixion.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",Las Crónicas de Narnia 1 (2005)
+http://vod.tuxchannel.mx/peliculas/720/cronicas%20de%20narnia.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uqhT6uOVMgo7ODnZLnYzGiyln2j.jpg",Contacto (1997)
+http://vod.tuxchannel.mx/peliculas/720/contacto.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6gBt2qFZiq7tF7HTfkl6pP9ml8y.jpg",Venganza (2019)
+http://vod.tuxchannel.mx/peliculas/720/cold%20pursuit%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",Código 8 (2019)
+http://vod.tuxchannel.mx/peliculas/720/code%208%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/xJCZ8xMrPCdntMxOBe50WHaDY5H.jpg",Escolta (2019)
+http://vod.tuxchannel.mx/peliculas/720/close.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/xENglsVIIWEEhhB5lgpy33tGcKI.jpg",Poder sin límites (2012)
+http://vod.tuxchannel.mx/peliculas/720/chronicle.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",Chernóbil: la película (2021)
+http://vod.tuxchannel.mx/peliculas/720/chernobyl%202021.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg",Chappie (2015)
+http://vod.tuxchannel.mx/peliculas/720/chappie.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/zdaU2jx0IS4lPpQs0mDBlLMO2b8.jpg",La rebelión (2019)
+http://vod.tuxchannel.mx/peliculas/720/captive%20state%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qBcIUgJmDGrcAKbhRwCd6AmO0ZW.jpg",Transformers 6 (2018)
+http://vod.tuxchannel.mx/peliculas/720/bumblebee%202018.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg",El niño 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/brahms%20the%20boy%20II%202020.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",Blade Runner 2049 (2017)
+http://vod.tuxchannel.mx/peliculas/720/blade%20runner%202049.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rmnQ9jKW72bHu8uKlMjPIb2VLMI.jpg",Baby Driver (2017)
+http://vod.tuxchannel.mx/peliculas/720/baby%20driver.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",Avatar 1 (2009)
+http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7mlA2czXUhiB53huT9qu2vRJ36w.jpg",Attraction (2017)
+http://vod.tuxchannel.mx/peliculas/720/attraction.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",Atomic Blonde (2017)
+http://vod.tuxchannel.mx/peliculas/720/atomic%20blonde.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tI8ocADh22GtQFV28vGHaBZVb0U.jpg",Artemis Fowl (2020)
+http://vod.tuxchannel.mx/peliculas/720/artemis%20fowl%202020.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",Armageddon (1998)
+http://vod.tuxchannel.mx/peliculas/720/armageddon.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",Apocalypto (2006)
+http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/c9Nyu8YZfLsWWbze4DEGPbnwCcT.jpg",Amityville: El despertar (2017)
+http://vod.tuxchannel.mx/peliculas/720/amityville%20the%20awakening.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ux4J06xWPuA1ALXzQD6mNalljTJ.jpg",Emboscada (2022)
+http://vod.tuxchannel.mx/peliculas/720/american%20siege%202022.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rJOj0T5DyChfECevDg0xpEGznsl.jpg",Alien Warfare (2019)
+http://vod.tuxchannel.mx/peliculas/720/alien_warfare_2019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",Aladdin (2019)
+http://vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2Zn9yHhNlZmqfuKpBovQJ9RWIOr.jpg",Mas allá de la muerte (2009)
+http://vod.tuxchannel.mx/peliculas/720/after%20life%202009.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",Después de la Tierra (2013)
+http://vod.tuxchannel.mx/peliculas/720/after%20earth.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",Un lugar en silencio 2 (2021)
+http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20part%20II%202021.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",La cura siniestra (2016)
+http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/96VOJmyoYEj9QvUfYJ1EElRhIjD.jpg",Un cuento de Navidad (1984)
+http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500",4:44 El último día en la Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",30 Días de oscuridad (2007)
+http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg",28 Dias Exterminio (2012)
+http://vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Embaucadores (2023)
+http://208.88.245.85/nuevo/sharper.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",Un paraíso peligroso (2023)
+http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",Malcriados (2023)
+http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",El último baile de Magic Mike (2023)
+http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023)
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://pics.filmaffinity.com/sin_nombre-113006884-mmed.jpg",Sin Nombre
+https://pc-39.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a785e8da8d95dc2edc65116ca04ec9fa/EP.0.1.v0.1677138219.m3u8
