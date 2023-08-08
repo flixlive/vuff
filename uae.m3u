@@ -1,0 +1,100 @@
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/NpXvmli.png" ,UAE - Dubai ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/OzJgw7n.png" ,UAE - Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/g0epqtF.png" ,UAE - Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/ZhCfGRQ.png" ,UAE - Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/wZMkKF7.png",Dubai TV 
+http://210.210.155.37/uq2663/h/h152/index2.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ePBvFC8.png",MBC 1 
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UgDTRNv.png",MBC 3 EUR 
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/snkewG1.png",MBC 4 
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png",MBC 5 
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/tYOxhA9.png",MBC Bollywood  
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/PG9VUn4.png",MBC Drama KSA 
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/hj3AzDO.png",MBC FM 
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/YhLfb2V.png",MBC Persia 
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/6yH88Q1.png",MBC Plus Drama 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/Hl42XFI.png" ,UAE - Nat Geo AD
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/9SpUvlj.png" ,UAE - Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/wTv2nd5.png" ,UAE - Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg",Sharjah Sports TV 
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6BVWk8z.png",Abu Dhabi Sports 1 
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/4rVm3oZ.png",Abu Dhabi Sports 2 
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Poxw8lG.png",Dubai Sports 1 
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PMJ7Zmo.png",Dubai Sports 2 
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/U0A8Gex.png",Dubai Sports 3  
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One 
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/H2TTn7t.png",Dubai Racing 2 
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vg4fxmc.png",Dubai Racing 3 
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BpcV8jS.png",Dubai Racing 
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/YwRLt1u.png" ,UAE - Abudhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/wocJjhl.png" ,UAE - Majid TV
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Animation;Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Spacetoon 
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/6Nmvhnm.png" ,UAE - Emarat TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/M53wVBy.png" ,UAE - Hawass TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/NXFkYFj.png",Al Arabiya 
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/De4SEWE.png",Al Arabiya Al Hadath 
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SvjU4h6.png",Sky News Arabia  
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/sOMOe9t.png",Al DafrahTV TV 
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/M8ZuzeB.png",Al Hayat TV 
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6G6fxs5.png",Al Mashhad 
+https://bcovlive-a.akamaihd.net/385ca06841b3430f99327f0c44d6d008/ap-south-1/6313884884001/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zkBT0C8.png",Al Qamar TV (360p)
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/otAHLRo.png",Al Shallal TV 
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/WGX5SCx.png",Al Sharqiya Min Kabla 
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/OpHjfYV.png",Al Wousta TV 
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/rBixF3P.png",Al Yaum TV 
+https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png",Cartoon Network Arabia 
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/YaQcStz.png",Wanasah 
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image",Weyyak Action 
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image",Weyyak Drama 
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image",Weyyak Mix 
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image",Weyyak Nawaem 
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 group-title="Undefined",Yas 
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
