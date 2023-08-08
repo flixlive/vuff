@@ -26,7 +26,7 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/221
 #EXTINF:-1  tvg-logo="https://imgur.com/e7JLUQI.png" ,US - FOX Sport 2	
 http://167.114.156.136:25461/INFINITV/ZX89NM22/222
 #EXTINF:-1  tvg-logo="https://imgur.com/AbXdX9e.png" ,US - NBA TV
-http://51.79.87.60:49214/TSN1/hls/playlist.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
 #EXTINF:-1  tvg-logo="https://imgur.com/JAEbcYq.png" ,US - TSN 1
 http://51.79.87.60:49214/TSN1/hls/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/JAEbcYq.png" ,US - TSN 2
