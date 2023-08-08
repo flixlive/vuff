@@ -84,38 +84,36 @@ http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/M53wVBy.png" ,UAE - Hawass TV
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/M53wVBy.png" ,KSA - SAudia TV
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/JvpQdyR.png" ,KSA - SAudia TV 1
+https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/lXAdnm6.png" ,KSA - Makkah TV
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/zLMKmbz.png" ,KSA - Iqraa TV
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/nkbqdci.png" ,KSA - Alsunnah
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/gt18mb2.png" ,KSA - Alquran Alkareem
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/iYmP7E1.png" ,KSA - dikrayat
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/Z0j2yj9.png" ,KSA - SBC
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/UELvPq2.png" ,KSA - SAudia News
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://edge.taghtia.com/sa/4.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/eDBOxiB.png" ,KSA - Rotana Cinema
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/eZv65qN.png" ,KSA - Rotana Comedy
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/eZv65qN.png" ,KSA - Rotana +
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/tKEemOn.png" ,KSA - Rotana Drama
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/iTHmsS4.png" ,KSA - Rotana Music
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/62NEVIM.png" ,KSA - Rotana khalij
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/M53wVBy.png" ,KSA - SAudia TV
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/htzhydj.png" ,KSA - Rotana Clip
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/Jz20Sy7.png" ,KSA - Rotana CLassic
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_2.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/ar7J4Iy.png" ,Yemen - Yemen Today
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imgur.com/KLHoSWh.png" ,Yemen - Yemen Shabab
