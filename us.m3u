@@ -37,7 +37,6 @@ http://51.79.87.60:49214/TSN3/hls/playlist.m3u8
 http://51.79.87.60:49214/TSN4/hls/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/JAEbcYq.png" ,US - TSN 5
 http://51.79.87.60:49214/TSN5/hls/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://imgur.com/CQoidjT.png" ,US - ESPN 1
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/CQoidjT.png" ,US - ESPN 2
@@ -80,8 +79,6 @@ EXTINF:-1  tvg-logo="https://imgur.com/G7zdtiL.png" ,US - BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 EXTINF:-1  tvg-logo="https://imgur.com/EeEyeSk.png" ,US - CNN 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="KMTVDT1.us" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="Undefined",CBS 3 Omaha NE (KMTV-TV) 
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 #EXTINF:-1 tvg-id="WRGBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS 6 Albany NY (WRGB) 
