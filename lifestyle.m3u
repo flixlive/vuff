@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/PWzvp0B.png",Ayush TV 
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/dThvIsV.png",Better Health TV 
+https://uni5rtmp.tulix.tv/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/XqUfQKA.png",Biznet Lifestyle 
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/od1taaY.png",Cats 24/7 (US) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/R8UaNsX.png",Code Fashion TV 
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/DnTMfxI.png",Code Health TV 
+https://cdn3.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/NdYARAZ.png",Complex 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/512px-Dabl_logo.svg.png",Dabl 
+http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/0D7XJh1/42-1.jpg",Dens Life & Style (576p) [Geo-blocked]
+http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/GLpeqpp.png",EStylo TV 
+https://vdo2.streamgato.us:3035/live/estylotvlive.m3u8
+#EXTINF:-1 ,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s30/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/7Bigo7u.png",FashionTV Czech&Slovak (450p) 
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/ZbUSlOC.png",Fortuna TV 
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/W8RJdsZ.png",Glamour 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/mTiaf9I.png",GQ 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png",Guide Love TV 
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/O7SdkBh.png",Jewelery Maker 
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/KFzEoed.png",LIVExLIVE 
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/dGgmOY0.png",LNKTV Health 
+http://10tv.lincoln.ne.gov/live/live.m3u8
+#EXTINF:-1 group-title="Documentary;Lifestyle" tvg-logo="https://i.imgur.com/f4PWvrW.jpg",MRTV Farmers 
+http://183.89.246.119:8881/play/a07p/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/nLS7Oh2.png",Pluto TV Best Life 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5887ba337b8e94223eb121bd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=630&terminate=false&userId=
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/cwkrxcS.png",Pluto TV Cucina Italy 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/OuAi5ef.png",Pluto TV Cuisine 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/HTLo1GG.png",Pluto TV Food (England) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/FDxMMBb.png",Pluto TV Home 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5eb96303f5bb020008e7e44f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8044788b-0583-11eb-a18c-0242ac110002&terminate=false&userId=
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/EPDkpba.png",Pluto TV Homes Under Hammer 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/rPbwJgk.png",Pluto TV Real Life Italy 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/G18Sv08.png",Pluto TV Yoga 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/bKpligT.png",Revry 2
+https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/lKMYCkb.png",Revry News
+https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3",Revry Queer 
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/wZ2uj9d.png",So...Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/RIUNuMQ.png",STIRR CineLife 
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/DKmEBLp.png",STIRR EVRGRN 
+https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/XuTUaq4.png",STIRR Revry 
+https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/J5YJ3r3.png",The Design Network 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Education;Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png",The Ohio Channel 
+https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/IGIX3o8.jpg",TV Kesehatan 
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/KMUYfnz.jpg",Vanity Fair 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/2i333B9.jpg",Vogue 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Culture;Education;Lifestyle" tvg-logo="https://i.imgur.com/f2zGoV3.png",Woman TV 
+https://embedlp.becdn.net/womantv.m3u8
+#EXTINF:-1 group-title="Education;Lifestyle" tvg-logo="https://i.imgur.com/VNirxxn.png",Доктор 
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
+#EXTINF:-1 ,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s77/index.m3u8
