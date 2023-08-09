@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television (404p) [Not 24/7]
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/1UkxzGL.png",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/232ndRK.png",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/7bQ1nq3/11591447-46ac-487e-ac65-d8c20a5d18a0.jpg",B4U Hitz (576p)
+http://183.89.246.119:8881/play/a08l/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U Music India (576p)
+http://183.89.246.119:8881/play/a08o/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Cx5V233.jpg",Hits 360 TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/G5mNdpE.png",Impact TV Dance (1080p)
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/GDUykah.png",Mosaïque FM (480p) [Not 24/7]
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png",MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/YyPnMeB.png",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/yo8lEu1.png",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s (576p)
+http://195.24.89.82/VH1_SD/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/0zJi12h.png",TV HD Tropical (720p)
+https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
