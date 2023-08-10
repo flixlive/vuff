@@ -57,3 +57,5 @@ http://w.bs-share.com:8000/247179867825237/23141543216575/256019
 http://w.bs-share.com:8000/247179867825237/23141543216575/256019
 #EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/a81I4uf.png",YAS Sport
 http://192.168.10.67:1935/nile/yas/playlist.m3u8
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="https://3.bp.blogspot.com/-UgplUcmLYDU/UfWBWCcVrRI/AAAAAAAABo0/deObWN5NKcU/s1600/1.jpg",Jordan Sport
+http://185.236.229.50:8003/play/a020
