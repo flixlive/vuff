@@ -9,10 +9,6 @@ http://138.59.177.34:8000/play/a00x/index.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TU-TV-El-Salvador-Canal-11-en-vivo-Online.png?resize=696%2C392&ssl=1",CANAL 11 TUTV
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
-#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://www.freeetv.com/images/02_logo/tvu_salvador.jpg",TV USULUTECA
-http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
-#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png",CANAL 12
-http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
 #EXTINF:-1 ,CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://static.wixstatic.com/media/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png/v1/fill/w_260,h_246,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png",CANAL 65
@@ -47,8 +43,6 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.ts
 https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/master.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png",SKY MX
 http://168.228.194.33:48001/play/a0au/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/152px-FOX_Deportes_logo.svg.png",Fox Deportes
-http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp",ESPN 3 SD
 http://45.179.140.242:8000/play/a0je
 #EXTINF:-1 ,Universal
@@ -477,12 +471,6 @@ https://v3.playerlatino.live/stream/m3u8/645
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png",DAZN
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.ts
-#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png",CANAL 4 ESA
-http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
-#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png",CANAL 6 ESA
-http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
-#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png",CANAL 2 ESA
-http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN PA
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png",Nat Geo Wild
@@ -579,12 +567,6 @@ https://v3.playerlatino.live/stream/m3u8/259%7Cuser-agent=Lavf/57.71.001
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://www.descargas.com/images/5848/canal-25-sr-oficial_android_1973_1.png",CANAL 25 GT
 https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
-#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/400px-Canal3GT2022.png",CANAL 3 GT
-http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
-#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/400px-Canal7GT2022.png",CANAL 7 GT
-http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
-#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png",TN23 GT
-http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
 #EXTINF:-1 group-title="CABLE",CANAL 28 ATV
 https://emisoras.hn:8081/atv/index.m3u8
 #EXTINF:-1 group-title="RUSSIA",RTS SPORT
@@ -623,128 +605,6 @@ http://media.dominiocreativo.com:8000/
 http://cdn-radio.elim.org.sv:8007/mp3_64
 #EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://www.televisionfamiliar.com/wp-content/uploads/2022/08/logo_header.png",TV FAMILIAR
 https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
-#EXTINF:-1 group-title="SD",COMEDY CENTRAL
-http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
-#EXTINF:-1 group-title="SD",TOONCAST
-http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1 group-title="SD",SPACE
-http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
-#EXTINF:-1 group-title="SD",PARAMOUNT
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1 group-title="SD",TYC SPORTS
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 group-title="SD",DISCOVERY
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1 group-title="SD",ANTENA 3
-http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
-#EXTINF:-1 group-title="SD",FOX SPORTS mx
-http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 group-title="SD",NICK JR
-http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
-#EXTINF:-1 group-title="SD",HOLA TV
-http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
-#EXTINF:-1 group-title="SD",PASIONES
-http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
-#EXTINF:-1 group-title="SD",CINE CANAL
-http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1 group-title="SD",MULTIPREMIER
-http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-#EXTINF:-1 group-title="SD",STUDIO UNIVERSAL
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1 group-title="SD",CARTOON NETWORK
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1 group-title="SD",WB TV
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1 group-title="SD",FOX SPORTS 2 mx
-http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 group-title="SD",ESPN mx
-http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 group-title="SD",ESPN 2 mx
-http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1 group-title="SD",SONY CHANEL
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1 group-title="SD",NICK MUSIC
-http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-#EXTINF:-1 group-title="SD",TELEMUNDO
-http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
-#EXTINF:-1 group-title="SD",TRU TV
-http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
-#EXTINF:-1 group-title="SD",AXN
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1 group-title="SD",CARTOONITO
-http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
-#EXTINF:-1 group-title="SD",HISTORY
-http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1 group-title="SD",SYFY
-http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
-#EXTINF:-1 group-title="SD",BABY TV
-http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
-#EXTINF:-1 group-title="SD",CNN
-http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
-#EXTINF:-1 group-title="SD",MTV
-http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
-#EXTINF:-1 group-title="SD",UNIVERSAL TV
-http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
-#EXTINF:-1 group-title="SD",UNIVERSO
-http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-#EXTINF:-1 group-title="SD",ENI
-http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
-#EXTINF:-1 group-title="SD",ANIMAL PLANET
-http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1 group-title="SD",ZOO MOO
-http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
-#EXTINF:-1 group-title="SD",TNT
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1 group-title="SD",AMC
-http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 group-title="SD",NAT GEO
-http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 group-title="SD",HBO 2
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1 group-title="SD",KANAL D
-http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
-#EXTINF:-1 group-title="SD",DREAMWORKS
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-#EXTINF:-1 group-title="SD",H&H
-http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-#EXTINF:-1 group-title="SD",FOX SPORTS 3 mx
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 group-title="SD",TURBO
-http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1 group-title="SD",NICK
-http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
-#EXTINF:-1 group-title="SD",ESPN 3 mx
-http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
-#EXTINF:-1 group-title="SD",FOX
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1 group-title="SD",TVE
-http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
-#EXTINF:-1 group-title="SD",CANAL 11 GT
-http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
-#EXTINF:-1 group-title="SD",MODO CINE
-http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
-#EXTINF:-1 group-title="SD",GOLDEN
-http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
-#EXTINF:-1 group-title="SD",FILM & ART
-http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-#EXTINF:-1 group-title="SD",TNT SPORTS CHI
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1 group-title="SD",ENLACE
-http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
-#EXTINF:-1 group-title="SD",HINSPAN TV
-http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
-#EXTINF:-1 group-title="SD",TELEMUNDO INTER
-http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
-#EXTINF:-1 group-title="SD",IVC
-http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
-#EXTINF:-1 group-title="SD",LIFETIME
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 group-title="SD",E
-http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-#EXTINF:-1 group-title="SD",HISTORY 2
-http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 group-title="SD",A&E
-http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 group-title="SD",ESPN Sur
 https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=158&f=.m3u8
 #EXTINF:-1 group-title="SD",ESPN 2 Sur
@@ -809,8 +669,6 @@ http://168.228.194.33:48001/play/a0cj/index.m3u8
 https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://photos.live-tv-channels.org/tv-logo/sv-canal-57-6594-300x225.jpg",668 | Canal 57 Apopa TV || EL SALVADOR
 https://streaming.grupocsanetwork.net:3424/canal57/canal57/playlist.m3u8
-#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",TVO
-http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/Arirang-TV-Logo.jpg",Arirang TV Korea
 https://amdlive-ch01-ctnd-com.akamaized.net:443/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="Pelis 1" tvg-logo="https://i.imgur.com/L0zLsl9.png",BLACKGHOST 01
