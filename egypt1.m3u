@@ -5,20 +5,6 @@ http://95.216.180.111:1935/live/24/chunklist.m3u8
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 "tvg-logo="https://bit.ly/3hNP5ax.png " group-title="🇪🇬المصرية Egypt",Ten TV🇪🇬
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/3KjGEn1.png " group-title="🇪🇬المصرية Egypt",Mekameleen 🇪🇬مكملين
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/3M5VrCW.png " group-title="🇪🇬المصرية Egypt",elsharqtv🇪🇬
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/40rl71g.png " group-title="🇪🇬المصرية Egypt",Mawda TV🇪🇬
-http://82.212.74.98:8000/live/hls/7821.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/40LjRWx.png " group-title="🇪🇬المصرية Egypt",🇪🇬الفتح
-https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/3M5UNW3.png " group-title="🇪🇬المصرية Egypt",Alfath Sonnah TV🇪🇬
-https://alfat7-q.com:5443/LiveApp/streams/713332814575062108399616.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/42T6kxM.png " group-title="🇪🇬المصرية Egypt",Watan TV🇪🇬
-https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/3JWpf2d.png " group-title="🇪🇬المصرية Egypt",Huda TV🇪🇬
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 "tvg-logo="https://i.imgur.com/VZmLIY2.png.png " group-title="🇪🇬المصرية Egypt",CBC
 https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 #EXTINF:-1 "tvg-logo="https://bit.ly/3TY9QmO.png " group-title="🇪🇬المصرية Egypt",CBC sofra🇪🇬
@@ -27,128 +13,83 @@ https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 "tvg-logo="https://bit.ly/42OJck9..png " group-title="🇪🇬المصرية Egypt",eXtra News🇪🇬
 https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/3U9ASrv.png " group-title="🇪🇬المصرية Egypt",🇪🇬قناة النهار
-https://ythls.onrender.com/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
-#EXTINF:-1 "tvg-logo=".png " group-title="🇪🇬المصرية Egypt",🇪🇬بث مباشر افلام عربي
+#EXTINF:-1 "tvg-logo=".png " group-title="🇪🇬المصرية Egypt",🇪🇬TOKTOK Aflam
 https://ythls.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
 #EXTINF:-1 "tvg-logo="https://bit.ly/3nvtA4S.png " group-title="🇪🇬المصرية Egypt",Al Qahera News🇪🇬
 https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://alshoub.tv/wp-content/uploads/2022/11/logo-red.png.png " group-title="🇪🇬المصرية Egypt",🇪🇬الشّعوب
-https://cdg8.edge.technocdn.com/alshoobtv/live/chunks.m3u8
-
-
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Madani TV🇪🇬
-http://185.236.229.50:8002/play/a00v
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Madrastna 1🇪🇬
-http://185.236.229.50:8002/play/a00m
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Makkah TV🇪🇬
-http://185.236.229.50:8002/play/a015
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Mokafahat Al erhab🇪🇬
-http://185.236.229.50:8002/play/a03i
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Nessma Ejdida🇪🇬
-http://185.236.229.50:8002/play/a04k
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ONTIME SPORTS 3🇪🇬
-http://185.236.229.50:8002/play/a00p
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ONTIME SPORTS 3 HD🇪🇬
-http://185.236.229.50:8002/play/a00o
 #EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ZILZAL CLASSIC🇪🇬
 http://185.236.229.50:8002/play/a02c
-
-#EXTM3U
-#EXTINF:0 tvg-id="ATV.tr.png " group-title="🇪🇬المصرية Egypt",A TV🇪🇬
-http://185.236.229.50:8003/play/a03i
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",AL Oula EGYPTE HD🇪🇬
+#EXTINF:-1 , tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-1-eg.png" ,AL Oula EGYPTE HD
 http://185.236.229.50:8003/play/a00k
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",AL oula - EGYPTE🇪🇬
+#EXTINF:-1 , tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-1-eg.png" ,AL oula - EGYPTE
 http://185.236.229.50:8003/play/a00j
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ALFATH TV🇪🇬
-http://185.236.229.50:8003/play/a01n
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ALISTIQAMA TV🇪🇬
-http://185.236.229.50:8003/play/a027
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ALSahraa🇪🇬
-http://185.236.229.50:8003/play/a03k
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ALSeha Waljamal🇪🇬
-http://185.236.229.50:8003/play/a01e
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ALhayah ALaan🇪🇬
-http://185.236.229.50:8003/play/a03l
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ALhayat🇪🇬
-http://185.236.229.50:8003/play/a03a
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Ahly HD🇪🇬
-http://185.236.229.50:8003/play/a007
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Ahly SD🇪🇬
-http://185.236.229.50:8003/play/a00d
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Aoula inter - Maroc🇪🇬
-http://185.236.229.50:8003/play/a03g
-#EXTINF:0 tvg-id="AlArabiya.nws.png " group-title="🇪🇬المصرية Egypt",Al Arabiya🇪🇬
-http://185.236.229.50:8003/play/a008
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Fath Sonnah TV🇪🇬
-http://185.236.229.50:8003/play/a01q
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Forat🇪🇬
-http://185.236.229.50:8003/play/a00e
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Ghad HD🇪🇬
-http://185.236.229.50:8003/play/a01w
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Ghad SD🇪🇬
-http://185.236.229.50:8003/play/a01x
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Al Kahera Wal Nas
 http://185.236.229.50:8003/play/a00h
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Mawsleya🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Al Mawsleya
 http://185.236.229.50:8003/play/a01d
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al-Arabiya Alhadath🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Al-Arabiya Alhadath
 http://185.236.229.50:8003/play/a009
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al-EKhbaria🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Al-EKhbaria
 http://185.236.229.50:8003/play/a031
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al-Nahar Cinema🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Al-Nahar Cinema
 http://185.236.229.50:8003/play/a00b
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al-Nahar Drama🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Al-Nahar Drama
 http://185.236.229.50:8003/play/a00x
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al-Nahar One🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Al-Nahar One
 http://185.236.229.50:8003/play/a00w
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",AlHadath Alyoum🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,AlHadath Alyoum
 http://185.236.229.50:8003/play/a01g
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",AlHayat HD🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,AlHayat HD
 http://185.236.229.50:8003/play/a03e
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",AlSaeedah🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,AlSaeedah
 http://185.236.229.50:8003/play/a01r
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Alhayat Muslsalat🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Alhayat Muslsalat
 http://185.236.229.50:8003/play/a012
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Alhayat We Alnas🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Alhayat We Alnas
 http://185.236.229.50:8003/play/a03d
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Azhari🇪🇬
-http://185.236.229.50:8003/play/a00r
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",CBC🇪🇬
-http://185.236.229.50:8003/play/a00y
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",CBC Drama🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,CBC Drama
 http://185.236.229.50:8003/play/a010
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",CBC Sofra🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,CBC Sofra
 http://185.236.229.50:8003/play/a00z
-#EXTM3U
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",MBC Masr 2🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,CNN
+http://185.236.229.50:8003/play/a01s
+#EXTINF:-1 , tvg-logo=".png" ,Cima
+http://185.236.229.50:8003/play/a02j
+#EXTINF:-1 , tvg-logo=".png" ,Dijlah Zaman TV
+http://185.236.229.50:8003/play/a02u
+#EXTINF:-1 , tvg-logo=".png" ,ELMEHWAR
+http://185.236.229.50:8003/play/a01f
+#EXTINF:-1 , tvg-logo=".png" ,Egyptian TV HD
+http://185.236.229.50:8003/play/a01b
+#EXTINF:-1 , tvg-logo=".png" ,Extra News
+http://185.236.229.50:8003/play/a011
+#EXTINF:-1 , tvg-logo=".png" ,Gil Almostaqbal
+http://185.236.229.50:8003/play/a01u
+#EXTINF:-1 , tvg-logo=".png" ,MBC Masr 2
 http://185.236.229.50:8003/play/a01c
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",MBN Alhurra HD🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,MBN Alhurra HD
 http://185.236.229.50:8003/play/a019
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",MDEEH🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,MDEEH
 http://185.236.229.50:8003/play/a00a
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Madrastna 3🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Madrastna 3
 http://185.236.229.50:8003/play/a03m
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Mazzika🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Mazzika
 http://185.236.229.50:8003/play/a01p
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Misr Al Zera3eya🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Misr Al Zera3eya
 http://185.236.229.50:8003/play/a01o
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Mix🇪🇬
+#EXTINF:-1 , tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-hollywood-eg.png" ,Mix
 http://185.236.229.50:8003/play/a014
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",NESSMA TV🇪🇬
-http://185.236.229.50:8003/play/a03j
 #EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Nile Culture🇪🇬
 http://185.236.229.50:8003/play/a00n
 #EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Nile Family🇪🇬
 http://185.236.229.50:8003/play/a00m
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Nogoum FM TV🇪🇬
-http://185.236.229.50:8003/play/a01v
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",OSN HD🇪🇬
-http://185.236.229.50:8003/play/a02f
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Sada El Balad🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,SPACETOON ARABIC
+http://185.236.229.50:8003/play/a013
+#EXTINF:-1 , tvg-logo=".png" ,Sada El Balad
 http://185.236.229.50:8003/play/a01i
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Sada El Balad 2🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Sada El Balad 2
 http://185.236.229.50:8003/play/a01j
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Sada ElBalad 3🇪🇬
+#EXTINF:-1 , tvg-logo=".png" ,Sada ElBalad 3
 http://185.236.229.50:8003/play/a01h
+#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Ahly SD🇪🇬
+http://185.236.229.50:8003/play/a00d
