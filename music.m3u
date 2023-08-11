@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p)
 https://daiconnect.com/live/hls/rotana/music/.m3u8
-#EXTINF:-1 , tvg-logo=".png" ,Mazzika
+#EXTINF:-1 , tvg-logo="https://seeklogo.com/images/M/mazzika-logo-C24180B57A-seeklogo.com.png" ,Mazzika
 http://185.236.229.50:8003/play/a01p
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television (404p) [Not 24/7]
 https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:-1  tvg-logo="https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png" ,MBC FM
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_5.m3u8
-EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/GDUykah.png",Mosaïque FM (480p) [Not 24/7]
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/GDUykah.png",Mosaïque FM (480p) [Not 24/7]
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/Wanasah.png" , WANASAH
+#EXTINF:-1 group-title="Music" tvg-logo="https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png" ,MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_5.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" , WANASAH
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/Rotana_Khalijeah_HD.png" , ROTANA KHALIJIA
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
