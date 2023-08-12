@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/94d87934aa6c9b3ef40e5dbf0ce8f402.jpg",AF:Canal+ Action Ouest
+http://w.bs-share.com:8000/247179867825237/23141543216575/428603
+#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 1 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/438653
+#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 2 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/438654
+#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 3 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/438655
+#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 4 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/438656
+#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 5 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/438657
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/jcl1nNR.png",7 Info 
 https://ythls.onrender.com/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 #EXTINF:-1 group-title="Undefined",947 Joburg 
