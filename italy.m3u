@@ -19,6 +19,12 @@ http://w.bs-share.com:8000/247179867825237/23141543216575/423577
 http://w.bs-share.com:8000/247179867825237/23141543216575/423578
 #EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/301976965c282b380cf203b683047a61.png",IT_ITALIA.1.HD
 http://w.bs-share.com:8000/247179867825237/23141543216575/423581
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 1 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/424232
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 2 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/424234
+#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 3 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/424233
 #EXTINF:-1 group-title="ITALIE + SPORT",IT_Canale 7
 http://w.bs-share.com:8000/247179867825237/23141543216575/423585
 #EXTINF:-1 group-title="ITALIE + SPORT",IT_Rai 5
@@ -33,12 +39,6 @@ http://w.bs-share.com:8000/247179867825237/23141543216575/423591
 http://w.bs-share.com:8000/247179867825237/23141543216575/423649
 #EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/bf146b1d1d7281749d2715c20bbb9c46.png",IT_BOING.PLUS
 http://w.bs-share.com:8000/247179867825237/23141543216575/423656
-#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 2 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/424232
-#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 3 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/424233
-#EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://bs-share.com:8000/images/dbf9bc579dd197b790138a609cab0221.png",Sky Primafila 4 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/424234
 #EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/e1d80b64345b963d17a4631c5efe558d.png",IT RSI LA 1 HD
 http://w.bs-share.com:8000/247179867825237/23141543216575/438023
 #EXTINF:-1 group-title="ITALIE + SPORT" tvg-logo="http://w.bs-share.com:8000/images/8f66d6ba7a5a0c00077c6eb2e16bd1be.png",IT RSI LA 2 HD
