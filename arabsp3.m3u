@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/18b2wkT.png",Arriadia Maroc
+http://w.bs-share.com:8000/247179867825237/23141543216575/256019
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://imgur.com/y4Q1Q83.png" group-title="Sports",Abu Dhabi Sports 2 
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1  
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2  
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",beIN Sports Xtra 
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://imgur.com/mLuZtc4.png" group-title="Sports",KSA Sports 1  
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://imgur.com/mLuZtc4.png" group-title="Sports",KSA Sports 2  
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-id="KSASports3.sa" tvg-logo="https://imgur.com/mLuZtc4.png" group-title="Sports",KSA Sports 3  
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://imgur.com/mLuZtc4.png" group-title="Sports",KSA Sports 4  
+https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="Sports",Dubai Racing 1
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="Sports",Dubai Racing 2 
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="Sports",Dubai Racing 3 
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1 
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 2 
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 3  
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sports",Sharjah Sports TV 
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SSCActionWaleed.sa" tvg-logo="https://imgur.com/PazB0nN.png" group-title="Sports",SSC Action  
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 tvg-id="SSCActionWaleedExtra.sa" tvg-logo="https://imgur.com/PazB0nN.png" group-title="Sports",SSC Action Extra  
+https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 group-title="AR | HD ALGERIA" tvg-logo="https://logo.diamondtv.one/images/logos/ALGERIA/ELHEDDAF.png",AR | EL HEDDAF
+http://line.team-tv.link:80/mutant007/UzskkVQyjP/112848
+#EXTINF:-1 group-title="Libya" tvg-logo="http://w.bs-share.com:8000/images/e061f106f774c56a2af3b4a0a022bf87.png",Libya Sport TV HD
+http://185.236.229.50:8002/play/a00k
+#EXTINF:-1 group-title="Egypt" tvg-logo="http://w.bs-share.com:8000/images/3d3352521c293cadcc08151db15c168e.png",NILE SPORT EGY
+http://w.bs-share.com:8000/247179867825237/23141543216575/8748
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/80bb61ca31ddd00d1b79f88129c2de88.png",Ontime Sports 1 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/245623
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/80bb61ca31ddd00d1b79f88129c2de88.png",Ontime Sports 2 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/245624
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/80bb61ca31ddd00d1b79f88129c2de88.png",ONTIME-SPORTS 3 HD
+http://w.bs-share.com:8000/247179867825237/23141543216575/422866
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/BniV7WX.png",Alahly TV
+http://185.236.229.50:8003/play/a00d
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/a2faa65d60a37776b85d9ddea54d682a.png",Zamalek TV
+http://w.bs-share.com:8000/247179867825237/23141543216575/256019
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/RsYVwOL.png",OMAN Sport
+http://w.bs-share.com:8000/247179867825237/23141543216575/256019
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/a81I4uf.png",YAS Sport
+http://192.168.10.67:1935/nile/yas/playlist.m3u8
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="https://i.imgur.com/2EmrZPQ.png",Jordan Sport
+http://185.236.229.50:8003/play/a020
