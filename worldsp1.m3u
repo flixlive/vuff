@@ -9,42 +9,42 @@ http://w.bs-share.com:8000/247179867825237/23141543216575/438655
 http://w.bs-share.com:8000/247179867825237/23141543216575/438656
 #EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 5 HD
 http://w.bs-share.com:8000/247179867825237/23141543216575/438657
-#EXTINF:-1 group-title="Deportes",ESPN 1 MX
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lifepng.com/wp-content/uploads/2020/12/Espn-Logo-png-hd.png" ,ESPN 1 MX
 http://167.114.156.136:25461/INFINITV/ZX89NM22/35
-#EXTINF:-1 group-title="Deportes",ESPN 2 MX
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://www.lifepng.com/wp-content/uploads/2020/12/Espn-Logo-png-hd.png" ,ESPN 2 MX
 http://167.114.156.136:25461/INFINITV/ZX89NM22/36
-#EXTINF:-1 group-title="Deportes",ESPN 2 US
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lifepng.com/wp-content/uploads/2020/12/Espn-Logo-png-hd.png" ,ESPN US
 http://167.114.156.136:25461/INFINITV/ZX89NM22/37
-#EXTINF:-1 group-title="Deportes",Fox Deportes
+#EXTINF:-1 group-title="Deportes" tvg-logo=" https://cdn.tvpassport.com/image/station/240x135/fox-deportes.png" ,Fox Deportes
 http://167.114.156.136:25461/INFINITV/ZX89NM22/38
-#EXTINF:-1 group-title="Deportes",Fox Sports 1 MX
+#EXTINF:-1 group-title="Deportes" tvg-logo=" https://cdn-payscale.com/content/logos/Fox-Sports.SOURCE.crunchbase.png" ,Fox Sports(Latino)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/40
-#EXTINF:-1 group-title="Deportes",UFC TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/47
-#EXTINF:-1 group-title="Deportes",Toros TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/46
-#EXTINF:-1 group-title="Deportes",F1 DAZN
-http://167.114.156.136:25461/INFINITV/ZX89NM22/45
-#EXTINF:-1 group-title="Cine",Fox Premium
-http://167.114.156.136:25461/INFINITV/ZX89NM22/69
-#EXTINF:-1 group-title="Deportes",Eurosport 2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/141
-#EXTINF:-1 group-title="USA",MLB NETWORK (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/188
-#EXTINF:-1 group-title="Deportes",DAZN 3
-http://167.114.156.136:25461/INFINITV/ZX89NM22/205
-#EXTINF:-1 group-title="Deportes",Eurosports 1
-http://167.114.156.136:25461/INFINITV/ZX89NM22/206
-#EXTINF:-1 group-title="Deportes",Formula 1 DAZN 2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/196
-#EXTINF:-1 group-title="Deportes",GolTV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/208
-#EXTINF:-1 group-title="Deportes",DAZN 4
-http://167.114.156.136:25461/INFINITV/ZX89NM22/211
-#EXTINF:-1 group-title="USA",Fox Sport 1 (USA)
+#EXTINF:-1 group-title="USA" tvg-logo=" https://cdn-payscale.com/content/logos/Fox-Sports.SOURCE.crunchbase.png" ,Fox Sport 1 (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/221
-#EXTINF:-1 group-title="USA",Fox Sport 2 (USA)
+#EXTINF:-1 group-title="USA" tvg-logo="https://cdn-payscale.com/content/logos/Fox-Sports.SOURCE.crunchbase.png " ,Fox Sport 2 (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/222
+#EXTINF:-1 group-title="Cine" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png " ,Fox Premium
+http://167.114.156.136:25461/INFINITV/ZX89NM22/69
+#EXTINF:-1 group-title="Deportes" tvg-logo=" https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG.png " ,UFC TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/47
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/55/203605.png ",Toros TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/46
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://seeklogo.com/images/E/eurosport-logo-3A400886C0-seeklogo.com.png " ,Eurosports 1
+http://167.114.156.136:25461/INFINITV/ZX89NM22/206
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://seeklogo.com/images/E/eurosport-logo-3A400886C0-seeklogo.com.png " ,Eurosport 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/141
+#EXTINF:-1 group-title="USA" tvg-logo="https://fredericbernardmusic.com/wp-content/uploads/2016/01/mlb-logo-png.png " ,MLB NETWORK (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/188
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.chillglobal.com/images/channels/rsz-gol-tv-1511690575.jpg " ,GolTV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/208
+#EXTINF:-1 group-title="Deportes" tvg-logo=" https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg" ,F1 DAZN
+http://167.114.156.136:25461/INFINITV/ZX89NM22/45
+#EXTINF:-1 group-title="Deportes" tvg-logo=" https://barrettsportsmedia.com/wp-content/uploads/2019/07/DAZN-e1562687442850.jpg" ,DAZN 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/196
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2019/07/DAZN-e1562687442850.jpg " ,DAZN 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/205
+#EXTINF:-1 group-title="Deportes"  tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2019/07/DAZN-e1562687442850.jpg " ,DAZN 4
+http://167.114.156.136:25461/INFINITV/ZX89NM22/211
 #EXTINF:-1 group-title="Sports" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png",Türkmenistan Sport  
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network 
