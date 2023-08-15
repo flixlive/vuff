@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="BEIN SPORT HD+FHD" tvg-logo="https://imgur.com/qK2x52B.png",: Hidden Strike (2023)
+#EXTINF:-1  tvg-logo="https://media.fushaar.com/media/2023/08/zsbolOkw8RhTU4DKOrpf4M7KCmi-329x495.jpg",: Hidden Strike (2023)
 https://media.fushaar.com/media/2023/08/zsbolOkw8RhTU4DKOrpf4M7KCmi-329x495.jpg
-#EXTINF:-1 group-title="BEIN SPORT HD+FHD" tvg-logo="https://imgur.com/ee6TriO.png",FULL HD - جودة عالية
+#EXTINF:-1  tvg-logo="https://imgur.com/ee6TriO.png",FULL HD - جودة عالية
 https://stream.fushaar.link/movie/45912/45912.mp4
-#EXTINF:-1 group-title="BEIN SPORT HD+FHD" tvg-logo="https://imgur.com/KIwa1uD.jpg",SD - جودة متوسطة
+#EXTINF:-1  tvg-logo="https://imgur.com/KIwa1uD.jpg",SD - جودة متوسطة
 https://stream.fushaar.link/movie/45912/45912-480p.mp4
-#EXTINF:-1 group-title="BEIN SPORT HD+FHD" tvg-logo="https://imgur.com/bkhjsQ1.jpg",AR: LOW - جودة ضعيفة
+#EXTINF:-1  tvg-logo="https://imgur.com/bkhjsQ1.jpg",AR: LOW - جودة ضعيفة
 https://stream.fushaar.link/movie/45912/45912-240p.mp4
