@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/18b2wkT.png",Arriadia Maroc
-http://w.bs-share.com:8000/247179867825237/23141543216575/256019
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://imgur.com/y4Q1Q83.png" group-title="Sports",Abu Dhabi Sports 2 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1  
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://arabic-media.com/img/stn/src/bahraintvsports.jpg" group-title="Sports",Bahrain Sports 1  
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2  
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://arabic-media.com/img/stn/src/bahraintvsports.jpg" group-title="Sports",Bahrain Sports 2  
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",beIN Sports Xtra 
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
