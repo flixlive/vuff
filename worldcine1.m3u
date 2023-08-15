@@ -27,55 +27,9 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/189
 http://167.114.156.136:25461/INFINITV/ZX89NM22/190
 #EXTINF:-1  tvg-logo="https://imgur.com/Qa398Z9.png" ,US - Sony cinema
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", ATRES CINE
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 group-title="Bics Extra",tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" USA | Paramount Network
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=1046640059&_cdn_timestamp=1691948916&_cdn_token=30aa9f6f281171848582402b74009bd00cbdcfd5
-#EXTINF:-1 group-title="Bics Extra",tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" USA | Sony Channel
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=1046641219&_cdn_timestamp=1691948939&_cdn_token=f1901782b179eb209cbe95cfeadf9daeff4c0762
-#EXTINF:-1 group-title="Bics Extra",tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/GREAT!_movies.png" USA | Sony Movies
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=1046642211&_cdn_timestamp=1691948967&_cdn_token=ea15a50476b9c2a2d1d183d9fd2cdf53368d9019
-#EXTINF:-1 group-title="Bics Extra", USA | TBS
-http://181.189.243.254:8000/play/a0pj/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Studio Universal
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=1046653107&_cdn_timestamp=1691949257&_cdn_token=13c94e8b7e602d5f8e7d76dace7f8811788476c1
-#EXTINF:-1 group-title="Bics Extra", USA | Syfy
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=1046654171&_cdn_timestamp=1691949286&_cdn_token=d5a03a9f7abf26b76f9b22e429cab21c6b0933bc
-#EXTINF:-1 group-title="Bics Extra", USA | Warner Channel
-http://177.53.153.21:8001/play/a08l/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Star Channel
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=1046656203&_cdn_timestamp=1691949346&_cdn_token=ffc484a84680189b3e72b12e55208c8ccceb59df
-#EXTINF:-1 group-title="Bics Extra", USA | FX
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1046658219&_cdn_timestamp=1691949394&_cdn_token=64cc20c56e42e9cb1614a1d7db15506c659bd923
-#EXTINF:-1 group-title="Bics Extra", USA | Universal TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1048114267&_cdn_timestamp=1691976786&_cdn_token=1296c70f7608141cfae5fbcdf521c73b2405ddc8
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Crime
-http://177.53.153.21:8001/play/a09g/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Cinema
-http://177.53.153.21:8001/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Comedy
-http://201.218.137.232:4123/play/a042/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Reality
-http://201.218.137.232:4123/play/a042/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Premiere
-http://181.189.243.254:8000/play/a0ui/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Cinemax
-http://45.189.117.202:48000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | HBO
-http://177.53.153.21:8001/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | HBO 2
-http://177.53.153.21:8001/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | HBO+
-http://201.218.137.242:8000/play/a00a
-#EXTINF:-1 group-title="Bics Extra", USA | HBO Family
-http://177.53.153.21:8001/play/a04g/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | HBO Xtreme
-http://177.53.153.21:8001/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | HBO Pop
-http://177.53.153.21:8001/play/a01y/index.m3u8
-#EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN MOVIES
+#EXTINF:-1 group-title="OTHER MOVIES" tvg-logo="https://static.visionplus.id/images/channel/2b73b3f9/a360.png" ,KOREAN TVN MOVIES
 http://210.210.155.35/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="OTHER MOVIES",NEW KOREAN MOVIES
+#EXTINF:-1 group-title="OTHER MOVIES" tvg-logo="https://static.visionplus.id/images/channel/2b73b3f9/a360.png" ,NEW KOREAN MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.uk" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies UK 
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -85,15 +39,9 @@ https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Shows UK 
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="UK",tvg-logo="https://imgur.com/a7KAQNR.png"tvg-logo="https://imgur.com/a7KAQNR.png",|UK| SKY CINEMA SELECT HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/431924
-#EXTINF:-1 group-title="UK" tvg-logo="https://imgur.com/a7KAQNR.png",|UK| SKY CINEMA PREMIERE HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/431925
-#EXTINF:-1 group-title="UK" tvg-logo="https://imgur.com/a7KAQNR.png",|UK| SKY CINEMA GREATS HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/431926
-#EXTINF:-1 group-title="UK" tvg-logo="https://imgur.com/a7KAQNR.png",|UK| SKY CINEMA FAMILY HD
+#EXTINF:-1 group-title="UK" tvg-logo="https://imgur.com/a7KAQNR.png",|UK| SKY FAMILY HD
 http://w.bs-share.com:8000/247179867825237/23141543216575/431927
-#EXTINF:-1 group-title="UK" tvg-logo="https://imgur.com/a7KAQNR.png",|UK| SKY CINEMA ACTION HD
+#EXTINF:-1 group-title="UK" tvg-logo="https://imgur.com/a7KAQNR.png",|UK| SKY ACTION HD
 http://w.bs-share.com:8000/247179867825237/23141543216575/431930
 #EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://lo1.in/LOGO/UK/AMC.png",|UK| AMC HD
 http://w.bs-share.com:8000/247179867825237/23141543216575/431931
