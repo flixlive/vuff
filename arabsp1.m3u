@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 1
+https://webudit.cdnhks.lol/lb/premium98/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 2
+https://webudit.cdnhks.lol/lb/premium99/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 3
+https://webudit.cdnhks.lol/lb/premium100/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 1
+https://webudit.cdnhks.lol/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 2
+https://webudit.cdnhks.lol/lb/premium92/index.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 3
+https://webudit.cdnhks.lol/lb/premium93/index.m3u8
+#EXTINF:-1 tvg-id="beINSports4.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 4
+https://webudit.cdnhks.lol/lb/premium94/index.m3u8
+#EXTINF:-1 tvg-id="beINSports5.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png",beIN Sports 5
+https://webudit.cdnhks.lol/lb/premium95/index.m3u8
+#EXTINF:-1 tvg-id="beINSports6.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 6
+https://webudit.cdnhks.lol/lb/premium96/index.m3u8
+#EXTINF:-1 tvg-id="beINSports7.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 7
+https://webudit.cdnhks.lol/lb/premium97/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsFrance1.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports France 1
+https://webudit.cdnhks.lol/lb/premium116/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsFrance1.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports France 2
+https://webudit.cdnhks.lol/lb/premium117/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsFrance1.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports France 3
+https://webudit.cdnhks.lol/lb/premium118/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 1
+https://webudit.cdnhks.lol/lb/premium61/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 2
+https://webudit.cdnhks.lol/lb/premium90/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 3
+https://webudit.cdnhks.lol/lb/premium46/index.m3u8
+#EXTINF:-1 , group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png", Bein Sport Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 , group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png", Bein Sport Extra
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-
 #EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/273030f950c5d7a30ef88e6675fcabe0.png",Bein News 
 http://w.bs-share.com:8000/247179867825237/23141543216575/131
 #EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="https://www4.0zz0.com/2023/08/07/19/342650685.png",مباريات الدوري الأمريكي
