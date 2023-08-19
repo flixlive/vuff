@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 1
+https://webudit.cdnhks.lol/lb/premium98/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 2
+https://webudit.cdnhks.lol/lb/premium99/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN- Sports Premium 3
+https://webudit.cdnhks.lol/lb/premium100/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 1
+https://webudit.cdnhks.lol/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 2
+https://webudit.cdnhks.lol/lb/premium92/index.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 3
+https://webudit.cdnhks.lol/lb/premium93/index.m3u8
+#EXTINF:-1 tvg-id="beINSports4.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 4
+https://webudit.cdnhks.lol/lb/premium94/index.m3u8
+#EXTINF:-1 tvg-id="beINSports5.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png",beIN Sports 5
+https://webudit.cdnhks.lol/lb/premium95/index.m3u8
+#EXTINF:-1 tvg-id="beINSports6.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 6
+https://webudit.cdnhks.lol/lb/premium96/index.m3u8
+#EXTINF:-1 tvg-id="beINSports7.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports 7
+https://webudit.cdnhks.lol/lb/premium97/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsFrance1.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports France 1
+https://webudit.cdnhks.lol/lb/premium116/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsFrance1.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports France 2
+https://webudit.cdnhks.lol/lb/premium117/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsFrance1.qa" group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports France 3
+https://webudit.cdnhks.lol/lb/premium118/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 1
+https://webudit.cdnhks.lol/lb/premium61/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 2
+https://webudit.cdnhks.lol/lb/premium90/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" group-title="Live EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 3
+https://webudit.cdnhks.lol/lb/premium46/index.m3u8
+#EXTINF:-1 , group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png", Bein Sport Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 , group-title="BEIN SPORTS GRUP" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png", Bein Sport Extra
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/273030f950c5d7a30ef88e6675fcabe0.png",Bein News 
+http://w.bs-share.com:8000/247179867825237/23141543216575/131
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="https://www4.0zz0.com/2023/08/07/19/342650685.png",مباريات الدوري الأمريكي
+http://w.bs-share.com:8000/247179867825237/23141543216575/462104
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/4088f87db6d3636e05c192d73439964e.png",AR: Startz Play SPORTS 1 
+http://w.bs-share.com:8000/247179867825237/23141543216575/438680
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/b4c9d1971ffe4fb9fb15c0de41fe3c10.png",AR: STARZ PLAY SPORT 2 
+http://w.bs-share.com:8000/247179867825237/23141543216575/438685
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/6bd65617f201edf82d6c4cde5b660c5e.png",Bein Premium 1
+http://w.bs-share.com:8000/247179867825237/23141543216575/329310
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/7dcb1953f4e175cbc378498b8e728416.png",Bein Premium 2
+http://w.bs-share.com:8000/247179867825237/23141543216575/329311
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/9938cf4504c1a3db15d6d6c4a71395fa.png",Bein Premium 3
+http://w.bs-share.com:8000/247179867825237/23141543216575/329312
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/4805357687a39278579db155cd289318.png",Bein Sport  1
+http://w.bs-share.com:8000/247179867825237/23141543216575/393338
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/c06ad20859dd9b4044a309a84d18ee01.png",Bein Sport 2
+http://w.bs-share.com:8000/247179867825237/23141543216575/329314
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/cdb0febcda281effcd2def503ba7c1ea.png",Bein Sports 3
+http://w.bs-share.com:8000/247179867825237/23141543216575/329315
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/ee2457a183dc9001ef65903e1d5663ba.png",Bein Sports 4
+http://w.bs-share.com:8000/247179867825237/23141543216575/329316
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/cbbc13149899984c684fa7d9948d5450.png",Bein Sports 5
+http://w.bs-share.com:8000/247179867825237/23141543216575/329317
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/56292645055a63221954a88e5e9777ec.png",Bein Sports 6
+http://w.bs-share.com:8000/247179867825237/23141543216575/329318
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/c416837fcdb442c97129ec27dc126dcb.png",Bein Sports 7
+http://w.bs-share.com:8000/247179867825237/23141543216575/329319
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/fc48544c2e0617cdf78981adc419bf5c.png",beIN SPORTS 1 EXTRA 
+http://w.bs-share.com:8000/247179867825237/23141543216575/422749
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/d5429c57cf46381ee0556e36b35291de.png",Bein Sports English 1
+http://w.bs-share.com:8000/247179867825237/23141543216575/329325
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/6a957c54021de446251e4a4e3abeb5ee.png",Bein Sports English  2
+http://w.bs-share.com:8000/247179867825237/23141543216575/457809
+#EXTINF:-1 group-title="BEIN SPORT VIP+SD" tvg-logo="http://w.bs-share.com:8000/images/01a198bf694131f0680ab8c4baed480e.png",AR: Startz Play seria A VIP
+http://w.bs-share.com:8000/247179867825237/23141543216575/438682
+#EXTINF:-1 group-title="BEIN SPORT VIP+SD" tvg-logo="http://w.bs-share.com:8000/images/b4c9d1971ffe4fb9fb15c0de41fe3c10.png",AR: Startz Play seria A 2 VIP
+http://w.bs-share.com:8000/247179867825237/23141543216575/457839
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="https://www7.0zz0.com/2023/07/15/10/333860342.jpg",Match live 1 
+http://w.bs-share.com:8000/247179867825237/23141543216575/458048
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/e3c22cdd36305431ce7df27a5a5e1083.png",SSC SPORTS 1 
+http://w.bs-share.com:8000/247179867825237/23141543216575/393179
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/e3c22cdd36305431ce7df27a5a5e1083.png",AR:SSC 1 
+http://w.bs-share.com:8000/247179867825237/23141543216575/458050
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/0958bd39636fec0351b0e551aec914dd.png",SSC SPORTS 2 
+http://w.bs-share.com:8000/247179867825237/23141543216575/393180
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/0e172251f39e191472985d69f4901e17.png",SSC SPORTS 3 
+http://w.bs-share.com:8000/247179867825237/23141543216575/393181
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/04c8ccd69be20b18cc750967959852f0.png",SSC SPORTS 4 
+http://w.bs-share.com:8000/247179867825237/23141543216575/393182
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/b3f08e39481cd121073a1027c1413989.png",SSC SPORTS 5 
+http://w.bs-share.com:8000/247179867825237/23141543216575/419554
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/b3f08e39481cd121073a1027c1413989.png",AR: SSC 5 
+http://w.bs-share.com:8000/247179867825237/23141543216575/458051
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/7c29eb4bd9130ae8b9d2fdf18483055e.png",SSC KSA Extra 1
+http://w.bs-share.com:8000/247179867825237/23141543216575/393185
+#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/7a0fad9ba2cdd5349dba06f0603afddd.png",SSC KSA Extra 2
+http://w.bs-share.com:8000/247179867825237/23141543216575/393882
+#EXTINF:-1 group-title="BEIN SPORT +F" tvg-logo="http://w.bs-share.com:8000/images/7c29eb4bd9130ae8b9d2fdf18483055e.png",AR:SSC EXTRA 1 
+http://w.bs-share.com:8000/247179867825237/23141543216575/458049
