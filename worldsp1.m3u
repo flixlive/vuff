@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 1 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438653
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 2 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438654
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 3 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438655
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 4 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438656
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 5 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438657
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live SERIE A",Eleven 1 HD
+https://webudit.cdnhks.lol/lb/premium455/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live SERIE A",Eleven 2 HD
+https://webudit.cdnhks.lol/lb/premium456/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live SERIE A",Eleven 3 HD
+https://webudit.cdnhks.lol/lb/premium457/index.m3u8
+#EXTINF:1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live EPL",Eleven Sports 1 Poland
+https://webudit.cdnhks.lol/lb/premium71/index.m3u8
+#EXTINF:2 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live EPL",Eleven Sports 2 Poland
+https://webudit.cdnhks.lol/lb/premium72/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports3Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live EPL",Eleven Sports 3 Poland
+https://webudit.cdnhks.lol/lb/premium428/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lifepng.com/wp-content/uploads/2020/12/Espn-Logo-png-hd.png" ,ESPN 1 MX
 http://167.114.156.136:25461/INFINITV/ZX89NM22/35
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://www.lifepng.com/wp-content/uploads/2020/12/Espn-Logo-png-hd.png" ,ESPN 2 MX
