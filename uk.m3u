@@ -45,13 +45,9 @@ http://w.bs-share.com:8000/247179867825237/23141543216575/432021
 http://w.bs-share.com:8000/247179867825237/23141543216575/432022
 #EXTINF:-1 group-title="UK" tvg-logo="http://fast.iptvhdstream.xyz:25461/images/Vn8LTLYzZtG2ihjU9j878JCq0kyvVa4P.jpg",|UK| NICKELODEON
 http://w.bs-share.com:8000/247179867825237/23141543216575/432024
-#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://lo1.in/LOGO/UK/BBC1.png",|UK| BBC 1 (Server 1)
-https://webudit.cdnhks.lol/lb/premium356/index.m3u8
-#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://lo1.in/LOGO/UK/BBC1.png",|UK| BBC 1 (Server 2)
+#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://lo1.in/LOGO/UK/BBC1.png",|UK| BBC 1 
 http://w.bs-share.com:8000/247179867825237/23141543216575/432026
-#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://lo1.in/LOGO/UK/BBC2.png",|UK| BBC 2 (Server 1)
-https://webudit.cdnhks.lol/lb/premium357/index.m3u8
-#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://lo1.in/LOGO/UK/BBC2.png",|UK| BBC 2 (Server 2)
+#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://lo1.in/LOGO/UK/BBC2.png",|UK| BBC 2
 http://w.bs-share.com:8000/247179867825237/23141543216575/432027
 #EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://lo1.in/LOGO/UK/BBC3.png",|UK| BBC 3 HD
 http://w.bs-share.com:8000/247179867825237/23141543216575/432028
