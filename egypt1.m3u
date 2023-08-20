@@ -11,85 +11,85 @@ https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
 #EXTINF:-1 "tvg-logo="https://bit.ly/40ymKug.png " group-title="🇪🇬المصرية Egypt",🇪🇬القاهرة والناس
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/42OJck9..png " group-title="🇪🇬المصرية Egypt",eXtra News🇪🇬
+#EXTINF:-1 "tvg-logo="https://bit.ly/42OJck9.png " group-title="🇪🇬المصرية Egypt",eXtra News🇪🇬
 https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
-#EXTINF:-1 "tvg-logo=".png " group-title="🇪🇬المصرية Egypt",🇪🇬TOKTOK Aflam
+#EXTINF:-1 "tvg-logo="https://www.altkia.com/wp-content/uploads/2015/06/Toktok-Aflam-TV.jpg " group-title="🇪🇬المصرية Egypt",🇪🇬TOKTOK Aflam
 https://ythls.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
 #EXTINF:-1 "tvg-logo="https://bit.ly/3nvtA4S.png " group-title="🇪🇬المصرية Egypt",Al Qahera News🇪🇬
 https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
 #EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ZILZAL CLASSIC🇪🇬
 http://185.236.229.50:8002/play/a02c
-#EXTINF:-1 , tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-1-eg.png" ,AL Oula EGYPTE HD
+#EXTINF:-1 , tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/7772749.5473ba5946293.jpg" ,Mazzika
+http://185.236.229.50:8003/play/a01p
+#EXTINF:-1 , tvg-logo="https://www.lyngsat.com/logo/tv/mm/misr-al-zeraya-eg.png" ,Misr Al Zera3eya
+http://185.236.229.50:8003/play/a01o
+#EXTINF:-1 , tvg-logo="https://www.ngmisr.com/wp-content/uploads/2021/12/FB_IMG_1638572702665.jpg" ,Mix
+http://185.236.229.50:8003/play/a014
+#EXTINF:0 tvg-logo="https://www.klma.org/wp-content/uploads/2019/10/8891763c-bab4-43ba-badb-b0102e5717d5.png" group-title="🇪🇬المصرية Egypt",Nile Culture🇪🇬
+http://185.236.229.50:8003/play/a00n
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/v4Sj531P9Ks/hq720.jpg" group-title="🇪🇬المصرية Egypt",Nile Family🇪🇬
+http://185.236.229.50:8003/play/a00m
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Spacetoon.png" ,SPACETOON ARABIC
+http://185.236.229.50:8003/play/a013
+#EXTINF:-1 , tvg-logo="https://maktbii.com/wp-content/uploads/2023/03/11copycopy.png" ,Sada El Balad
+http://185.236.229.50:8003/play/a01i
+#EXTINF:-1 , tvg-logo="https://i0.wp.com/egytal2a.com/wp-content/uploads/2018/10/%D9%82%D9%86%D8%A7%D8%A9-%D8%B5%D8%AF%D9%89-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-2-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.jpg" ,Sada El Balad 2
+http://185.236.229.50:8003/play/a01j
+#EXTINF:-1 , tvg-logo="https://ma3laumat.com/wp-content/uploads/2021/10/%D9%82%D9%86%D8%A7%D8%A9-%D8%B5%D8%AF%D9%89-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA-2021.jpg" ,Sada ElBalad 3
+http://185.236.229.50:8003/play/a01h
+#EXTINF:-1 , tvg-logo="https://production-alahly.s3.us-east-2.amazonaws.com/Article/original/%D8%B4%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-63f3985d4fbd3.png " group-title="🇪🇬المصرية Egypt",Al Ahly SD🇪🇬
+http://185.236.229.50:8003/play/a00d
+#EXTINF:-1 , tvg-logo="https://www.dostor.org/UploadCache/libfiles/382/9/600x338o/618.jpg" ,AL Oula EGYPTE HD
 http://185.236.229.50:8003/play/a00k
-#EXTINF:-1 , tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-1-eg.png" ,AL oula - EGYPTE
+#EXTINF:-1 , tvg-logo="https://www.dostor.org/UploadCache/libfiles/382/9/600x338o/618.jpg" ,AL oula - EGYPTE
 http://185.236.229.50:8003/play/a00j
-#EXTINF:-1 , tvg-logo=".png" ,Al Kahera Wal Nas
+#EXTINF:-1 , tvg-logo="https://content.almalnews.com/wp-content/uploads/2015/04/cf2f4520-cdf3-4d6f-91f6-4c0dca93000b.jpg" ,Al Kahera Wal Nas
 http://185.236.229.50:8003/play/a00h
-#EXTINF:-1 , tvg-logo=".png" ,Al Mawsleya
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84%D9%8A%D8%A9.jpg" ,Al Mawsleya
 http://185.236.229.50:8003/play/a01d
+#EXTINF:-1 , tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/CBC-Drama.jpg" ,CBC Drama
+http://185.236.229.50:8003/play/a010
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cbc_sofra_logo.png/800px-Cbc_sofra_logo.png" ,CBC Sofra
+http://185.236.229.50:8003/play/a00z
+#EXTINF:-1 , tvg-logo="https://www.indgroup.tv/sites/default/files/styles/clients/public/cima.png?itok=aKpxpYlZ" ,Cima
+http://185.236.229.50:8003/play/a02j
 #EXTINF:-1 , tvg-logo=".png" ,Al-Arabiya Alhadath
 http://185.236.229.50:8003/play/a009
-#EXTINF:-1 , tvg-logo=".png" ,Al-EKhbaria
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/%D8%A7%D9%84%D9%82%D9%86%D8%A7.png" ,Al-EKhbaria
 http://185.236.229.50:8003/play/a031
-#EXTINF:-1 , tvg-logo=".png" ,Al-Nahar Cinema
+#EXTINF:-1 , tvg-logo="https://fr.kingofsat.net/jpg/a-naharcinema.jpg" ,Al-Nahar Cinema
 http://185.236.229.50:8003/play/a00b
-#EXTINF:-1 , tvg-logo=".png" ,Al-Nahar Drama
+#EXTINF:-1 , tvg-logo="https://tagrbty.com/wp-content/uploads/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-1.png" ,Al-Nahar Drama
 http://185.236.229.50:8003/play/a00x
-#EXTINF:-1 , tvg-logo=".png" ,Al-Nahar One
+#EXTINF:-1 , tvg-logo="https://artistes-productions.com/wp-content/uploads/elementor/thumbs/al-nahar-q6lyc2elzifugt5g20l1tl44zga1uacmtv1cafpz8g.jpg" ,Al-Nahar One
 http://185.236.229.50:8003/play/a00w
-#EXTINF:-1 , tvg-logo=".png" ,AlHadath Alyoum
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/AlHADATH.png" ,AlHadath Alyoum
 http://185.236.229.50:8003/play/a01g
-#EXTINF:-1 , tvg-logo=".png" ,AlHayat HD
+#EXTINF:-1 , tvg-logo="https://logosave.com/images/large/8/Al-Hayat-TV-logo.png" ,AlHayat HD
 http://185.236.229.50:8003/play/a03e
-#EXTINF:-1 , tvg-logo=".png" ,AlSaeedah
+#EXTINF:-1 , tvg-logo="https://media0026.elcinema.com/uploads/_315x420_2502fa5117c52f1237c9687147a30853e509092524c212a7315afab247b302da.jpg" ,AlSaeedah
 http://185.236.229.50:8003/play/a01r
-#EXTINF:-1 , tvg-logo=".png" ,Alhayat Muslsalat
+#EXTINF:-1 , tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/773d76539953.Y3JvcCw0MDYsMzE3LDIwNCwxNTE.png" ,Alhayat Muslsalat
 http://185.236.229.50:8003/play/a012
 #EXTINF:-1 , tvg-logo=".png" ,Alhayat We Alnas
 http://185.236.229.50:8003/play/a03d
-#EXTINF:-1 , tvg-logo=".png" ,CBC Drama
-http://185.236.229.50:8003/play/a010
-#EXTINF:-1 , tvg-logo=".png" ,CBC Sofra
-http://185.236.229.50:8003/play/a00z
 #EXTINF:-1 , tvg-logo=".png" ,CNN
 http://185.236.229.50:8003/play/a01s
-#EXTINF:-1 , tvg-logo=".png" ,Cima
-http://185.236.229.50:8003/play/a02j
-#EXTINF:-1 , tvg-logo=".png" ,Dijlah Zaman TV
+#EXTINF:-1 , tvg-logo="https://media0026.elcinema.com/tvguide/1386_1.png" ,Dijlah Zaman TV
 http://185.236.229.50:8003/play/a02u
-#EXTINF:-1 , tvg-logo=".png" ,ELMEHWAR
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Elmehwar.logo.png.jpg" ,ELMEHWAR
 http://185.236.229.50:8003/play/a01f
-#EXTINF:-1 , tvg-logo=".png" ,Egyptian TV HD
+#EXTINF:-1 , tvg-logo="https://i.ytimg.com/vi/6E1fMKj8Yh0/hqdefault.jpg" ,Egyptian TV HD
 http://185.236.229.50:8003/play/a01b
-#EXTINF:-1 , tvg-logo=".png" ,Extra News
+#EXTINF:-1 , tvg-logo="https://egypt.mom-rsf.org/typo3temp/_processed_/2/c/csm_15037-1456_import_c5ca601f97.png" ,Extra News
 http://185.236.229.50:8003/play/a011
-#EXTINF:-1 , tvg-logo=".png" ,Gil Almostaqbal
+#EXTINF:-1 , tvg-logo="https://i.ytimg.com/vi/FlVBzx0UCJg/hqdefault.jpg" ,Gil Almostaqbal
 http://185.236.229.50:8003/play/a01u
-#EXTINF:-1 , tvg-logo=".png" ,MBC Masr 2
+#EXTINF:-1 , tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RBy7p4IVRuLXtd_KdO4HtgiMeT6SDbX8BPAlfoh4n8qoEAmBFk3S29FyzqAqfXdfFJamDjemSYoZ9J3WTtC6VakaFc02qiKfWebEKPrERoXeSqOdvftp1Ea-seG5s6UywxVeML36wrouhNQBCeFYhCTiTEt8mgU2gQgEMkRBUu5OVRTfKEydwc1C/s416/mbc-masr2.png" ,MBC Masr 2
 http://185.236.229.50:8003/play/a01c
-#EXTINF:-1 , tvg-logo=".png" ,MBN Alhurra HD
+#EXTINF:-1 , tvg-logo="https://media.voltron.alhurra.com/Drupal/01live-106/styles/medium/s3/2020-04/pp.jpg" ,MBN Alhurra HD
 http://185.236.229.50:8003/play/a019
-#EXTINF:-1 , tvg-logo=".png" ,MDEEH
+#EXTINF:-1 , tvg-logo="https://i.ytimg.com/vi/O9QIKoRkkj8/mqdefault.jpg" ,MDEEH
 http://185.236.229.50:8003/play/a00a
-#EXTINF:-1 , tvg-logo=".png" ,Madrastna 3
+#EXTINF:-1 , tvg-logo="https://www.msr4.com/wp-content/uploads/2022/10/1339007_0.jpg" ,Madrastna 3
 http://185.236.229.50:8003/play/a03m
-#EXTINF:-1 , tvg-logo=".png" ,Mazzika
-http://185.236.229.50:8003/play/a01p
-#EXTINF:-1 , tvg-logo=".png" ,Misr Al Zera3eya
-http://185.236.229.50:8003/play/a01o
-#EXTINF:-1 , tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-hollywood-eg.png" ,Mix
-http://185.236.229.50:8003/play/a014
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Nile Culture🇪🇬
-http://185.236.229.50:8003/play/a00n
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Nile Family🇪🇬
-http://185.236.229.50:8003/play/a00m
-#EXTINF:-1 , tvg-logo=".png" ,SPACETOON ARABIC
-http://185.236.229.50:8003/play/a013
-#EXTINF:-1 , tvg-logo=".png" ,Sada El Balad
-http://185.236.229.50:8003/play/a01i
-#EXTINF:-1 , tvg-logo=".png" ,Sada El Balad 2
-http://185.236.229.50:8003/play/a01j
-#EXTINF:-1 , tvg-logo=".png" ,Sada ElBalad 3
-http://185.236.229.50:8003/play/a01h
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",Al Ahly SD🇪🇬
-http://185.236.229.50:8003/play/a00d
