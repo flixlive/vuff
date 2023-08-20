@@ -185,7 +185,7 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/UVGGrQd.png",Semerkand TV  
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/NM2eYgs.png",Show Türk  
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/show-turk-tv.png",Show Türk  
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/CjgbQTk.png",Sinop Yildiz TV 
 https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
@@ -233,7 +233,7 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png",TRT Kurdî 
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/JgUzRH8.png",TRT Müzik 
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://fltaradio.com/upload/2018/12/TRT_MUZIK.jpg",TRT Müzik 
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png",TRT Türk 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
