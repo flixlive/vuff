@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 1
+https://webudit.cdnhks.lol/lb/premium400/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport2Romania.ru" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 2
+https://webudit.cdnhks.lol/lb/premium401/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport3Romania.ro" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 3
+https://webudit.cdnhks.lol/lb/premium402/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 4
+https://webudit.cdnhks.lol/lb/premium403/index.m3u8
+#EXTINF:-1 tvg-id="OrangeSport1.ro" tvg-logo="https://i.ibb.co/QjnhVbB/tv-station-orange-sport-1-1513-modified.png" group-title="VIP SPORT 1",Orange Sport 1
+https://webudit.cdnhks.lol/lb/premium439/index.m3u8
+#EXTINF:-1 tvg-id="OrangeSport2.ro" tvg-logo="https://i.ibb.co/McJHnch/tv-station-orange-sport-2-1514-modified.png" group-title="VIP SPORT 1",Orange Sport 2
+https://webudit.cdnhks.lol/lb/premium440/index.m3u8
+#EXTINF:-1 tvg-id="OrangeSport3.ro" tvg-logo="https://i.ibb.co/cLnkwf9/tv-station-orange-sport-3-1515-modified.png" group-title="VIP SPORT 1",Orange Sport 3
+https://webudit.cdnhks.lol/lb/premium441/index.m3u8
+#EXTINF:-1 tvg-id="OrangeSport4.ro" tvg-logo="https://i.ibb.co/NF3bByd/tv-station-orange-sport-4-1516-modified.png" group-title="VIP SPORT 1",Orange Sport 4
+https://webudit.cdnhks.lol/lb/premium442/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live SERIE A",Eleven 1 HD
 https://webudit.cdnhks.lol/lb/premium455/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live SERIE A",Eleven 2 HD
