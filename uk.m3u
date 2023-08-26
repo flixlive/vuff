@@ -37,9 +37,9 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 http://starshare.live:8080/live/653176410987/643175282541/154665.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK FHD : Premier Sports 1 IRE." tvg-logo="" group-title="CRICKET",UK FHD : Premier Sports 1 IRE.
 http://starshare.live:8080/live/653176410987/643175282541/154666.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: COMEDY CENTRAL" tvg-logo="" group-title="USA",USA: COMEDY CENTRAL
+#EXTINF:-1 tvg-id="" tvg-name="UK: COMEDY CENTRAL" tvg-logo="" group-title="UK",UK: COMEDY CENTRAL
 http://starshare.live:8080/live/653176410987/643175282541/9.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: CBS REALITY" tvg-logo="" group-title="USA",USA: CBS REALITY
+#EXTINF:-1 tvg-id="" tvg-name="UK: CBS REALITY" tvg-logo="" group-title="UK",UK: CBS REALITY
 http://starshare.live:8080/live/653176410987/643175282541/10.ts
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png" group-title="UK| GENERAL",UK: BBC 1
 http://starshare.live:8080/live/653176410987/643175282541/13.ts
@@ -55,7 +55,7 @@ http://starshare.live:8080/live/653176410987/643175282541/167458.ts
 http://starshare.live:8080/live/653176410987/643175282541/167459.ts
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1200px-ITV2_logo_2015.svg.png" group-title="UK| GENERAL",UK: ITV2
 http://starshare.live:8080/live/653176410987/643175282541/16.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: National Geographic" tvg-logo="" group-title="USA",US: National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="US: National Geographic" tvg-logo="" group-title="UK",US: National Geographic
 http://starshare.live:8080/live/653176410987/643175282541/17.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Cbeebies" tvg-logo="" group-title="KIDS",UK: Cbeebies
 http://starshare.live:8080/live/653176410987/643175282541/26.ts
@@ -67,15 +67,15 @@ http://starshare.live:8080/live/653176410987/643175282541/30.ts
 http://starshare.live:8080/live/653176410987/643175282541/31.ts
 #EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png" group-title="UK| GENERAL",UK: ITV 4 HD
 http://starshare.live:8080/live/653176410987/643175282541/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA:  HISTORY  HD" tvg-logo="" group-title="USA",USA:  HISTORY  HD
+#EXTINF:-1 tvg-id="" tvg-name="UK:  HISTORY  HD" tvg-logo="" group-title="UK",UK:  HISTORY  HD
 http://starshare.live:8080/live/653176410987/643175282541/34.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: MTV  HD" tvg-logo="" group-title="USA",USA: MTV  HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV  HD" tvg-logo="" group-title="UK",UK: MTV  HD
 http://starshare.live:8080/live/653176410987/643175282541/35.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: TLC HD" tvg-logo="" group-title="USA",USA: TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: TLC HD" tvg-logo="" group-title="UK",UK: TLC HD
 http://starshare.live:8080/live/653176410987/643175282541/36.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: Nickelodeon" tvg-logo="" group-title="KIDS",USA: Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nickelodeon" tvg-logo="" group-title="KIDS",UK: Nickelodeon
 http://starshare.live:8080/live/653176410987/643175282541/37.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: NICK JR" tvg-logo="" group-title="KIDS",USA: NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="UK: NICK JR" tvg-logo="" group-title="KIDS",UK: NICK JR
 http://starshare.live:8080/live/653176410987/643175282541/38.ts
 #EXTINF:-1 tvg-id="" tvg-name="PB: PTC CHAKDE" tvg-logo="" group-title="PUNJABI",PB: PTC CHAKDE
 http://starshare.live:8080/live/653176410987/643175282541/39.ts
@@ -85,19 +85,19 @@ http://starshare.live:8080/live/653176410987/643175282541/40.ts
 http://starshare.live:8080/live/653176410987/643175282541/42.ts
 #EXTINF:-1 tvg-id="" tvg-name="PB: Balle Balle" tvg-logo="" group-title="PUNJABI",PB: Balle Balle
 http://starshare.live:8080/live/653176410987/643175282541/43.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery channel" tvg-logo="" group-title="USA",USA: Discovery channel
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery channel" tvg-logo="" group-title="UK",UK: Discovery channel
 http://starshare.live:8080/live/653176410987/643175282541/44.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: Boomerang" tvg-logo="" group-title="KIDS",USA: Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="UK: Boomerang" tvg-logo="" group-title="KIDS",UK: Boomerang
 http://starshare.live:8080/live/653176410987/643175282541/45.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="UK| ASIAN",UK: ZEE TV HD
 http://starshare.live:8080/live/653176410987/643175282541/46.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: USA Network" tvg-logo="" group-title="USA",USA: USA Network
+#EXTINF:-1 tvg-id="" tvg-name="UK: UK Network" tvg-logo="" group-title="UK",UK: UK Network
 http://starshare.live:8080/live/653176410987/643175282541/47.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime HD" tvg-logo="" group-title="USA",USA: Showtime HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Showtime HD" tvg-logo="" group-title="UK",UK: Showtime HD
 http://starshare.live:8080/live/653176410987/643175282541/48.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: DISNEY JR HD" tvg-logo="" group-title="KIDS",USA: DISNEY JR HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY JR HD" tvg-logo="" group-title="KIDS",UK: DISNEY JR HD
 http://starshare.live:8080/live/653176410987/643175282541/49.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO  COMEDY" tvg-logo="" group-title="USA",USA: HBO  COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO  COMEDY" tvg-logo="" group-title="UK",UK: HBO  COMEDY
 http://starshare.live:8080/live/653176410987/643175282541/50.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Fight Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="SPORTS",UK: Fight Network
 http://starshare.live:8080/live/653176410987/643175282541/149.ts
