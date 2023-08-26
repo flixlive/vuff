@@ -1,155 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="NOLLYWOOD" tvg-logo="" group-title="AFRICA", NOLLYWOOD
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3292
-#EXTINF:-1 tvg-id="" tvg-name="NOVELAS TV" tvg-logo="" group-title="AFRICA", NOVELAS TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3293
-#EXTINF:-1 tvg-id="" tvg-name="NTV IVORY COAST" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/3f681194-2df8-4ee4-a887-0e5d288c75ff.jpg" group-title="AFRICA", NTV IVORY COAST
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3294
-#EXTINF:-1 tvg-id="" tvg-name="NTV KENYA" tvg-logo="" group-title="AFRICA", NTV KENYA
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3295
-#EXTINF:-1 tvg-id="" tvg-name="NTV UGANDA" tvg-logo="" group-title="AFRICA", NTV UGANDA
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3296
-#EXTINF:-1 tvg-id="" tvg-name="ONE GOSPEL" tvg-logo="" group-title="AFRICA", ONE GOSPEL
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3297
-#EXTINF:-1 tvg-id="" tvg-name="ORTB" tvg-logo="http://live.fauconteam.com/logo/ortb.png" group-title="AFRICA", ORTB
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3298
-#EXTINF:-1 tvg-id="" tvg-name="ORTM" tvg-logo="" group-title="AFRICA", ORTM
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3299
-#EXTINF:-1 tvg-id="" tvg-name="SPICE TV" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/03/06/SpiceTV_logo_4-4_darkbackground_xlrg.png" group-title="AFRICA [SD][VIP]", SPICE TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3619
-#EXTINF:-1 tvg-id="" tvg-name="SS ACTION" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS ACTION
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3620
-#EXTINF:-1 tvg-id="" tvg-name="SS BLITZ" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Blitz_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS BLITZ
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3621
-#EXTINF:-1 tvg-id="" tvg-name="SS CRICKET" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Cricket_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS CRICKET
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3622
-#EXTINF:-1 tvg-id="" tvg-name="SS GOLF" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Golf_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS GOLF
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3623
-#EXTINF:-1 tvg-id="" tvg-name="SS GRANDSTAND" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Grandstand_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS GRANDSTAND
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3624
-#EXTINF:-1 tvg-id="" tvg-name="SS LA LIGA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2022/07/27/SuperSport_4-4_2_001_xlrg.png" group-title="AFRICA [SD][VIP]", SS LA LIGA
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3625
-#EXTINF:-1 tvg-id="" tvg-name="SS MOTORSPORT" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Motorsport_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS MOTORSPORT
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3626
-#EXTINF:-1 tvg-id="" tvg-name="SS PREMIER LEAGUE" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-4_001_xlrg.png" group-title="AFRICA [SD][VIP]", SS PREMIER LEAGUE
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3627
-#EXTINF:-1 tvg-id="" tvg-name="SS PSL" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PSL_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS PSL
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3628
-#EXTINF:-1 tvg-id="" tvg-name="SS RUGBY" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Rugby_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS RUGBY
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3629
-#EXTINF:-1 tvg-id="" tvg-name="SS TENNIS" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS TENNIS
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3630
-#EXTINF:-1 tvg-id="" tvg-name="SS VARIETY 1" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety1_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS VARIETY 1
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3631
-#EXTINF:-1 tvg-id="" tvg-name="SS VARIETY 2" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety2_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS VARIETY 2
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3632
-#EXTINF:-1 tvg-id="" tvg-name="SS VARIETY 3" tvg-logo="https://rndcdn.dstv.com/dstvcms/2022/02/07/SS_Logo_Variety3_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS VARIETY 3
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3633
-#EXTINF:-1 tvg-id="" tvg-name="SS VARIETY 4" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety4_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SS VARIETY 4
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3634
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/08/24/StarLife_logo_4-4_001_xlrg.png" group-title="AFRICA [SD][VIP]", STAR LIFE
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3635
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://cdn.dstv.com/www.dstv.com/dstvchannels/NowLogos/StudioUniver_small.png" group-title="AFRICA [SD][VIP]", STUDIO UNIVERSAL
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3636
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT OTT" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT OTT
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3637
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT OTT 2" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT OTT 2
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3638
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT OTT 3" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT OTT 3
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3639
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT OTT 4" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT OTT 4
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3640
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT OTT 5" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT OTT 5
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3641
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT OTT 6" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT OTT 6
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3642
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT OTT 7" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT OTT 7
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3643
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT OTT 8" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT OTT 8
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3644
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT PLAY" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/02/SS_Logo_Play_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", SUPERSPORT PLAY
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3645
-#EXTINF:-1 tvg-id="" tvg-name="TBN AFRICA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/15/DStv_TBN_4-4_highres_001_xlrg.png" group-title="AFRICA [SD][VIP]", TBN AFRICA
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3646
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_Telemundo_new4-4logo_xlrg.png" group-title="AFRICA [SD][VIP]", TELEMUNDO
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3647
-#EXTINF:-1 tvg-id="" tvg-name="THE HOME CHANNEL" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/03/06/HomeChannel_logo_4-4_darkbackground_xlrg.png" group-title="AFRICA [SD][VIP]", THE HOME CHANNEL
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3648
-#EXTINF:-1 tvg-id="" tvg-name="TLC ENTERTAINMENT" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/08/28/DStv_TLC_4-4_001_xlrg.png" group-title="AFRICA [SD][VIP]", TLC ENTERTAINMENT
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3649
-#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/10/TLNovelas_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", TLNOVELAS
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3650
-#EXTINF:-1 tvg-id="" tvg-name="TNT AFRICA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/02/05/TNT_logo_2021_4-4_001_xlrg.png" group-title="AFRICA [SD][VIP]", TNT AFRICA
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3651
-#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/06/22/DStv_TraceAfrica_Logo_4-4_002_xlrg.png" group-title="AFRICA [SD][VIP]", TRACE AFRICA
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3652
-#EXTINF:-1 tvg-id="" tvg-name="TRACE GOSPEL" tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/12/18/App_Channel_Logos_TRACE_Gospel_xlrg.png" group-title="AFRICA [SD][VIP]", TRACE GOSPEL
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3653
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_TraceUrban_new4-4logo_001_xlrg.png" group-title="AFRICA [SD][VIP]", TRACE URBAN
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3654
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/06/21/DStv_Travel_Logo_4-4_dark_background_xlrg.png" group-title="AFRICA [SD][VIP]", TRAVEL CHANNEL
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3655
-#EXTINF:-1 tvg-id="" tvg-name="TSHWANE TV" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/07/04/Tshwane_logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", TSHWANE TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3656
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/10/08/UniversalTV_logo_4-4_001_xlrg.png" group-title="AFRICA [SD][VIP]", UNIVERSAL TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3657
-#EXTINF:-1 tvg-id="" tvg-name="VIA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/03/01/Via_New2019_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", VIA
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3658
-#EXTINF:-1 tvg-id="" tvg-name="WILDEARTH" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/14/WildEarth_logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", WILDEARTH
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3659
-#EXTINF:-1 tvg-id="" tvg-name="WWE CHANNEL" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/07/03/WWE_Logo_4-4_xlrg.png" group-title="AFRICA [SD][VIP]", WWE CHANNEL
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3660
-#EXTINF:-1 tvg-id="" tvg-name="ZEE WORLD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-4_highres_xlrg.png" group-title="AFRICA [SD][VIP]", ZEE WORLD
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3661
-#EXTINF:-1 tvg-id="" tvg-name="1KZN" tvg-logo="" group-title="AFRICA [VIP]", 1KZN
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3662
-#EXTINF:-1 tvg-id="" tvg-name="1MAGIC" tvg-logo="" group-title="AFRICA [VIP]", 1MAGIC
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3663
-#EXTINF:-1 tvg-id="" tvg-name="AFRICA MAGIC FAMILY" tvg-logo="" group-title="AFRICA [VIP]", AFRICA MAGIC FAMILY
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3664
-#EXTINF:-1 tvg-id="" tvg-name="AFRICA MAGIC URBAN" tvg-logo="" group-title="AFRICA [VIP]", AFRICA MAGIC URBAN
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3665
-#EXTINF:-1 tvg-id="" tvg-name="AFRICAMAGIC EPIC" tvg-logo="" group-title="AFRICA [VIP]", AFRICAMAGIC EPIC
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3666
-#EXTINF:-1 tvg-id="" tvg-name="PARLIAMENTARY SERVICE" tvg-logo="" group-title="AFRICA", PARLIAMENTARY SERVICE
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3300
-#EXTINF:-1 tvg-id="" tvg-name="PBS KIDS" tvg-logo="" group-title="AFRICA", PBS KIDS
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3301
-#EXTINF:-1 tvg-id="" tvg-name="PIWI +" tvg-logo="" group-title="AFRICA", PIWI +
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3302
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="" group-title="AFRICA", PLAY TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3303
-#EXTINF:-1 tvg-id="" tvg-name="RAMOGI TV KE" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/94cea0be-0eae-428e-8c35-65108ca0dd82.jpg" group-title="AFRICA", RAMOGI TV KE
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3305
-#EXTINF:-1 tvg-id="" tvg-name="RAVE TV" tvg-logo="" group-title="AFRICA", RAVE TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3306
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME" tvg-logo="" group-title="AFRICA", REAL TIME
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3307
-#EXTINF:-1 tvg-id="" tvg-name="RESURRECTION TV" tvg-logo="" group-title="AFRICA", RESURRECTION TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3308
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="" group-title="AFRICA", RMC SPORT 1
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3309
-#EXTINF:-1 tvg-id="" tvg-name="ROK TV" tvg-logo="" group-title="AFRICA", ROK TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3310
-#EXTINF:-1 tvg-id="" tvg-name="RTB TV" tvg-logo="" group-title="AFRICA", RTB TV
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3311
-#EXTINF:-1 tvg-id="" tvg-name="RTG" tvg-logo="" group-title="AFRICA", RTG
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3312
-#EXTINF:-1 tvg-id="" tvg-name="RTI 1" tvg-logo="" group-title="AFRICA", RTI 1
-http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3313
-
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/94d87934aa6c9b3ef40e5dbf0ce8f402.jpg",AF:Canal+ Action Ouest
-http://w.bs-share.com:8000/247179867825237/23141543216575/428603
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 1 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438653
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 2 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438654
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 3 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438655
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 4 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438656
-#EXTINF:-1 group-title="AFRICA Canal+ HD" tvg-logo="http://bs-share.com:8000/images/7534cc25e4915a1a209d675426d00029.jpeg",AF: SuperSport 5 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/438657
+#EXTM3U
+#EXTINF:-1 group-title="BANGLA" tvg-logo="data:image/jpeg;base64,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",BD: Gazi TV HD
+http://starshare.live:8080/live/653176410987/643175282541/767.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png",DSTV : SuperSport Cricket (FHD)
+http://starshare.live:8080/live/653176410987/643175282541/769.ts
+#EXTINF:-1 group-title="Football (Soccer)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png",DSTV : SUPERSPORTS PSL (FHD)
+http://starshare.live:8080/live/653176410987/643175282541/770.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png",DSTV : SuperSport Grandstand (FHD)
+http://starshare.live:8080/live/653176410987/643175282541/772.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png",DSTV : SUPERSPORTS VARIETY 2 (FHD)
+http://starshare.live:8080/live/653176410987/643175282541/773.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD6.png",DSTV : SUPERSPORTS VARIETY 1  (FHD)
+http://starshare.live:8080/live/653176410987/643175282541/775.ts
+#EXTINF:-1 group-title="GOLF" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EDH.png",DSTV : SuperSport Golf (FHD)
+http://starshare.live:8080/live/653176410987/643175282541/778.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png",DSTV : Super Motorsport (FHD)
+http://starshare.live:8080/live/653176410987/643175282541/779.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",DSTV : Super_sport_blitz FHD
+http://starshare.live:8080/live/653176410987/643175282541/780.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png",DSTV : Super_sport_maximo FHD
+http://starshare.live:8080/live/653176410987/643175282541/781.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M30.png",DSTV : Ginx_Esports_TV_FHD
+http://starshare.live:8080/live/653176410987/643175282541/783.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png",DSTV : SUPERSPORTS VARIETY 4
+http://starshare.live:8080/live/653176410987/643175282541/784.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png?width=50",DSTV : Mzansi Wethu
+http://starshare.live:8080/live/653176410987/643175282541/785.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png",DSTV : M NET HD
+http://starshare.live:8080/live/653176410987/643175282541/786.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MTV.png?width=50",DSTV : mtv FHD
+http://starshare.live:8080/live/653176410987/643175282541/787.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/IA9.png?width=50",DSTV : M Epic
+http://starshare.live:8080/live/653176410987/643175282541/788.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AFM.png?width=50",DSTV : M Family FHD
+http://starshare.live:8080/live/653176410987/643175282541/789.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTA.png?width=50",DSTV : Real time
+http://starshare.live:8080/live/653176410987/643175282541/790.ts
+#EXTINF:-1 group-title="GOLF" tvg-logo="data:image/png;base64,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",GOLF FHD
+http://starshare.live:8080/live/653176410987/643175282541/847.ts
+#EXTINF:-1 group-title="DSTV | MOVIES" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png",DSTV: M-Net Movies 2
+http://starshare.live:8080/live/653176410987/643175282541/4800.ts
+#EXTINF:-1 group-title="DSTV | MOVIES" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png",DSTV: M-Net Movies 3
+http://starshare.live:8080/live/653176410987/643175282541/4801.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M11.png?width=50",Zee World
+http://starshare.live:8080/live/653176410987/643175282541/4813.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AFM.png?width=50",DSTV : Africa Magic Family
+http://starshare.live:8080/live/653176410987/643175282541/4816.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/IA9.png?width=50",DSTV : AfricaMagic Epic
+http://starshare.live:8080/live/653176410987/643175282541/4818.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDE.png?width=50",DSTV : e.tv
+http://starshare.live:8080/live/653176410987/643175282541/4855.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://en.wikipedia.org/wiki/File:E.tv_Extra_logo_%282019%29.png",DSTV: e.TV Extra
+http://starshare.live:8080/live/653176410987/643175282541/4856.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://cdn-kyknet.dstv.com/images/News/2017/03/28/101825/4/27_27_kykNET_Logo_New.png",DSTV : kykNET
+http://starshare.live:8080/live/653176410987/643175282541/4878.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KNM.png?width=50",DSTV : kykNET Nou!
+http://starshare.live:8080/live/653176410987/643175282541/4880.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/34S.png",DSTV: SUPERSPORTS VARIETY 3
+http://starshare.live:8080/live/653176410987/643175282541/4885.ts
+#EXTINF:-1 group-title="DSTV | MOVIES" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png",DSTV: M-Net Movies 4
+http://starshare.live:8080/live/653176410987/643175282541/4886.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/19K.png?width=50",DSTV: ROK
+http://starshare.live:8080/live/653176410987/643175282541/4887.ts
+#EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c782e4c-fae0-4a87-b7b1-a752598d9df9/dd7pnp2-e269034c-86e6-447b-9b35-1235abe71724.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGM3ODJlNGMtZmFlMC00YTg3LWI3YjEtYTc1MjU5OGQ5ZGY5XC9kZDdwbnAyLWUyNjkwMzRjLTg2ZTYtNDQ3Yi05YjM1LTEyMzVhYmU3MTcyNC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ViY3pbQ9rgjqqX0HnyUBEXpavBB0wLEJNS9J62hnJv0",DSTV: WWE Superslam
+http://starshare.live:8080/live/653176410987/643175282541/4888.ts
+#EXTINF:-1 group-title="DSTV | MOVIES" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png",DSTV: M-Net Movies 1
+http://starshare.live:8080/live/653176410987/643175282541/4890.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B2C.png?width=50",DSTV : SABC 2
+http://starshare.live:8080/live/653176410987/643175282541/4920.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B3C.png?width=50",DSTV : SABC 3
+http://starshare.live:8080/live/653176410987/643175282541/4921.ts
+#EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HCH.png?width=50",DSTV : The Home Channel
+http://starshare.live:8080/live/653176410987/643175282541/4933.ts
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/jcl1nNR.png",7 Info 
 https://ythls.onrender.com/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 #EXTINF:-1 group-title="Undefined",947 Joburg 
