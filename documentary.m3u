@@ -35,30 +35,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Farcies TNT" tvg-logo="http://w.bs-share.com:8000/images/76c0323e99ebe06f51805c257981d468.png",[FR]: ANIMAUX HD 🇫🇷
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=16e1&deviceDNT=0&deviceModel=0
-#EXTINF:-1 group-title="Farcies TNT" tvg-logo="http://w.bs-share.com:8000/images/76c0323e99ebe06f51805c257981d468.png",[FR]: ANIMAUX HD 🇫🇷
-http://w.bs-share.com:8000/247179867825237/23141543216575/457930
-#EXTINF:-1 group-title="Farcies TNT" tvg-logo="http://w.bs-share.com:8000/images/04b1d137da63241f8f855c8ebbcae87c.png",[FR]: Chasse et Peche 🇫🇷
-http://w.bs-share.com:8000/247179867825237/23141543216575/457778
-#EXTINF:-1 group-title="Farcies TNT" tvg-logo="http://w.bs-share.com:8000/images/ed84fb9fed8a68755fa118fc92ebd51d.png",|FR| RMC STORY 🇫🇷 
-http://w.bs-share.com:8000/247179867825237/23141543216575/397412
-#EXTINF:-1 group-title="Farcies TNT" tvg-logo="http://w.bs-share.com:8000/images/185b621863f2e1688f7a6285f0a4459a.png",|FR| ARTE 🇫🇷 
-http://w.bs-share.com:8000/247179867825237/23141543216575/397397
-#EXTINF:-1 group-title="FRANCE GÉNÉRAL" tvg-logo="http://w.bs-share.com:8000/images/8ea4fc5437269d5ae6f73eb229a165c7.png",SEASONS 🇫🇷
-http://w.bs-share.com:8000/247179867825237/23141543216575/36311
-#EXTINF:-1 group-title="FRANCE GÉNÉRAL" tvg-logo="http://w.bs-share.com:8000/images/f717c26751e22ece53c8798e885f875e.png",PLANETE+ 🇫🇷
-http://w.bs-share.com:8000/247179867825237/23141543216575/36299
-#EXTINF:-1 group-title="FRANCE GÉNÉRAL" tvg-logo="http://w.bs-share.com:8000/images/3ebb7dc8f675ca2851c252632dadf835.png",PLANETE+ A&E 🇫🇷
-http://w.bs-share.com:8000/247179867825237/23141543216575/36300
-#EXTINF:-1 group-title="FRANCE GÉNÉRAL" tvg-logo="http://w.bs-share.com:8000/images/1e01e63e3d890408725310cd6c01960a.png",NAT GEO 🇫🇷
-http://w.bs-share.com:8000/247179867825237/23141543216575/36302
-#EXTINF:-1 group-title="FRANCE GÉNÉRAL" tvg-logo="http://w.bs-share.com:8000/images/462a425be7b58c6536374b0e9b8ed628.png",NAT GEO WILD 🇫🇷
-http://w.bs-share.com:8000/247179867825237/23141543216575/36303
-#EXTINF:-1 group-title="FRANCE GÉNÉRAL" tvg-logo="http://w.bs-share.com:8000/images/54818b05d116eadc7f67517a3a6e4b33.png",DISCOVERY CHANEL 🇫🇷
-http://w.bs-share.com:8000/247179867825237/23141543216575/36304
-#EXTINF:-1 group-title="FRANCE GÉNÉRAL" tvg-logo="http://w.bs-share.com:8000/images/2bea29d79ba9d508846f825df45015fc.png",DISCOVERY FAMILY HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/36307
-#EXTINF:-1 group-title="FRANCE GÉNÉRAL" tvg-logo="http://w.bs-share.com:8000/images/ba2dff15fff6c4549de81540a0bf8167.png",TOUTE L HISTOIRE HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/36310
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/bbqk8XO.png",Voyager Documentaries 🇪🇸
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Documentary;Science" tvg-logo="https://i.imgur.com/HQxKLlK.png",Xtrema Animal 🇪🇸
