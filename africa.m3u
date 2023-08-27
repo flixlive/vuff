@@ -69,6 +69,30 @@ http://starshare.live:8080/live/653176410987/643175282541/4920.ts
 http://starshare.live:8080/live/653176410987/643175282541/4921.ts
 #EXTINF:-1 group-title="DSTV | ENTERTAINMENT" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HCH.png?width=50",DSTV : The Home Channel
 http://starshare.live:8080/live/653176410987/643175282541/4933.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Africa Magic Yoruba" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Africa Magic Yoruba
+http://starshare.live:8080/live/653176410987/643175282541/152665.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: AfricaMagic Igbo" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: AfricaMagic Igbo
+http://starshare.live:8080/live/653176410987/643175282541/152666.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: AfricaMagic Showcase" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: AfricaMagic Showcase
+http://starshare.live:8080/live/653176410987/643175282541/152667.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Maisha Magic BONGO" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Maisha Magic BONGO
+http://starshare.live:8080/live/653176410987/643175282541/152674.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Maisha Magic Movies" tvg-logo="" group-title="DSTV | MOVIES",DSTV: Maisha Magic Movies
+http://starshare.live:8080/live/653176410987/643175282541/152676.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Africa Magic Hausa" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Africa Magic Hausa
+http://starshare.live:8080/live/653176410987/643175282541/152677.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Maisha Magic East" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Maisha Magic East
+http://starshare.live:8080/live/653176410987/643175282541/152679.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Pearl Magic" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Pearl Magic
+http://starshare.live:8080/live/653176410987/643175282541/152681.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Akwaaba Magic" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Akwaaba Magic
+http://starshare.live:8080/live/653176410987/643175282541/152683.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Akwaaba Magic Abusua" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Akwaaba Magic Abusua
+http://starshare.live:8080/live/653176410987/643175282541/152686.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Maisha Magic Poa" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Maisha Magic Poa
+http://starshare.live:8080/live/653176410987/643175282541/152689.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Pearl Magic Prime" tvg-logo="" group-title="DSTV | ENTERTAINMENT",DSTV: Pearl Magic Prime
+http://starshare.live:8080/live/653176410987/643175282541/152690.ts
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/jcl1nNR.png",7 Info 
 https://ythls.onrender.com/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 #EXTINF:-1 group-title="Undefined",947 Joburg 
