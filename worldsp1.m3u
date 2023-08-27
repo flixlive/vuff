@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="Live EPL",Sky Sports Main Event
+https://webudit.cdnhks.lol/lb/premium38/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="Live EPL",Sky Sports Premier League
+https://webudit.cdnhks.lol/lb/premium130/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/WPL9Gpw/Desain-tanpa-judul-28-modified-1.png" group-title="VIP SPORT 1",Sky Sports Football
+https://webudit.cdnhks.lol/lb/premium35/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.ibb.co/YZTdPz8/Desain-tanpa-judul-29-modified.png" group-title="VIP SPORT 1",Sky Sports Arena
+https://webudit.cdnhks.lol/lb/premium36/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://i.ibb.co/2ghs68G/Desain-tanpa-judul-30-modified.png" group-title="VIP SPORT 1",Sky Sports Action
+https://webudit.cdnhks.lol/lb/premium37/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="VIP SPORT 1",Sky Sports Main Event
+https://webudit.cdnhks.lol/lb/premium38/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="VIP SPORT 1",Sky Sports Premier League
+https://webudit.cdnhks.lol/lb/premium130/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.ibb.co/88XwF6F/Desain-tanpa-judul-32-modified.png" group-title="VIP SPORT 1",Sky Sports F1
+https://webudit.cdnhks.lol/lb/premium60/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.ibb.co/31gt3hf/Desain-tanpa-judul-33-modified.png" group-title="VIP SPORT 1",Sky Sports Cricket
+https://webudit.cdnhks.lol/lb/premium65/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.ibb.co/cbtc1M3/Desain-tanpa-judul-34-modified.png" group-title="VIP SPORT 1",Sky Sports Golf
+https://webudit.cdnhks.lol/lb/premium70/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.postimg.cc/https://i.postimg.cc/kG4TChLh/20230227-002111.png"  group-title="VIP SPORT 1",Sky Sports Mix
+https://webudit.cdnhks.lol/lb/premium449/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Live EPL",Supersport Premier League
+https://webudit.cdnhks.lol/lb/premium414/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Football
+https://webudit.cdnhks.lol/lb/premium56/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Premier League
+https://webudit.cdnhks.lol/lb/premium414/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport La Liga
+https://webudit.cdnhks.lol/lb/premium415/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Grandstand
+https://webudit.cdnhks.lol/lb/premium412/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Variety 1
+https://webudit.cdnhks.lol/lb/premium416/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Variety 2
+https://webudit.cdnhks.lol/lb/premium417/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Variety 3
+https://webudit.cdnhks.lol/lb/premium418/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Variety 4
+https://webudit.cdnhks.lol/lb/premium419/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Action
+https://webudit.cdnhks.lol/lb/premium420/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Rugby
+https://webudit.cdnhks.lol/lb/premium421/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Golf
+https://webudit.cdnhks.lol/lb/premium422/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Motorsport
+https://webudit.cdnhks.lol/lb/premium424/index.m3u8
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Tennis
+https://webudit.cdnhks.lol/lb/premium423/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 1
 https://webudit.cdnhks.lol/lb/premium400/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport2Romania.ru" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 2
