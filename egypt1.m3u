@@ -19,6 +19,22 @@ https://ythls.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
 https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
 #EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ZILZAL CLASSIC🇪🇬
 http://185.236.229.50:8002/play/a02c
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NILE_CINEMA.png" group-title="🇪🇬المصرية Egypt",Nile Cinema
+http://185.236.229.50:8001/play/a03v
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NILE_DRAMA.png" group-title="🇪🇬المصرية Egypt",Nile TV
+http://185.236.229.50:8001/play/a03p
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NILE_COMEDY.png " group-title="🇪🇬المصرية Egypt",Nile Comedy
+http://185.236.229.50:8001/play/a03q
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NILE_LIFE.png" group-title="🇪🇬المصرية Egypt",Nile Life
+http://185.236.229.50:8001/play/a03r
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NILE_DRAMA.png" group-title="🇪🇬المصرية Egypt",Nile Drama
+http://185.236.229.50:8001/play/a03s
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NILE_SPORT.png" group-title="🇪🇬المصرية Egypt",Nile Sport
+http://185.236.229.50:8001/play/a03t
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NILE_FAMILY.png" group-title="🇪🇬المصرية Egypt",Nile Spiro
+http://185.236.229.50:8001/play/a03w
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/ON_E.png" group-title="🇪🇬المصرية Egypt", ON TV
+http://185.236.229.50:8001/play/a041
 #EXTINF:-1 , tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/7772749.5473ba5946293.jpg" ,Mazzika
 http://185.236.229.50:8003/play/a01p
 #EXTINF:-1 , tvg-logo="https://www.lyngsat.com/logo/tv/mm/misr-al-zeraya-eg.png" ,Misr Al Zera3eya
