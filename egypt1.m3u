@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 "tvg-logo="https://bit.ly/3G2eF8Q.png " group-title="🇪🇬المصرية Egypt",🇪🇬قناه السلام
 http://95.216.180.111:1935/live/24/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3hNP5ax.png " group-title="🇪🇬المصرية Egypt",Ten TV🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/TeN_TV.png " group-title="🇪🇬المصرية Egypt",Ten TV🇪🇬
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/3hNP5ax.png " group-title="🇪🇬المصرية Egypt",Ten TV🇪🇬
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/TeN_TV.png " group-title="🇪🇬المصرية Egypt",Ten TV🇪🇬
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 "tvg-logo="https://i.imgur.com/VZmLIY2.png.png " group-title="🇪🇬المصرية Egypt",CBC
 https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/3TY9QmO.png " group-title="🇪🇬المصرية Egypt",CBC sofra🇪🇬
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/CBC_SOFRA.png " group-title="🇪🇬المصرية Egypt",CBC sofra🇪🇬
 https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/40ymKug.png " group-title="🇪🇬المصرية Egypt",🇪🇬القاهرة والناس
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/Al_Kahera_Wal_Nas.png " group-title="🇪🇬المصرية Egypt",🇪🇬القاهرة والناس
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/42OJck9.png " group-title="🇪🇬المصرية Egypt",eXtra News🇪🇬
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/CBC_EXTRA_NEWS.png " group-title="🇪🇬المصرية Egypt",eXtra News🇪🇬
 https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 #EXTINF:-1 "tvg-logo="https://www.altkia.com/wp-content/uploads/2015/06/Toktok-Aflam-TV.jpg " group-title="🇪🇬المصرية Egypt",🇪🇬TOKTOK Aflam
 https://ythls.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
-#EXTINF:-1 "tvg-logo="https://bit.ly/3nvtA4S.png " group-title="🇪🇬المصرية Egypt",Al Qahera News🇪🇬
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/PICONS/alqaheranews.png " group-title="🇪🇬المصرية Egypt",Al Qahera News🇪🇬
 https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
-#EXTINF:0 .png " group-title="🇪🇬المصرية Egypt",ZILZAL CLASSIC🇪🇬
+#EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/PICONS/alqaheranews.png " group-title="🇪🇬المصرية Egypt",ZILZAL CLASSIC🇪🇬
 http://185.236.229.50:8002/play/a02c
 #EXTINF:-1 "tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NILE_CINEMA.png" group-title="🇪🇬المصرية Egypt",Nile Cinema
 http://185.236.229.50:8001/play/a03v
