@@ -1,4 +1,70 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="films&series" tvg-logo="http://tv.10dailythings.com/images/channels/US/family-flix-720p/normal.png",🇺🇸 🎬 ➾ Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-name="" group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moviesphere_logo_dark.png",🇬🇧 🎬➾ Movie Sphere [Pluto]
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="" group-title="films&series" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",🇺🇸 🎬➾ Hallmark Movies & Moreᴴᴰ 
+https://bit.ly/HallmarkMoviesMore?/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="films&series" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",🇺🇸 🎬➾ Hallmark Movies & Mysteriesᴴᴰ 
+http://23.237.104.26:8080/HALLMARK_MOVIES_AND_MYSTERIES/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ParamountChannel.jpg",🇺🇸 🎬➾ Paramount Network 
+https://bit.ly/ParamountNetwork?/chunklist.m3u8
+#EXTINF:-1 tvg-name="" group-title="films&series" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",🇺🇸 🎬➾ AMC East
+https://bit.ly/3pSdX8K?/playlist/4200k.m3u8
+#EXTINF:-1 tvg-name="" group-title="films&series" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",🇺🇸 🎬➾ AMC [Plex]
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="films&series" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",🇺🇸 🎬➾ AMC Thrillers [Plex]
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="films&series" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",🇺🇸 🎬➾ AMC Stories [Plex]
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="films&series" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",🇺🇸 🎬➾ AMC Stories 
+https://bit.ly/3CmcVEq?/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" ,|🇺🇸 🇬🇧|HBO
+http://173.225.246.25:8889/udp/239.203.20.53:4001
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" ,|🇺🇸 🇬🇧|HBO Mundi
+http://173.225.246.25:8889/udp/239.203.20.54:4002
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/f/ff/HBOPopLA2020.png" ,|🇺🇸 🇬🇧| HBO pop
+http://173.225.246.25:8889/udp/239.203.20.55:4001
+#EXTINF:-1 tvg-logo="https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" ,|🇺🇸 🇬🇧|HBO Signature
+http://173.225.246.25:8889/udp/239.203.20.56:4001
+#EXTINF:-1 tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" ,|🇺🇸 🇬🇧| HBo Xtreme
+http://173.225.246.25:8889/udp/239.203.20.57:4001
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/canada/History_HD_CA.png" ,|🇺🇸 🇬🇧|History
+http://173.225.246.25:8889/udp/239.203.20.59:4002
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/canada/NatGeo_HD_CA.png" ,|🇺🇸 🇬🇧|Nat GEo
+http://173.225.246.25:8889/udp/239.203.20.73:4002
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEY+.png" ,|🇺🇸 🇬🇧|Disney+
+http://173.225.246.25:8889/udp/239.203.20.74:4002
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" ,|🇺🇸 🇬🇧|outdoor
+http://173.225.246.25:8889/udp/239.203.20.79:4001
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" ,|🇺🇸 🇬🇧|Paramount 
+http://173.225.246.25:8889/udp/239.203.20.80:4001
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fishingpluto.png",🇺🇸 ➾ Fishing 
+https://bit.ly/Fishing_inspiration_m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fishingpluto.png",🇺🇸 ➾ Fishing ² 
+https://bit.ly/41vKcbd?/manifest/3000.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Wired2Fish.png",🇺🇸 ➾ Wired2Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Caça Desportiva" tvg-logo="https://www.darcizzleoffshore.com/wp-content/uploads/2020/01/cropped-favicon-192x192.png",🇺🇸 ➾ Darcizzle Offshore Fishingᴴᴰ
+https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/waypoint.png",🇺🇸 ➾ Waypoint TVᴴᴰ [Sitrr]
+https://bit.ly/42YJswE?/manifest/3000.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hunt-channel.png",🇺🇸 ➾ Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",🇺🇸 ➾ Love 4K Natureᴴᴰ
+https://bit.ly/3O47F07?/playlist720p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",🇺🇸 ➾ Love Natureᴴᴰ ² 
+https://bit.ly/3kKVLIy?/playlist720p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="wild life" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/naturetime.png",🇪🇸 ➾ Nature Time 
+https://bit.ly/3NKeKT4?/playlist720p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="wild life" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/naturetime.png",🇫🇷 ➾ Nature Time 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="wild life" tvg-logo="https://bit.ly/wildplanett",🇺🇸 ➾ Wild Planetᴴᴰ [Plex]
+https://bit.ly/41ykXoq?/playlist720p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="wild life" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png",🇺🇸 ➾ WildEarthᴴᴰ [Plex]
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="wild life" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",🇺🇸 ➾ Animals tv 
+https://bit.ly/AnimalsPluto?/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_HD.png",AXN
 http://45.179.140.242:8000/play/a0j9
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/NEW/Universal_TV_HD.png" ,Universal
@@ -37,6 +103,22 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.uk" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten Family UK 
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",🇪🇸 ➾ Historyᴴᴰ 
+https://bit.ly/3y5kHCd?/playlistE720p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",🇺🇸 ➾ Historyᴴᴰ 
+https://bit.ly/historypluto?/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/historypluto.png",🇺🇸 ➾ History ² 
+https://bit.ly/3mkCLQQ?/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Insight tvᴴᴰ 
+https://insighttv-samsungau.amagi.tv/playlistE720p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Introuble tvᴴᴰ 
+https://introuble-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Inwonder tvᴴᴰ 
+https://inwonder-samsungau.amagi.tv/playlist720.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ wonder tvᴴᴰ 
+https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Real Storiesᴴᴰ 
+https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Shows UK 
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="https://imgur.com/a7KAQNR.png",|UK| SKY FAMILY HD
