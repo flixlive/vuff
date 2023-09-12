@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/KYqBz8S.png", Thailand - 54 Unity TV 
+http://183.89.246.119:8881/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YnvWyJ7.png", Thailand - ALTV 4 
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MCbCSWv.png", Thailand - ALTV 
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/nN75EyA.png", Thailand - Amarin TV 
+http://183.89.246.119:8010/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png", Thailand - Angel TV Far East 
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kDaV0OE.png", Thailand - ASTV News 1  
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/wOIaqg7.png", Thailand - Channel 5 
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IDMQ2xe.png", Thailand - Channel 7 
+http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png", Thailand - Channel 8  
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/D2qNVZ7.png", Thailand - CinemaWorld  
+http://210.210.155.35/dr9445/h/h04/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/nLzdGeX.png", Thailand - DLTV 1 
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/lDBSTfE.png", Thailand - DLTV 2 
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/wmrxerm.png", Thailand - DLTV 3 
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WkpoQhU.png", Thailand - DLTV 4 
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/J1E89jX.png", Thailand - DLTV 5 
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/qeIHWC0.png", Thailand - DLTV 6 
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/OjYwMe3.png", Thailand - DLTV 7 
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xIwn5Ha.png", Thailand - DLTV 8 
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/yPeSAry.png", Thailand - DLTV 9 
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/TgN81Zr.png", Thailand - DLTV 10 
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/hFk2b5s.png", Thailand - DLTV 11 
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ITt6lY7.png", Thailand - DLTV 12 
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/asB5w3v.png", Thailand - DLTV 13 
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/HOjZRNS.png", Thailand - DLTV 14 
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/onJi2b6.png", Thailand - DLTV 15 
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/cpNg9Fy.png", Thailand - Esan TV 
+http://183.89.246.119:8881/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png", Thailand - EWTN Asia-Pacific  
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/0Q7idUc.png", Thailand - GCJ O Shopping 
+http://183.89.246.119:8881/play/a0a5/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/uARba6N.png", Thailand - GMM 25 
+http://183.89.246.119:8010/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ETgVyTy.png", Thailand - Good Idea TV  
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IM8Gy1l.png", Thailand - HITS  
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/tY7IJva.png", Thailand - Kanal 10 Asia 
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kaset-th.png", Thailand - Kaset Channel 
+http://183.89.246.119:8881/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/zWcUAdb.png", Thailand - Kix  
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/q6cQzbv.png", Thailand - Lao-Thai TV 
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/sV0S0mV.png", Thailand - Mangorn 
+http://183.89.246.119:8881/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/UropueN.png", Thailand - Maya Channel 
+http://183.89.246.119:8881/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ejPxGmU.png", Thailand - MCOT HD 
+http://183.89.246.119:8010/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/mm/media-tv-th.png", Thailand - Media TV 
+http://183.89.246.119:8881/play/a0af/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", Thailand - Mono 29 
+http://183.89.246.119:8010/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/a7tNaD5.png", Thailand - NAT TV 
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/h3TY38F.png", Thailand - Nation TV 
+http://183.89.246.119:8010/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/QiqXWfd.png", Thailand - One 31 
+http://183.89.246.119:8010/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MrjG6dC.png", Thailand - PNTV 
+https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png", Thailand - RAI Italia Asia 
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png", Thailand - ROCK Action  
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png", Thailand - ROCK Entertainment  
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png", Thailand - RTP Internacional Asia 
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rmNDylW.png", Thailand - SBT TV 
+http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/zl7QkPF.png", Thailand - Shop Ch  
+https://ythls.onrender.com/channel/UCKrzHQD9zTLLhBAR8w4zaxA.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6AGKP0A.png", Thailand - Suwannabhumi Channel 
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/uOfb3y1.png", Thailand - Thai Chaiyo 
+http://183.89.246.119:8881/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/ln2VhNT.png", Thailand - Thai Parliament TV  
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/pLXo2Cq.png", Thailand - Thai PBS (Opt-4)  
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/EDujZ8I.png", Thailand - Thai TV 5 HD1 
+http://183.89.246.119:8010/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Y282owj.png", Thailand - Thrill 
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/wjcGFCD.png", Thailand - TNN16 
+http://183.89.246.119:8010/play/a00b/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/tRFnV9M.png", Thailand - Top News 
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/OYFI95A.png", Thailand - Topline TV 
+http://183.89.246.119:8881/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/O6Xre1O.png", Thailand - True 4U 
+http://183.89.246.119:8010/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/tuh10j3.png", Thailand - TV Direct 1 
+http://183.89.246.119:8881/play/a0ab/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-direct-th.png", Thailand - TV Direct 8 
+http://183.89.246.119:8881/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-direct-th.png", Thailand - TV Direct 9 
+http://183.89.246.119:8881/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/2avuYK1.png", Thailand - TVD Momo 5 
+http://183.89.246.119:8881/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Chx0AV9.png", Thailand - White Channel 
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/cFUlrqL.png", Thailand - Workpoint 23 
+http://183.89.246.119:8010/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/4TMtUjW.png", Thailand - Zabb Channel 
+http://183.89.246.119:8881/play/a0ac/index.m3u8
