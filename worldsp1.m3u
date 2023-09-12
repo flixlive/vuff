@@ -59,6 +59,76 @@ http://185.188.188.235/live/sport1/playlist.m3u8
 http://185.188.188.235/live/sport2/playlist.m3u8
 #EXTINF:-1 tvg-name="" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇵🇪 ⚽️➾ Goltv
 http://181.177.255.253:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEN 3 HD" tvg-logo="https://i.ibb.co/7VJRfsY/sonyren3.png" group-title="World sport",TEN 3 HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/788
+#EXTINF:-1 tvg-id="" tvg-name="TEN 2 HD" tvg-logo="https://i.ibb.co/qyQPKH2/sonyren2.png" group-title="World sport",TEN 2 HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/789
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD" tvg-logo="https://i.ibb.co/ChbWDM0/sonyren1.png" group-title="World sport",TEN 1 HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/790
+#EXTINF:-1 tvg-id="" tvg-name="bt sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="World sport",bt sport 1
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/791
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="World sport",BT Sports 2 HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/792
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3" tvg-logo="https://i.postimg.cc/W43Rn7S9/bts3.png" group-title="World sport",BT Sports 3
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/793
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT ESPN HD (UK)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BTSptESPNHD.png" group-title="World sport",BT SPORT ESPN HD (UK)
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/794
+#EXTINF:-1 tvg-id="" tvg-name="BG: ELEVEN SPORTS 1 BELGIUM (FR) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="World sport",BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/795
+#EXTINF:-1 tvg-id="" tvg-name="BG: ELEVEN SPORTS 1 BELGIUM (FR) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="World sport",BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/796
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER SPORTS 1 (UK)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Premier_1_HD.png" group-title="World sport",PREMIER SPORTS 1 (UK)
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/797
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2ⓧᴴᴰ" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Premier_2_HD.png" group-title="World sport",Premier Sports 2ⓧᴴᴰ
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/798
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="World sport",SPORT TV 1
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/799
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png" group-title="World sport",SPORT TV 2
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/800
+#EXTINF:-1 tvg-id="" tvg-name="Sport1 HD" tvg-logo="" group-title="World sport",Sport1 HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/801
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="World sport",SuperSport Premier League
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/802
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORTS VARIETY 1" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1.png" group-title="World sport",SUPER SPORTS VARIETY 1
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/803
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORTS VARIETY" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-4.png" group-title="World sport",SUPER SPORTS VARIETY
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/804
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="World sport",Ziggo Sport HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/807
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 3 (RO)" tvg-logo="http://www.vodkom.com:25461/Logo/ROMANIA/DIGI_Sport_3_HD_RO.png" group-title="World sport",DIGI SPORT 3 (RO)
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/809
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 2 (RO)" tvg-logo="http://www.vodkom.com:25461/Logo/ROMANIA/DIGI_Sport_2_HD_RO.png" group-title="World sport",DIGI SPORT 2 (RO)
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/810
+#EXTINF:-1 tvg-id="" tvg-name="HU | Digi Sport 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ROMANIA/DIGI_Sport_1_HD_RO.png" group-title="World sport",HU | Digi Sport 2 HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/811
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FHD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/.VAMOSHD.png" group-title="SPAIN TV",#VAMOS FHD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/671
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_1_HD.png" group-title="SPAIN TV",ES: DAZN 1 FHD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/672
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_2_HD.png" group-title="SPAIN TV",ES: DAZN 2
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/673
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_3_HD.png" group-title="SPAIN TV",ES: DAZN 3
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/674
+#EXTINF:-1 tvg-id="" tvg-name="L CAMPEONES HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEONES.png" group-title="SPAIN TV",L CAMPEONES HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/676
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LA LIGA HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_HD.png" group-title="SPAIN TV",Movistar LA LIGA HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/677
+#EXTINF:-1 tvg-id="" tvg-name="DAZN-LIGA-1_HD" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/DAZN_LALIGA.png" group-title="SPAIN TV",DAZN-LIGA-1_HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/678
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport2" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/EUROSPORT_2.png" group-title="SPAIN TV",Eurosport2
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/682
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport1" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/EUROSPORT_1.png" group-title="SPAIN TV",Eurosport1
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/683
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/GOL.png" group-title="SPAIN TV",GOL TV HD
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/687
+#EXTINF:-1 tvg-id="" tvg-name="Toros Tv" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TOROS_HD.png" group-title="SPAIN TV",Toros Tv
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/688
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BARCA_TV.png" group-title="SPAIN TV",BARCA TV
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/691
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://vodkom.com:25461/Logo/PICONS/ANIMAL_PLANET_HD.png" group-title="SPAIN TV",Animal Planet
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/693
+#EXTINF:-1 tvg-id="" tvg-name="⚽ beIN English" tvg-logo="https://i.ibb.co/gVPZYY6/1enhd.png" group-title="World sport",⚽ beIN English
+http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/360
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="Live EPL",Sky Sports Main Event
 https://webudit.cdnhks.lol/lb/premium38/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="Live EPL",Sky Sports Premier League
