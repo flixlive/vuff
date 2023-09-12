@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/1VhXilw.png", Malaysia-Celestial Classic 天映经典 (Celestial Classic Movies)  
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/D2qNVZ7.png", Malaysia-CinemaWorld 
+http://210.210.155.35/dr9445/h/h04/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/VyYo7NF.png", Malaysia-Egg Network 
+http://210.210.155.37/uq2663/h/h22/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IM8Gy1l.png", Malaysia-HITS 
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/RbS0q71.png", Malaysia-K+  
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/tY7IJva.png", Malaysia-Kanal 10 Asia 
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/zWcUAdb.png", Malaysia-Kix  
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png", Malaysia-RAI Italia Asia 
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png", Malaysia-ROCK Action 
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png", Malaysia-ROCK Entertainment 
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png", Malaysia-RTP Internacional Asia 
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Y282owj.png", Malaysia-Thrill 
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/dwzOBZ1.png", Malaysia-TVE Internacional Asia-Oceania 
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
