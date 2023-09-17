@@ -104,4 +104,85 @@ https://stream.radiojar.com/5wpf9e4erxquv
 https://eu10.fastcast4u.com/clubfmuae
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423160/9d4007430b884de982a9a07b4f546132_165x165.webp",🇦🇪 Dubai Holy Quran
 http://uk5.internet-radio.com:8079/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428425/3a316156fdbccdd17c2a63d216b1332c_130x130.webp",🇧🇭 Radio bahrain
+http://www.inlife.tv/radio/bahrain/bahrain-radio-1023
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428427/a9078bb4c37feafe3b5f4caa385e0d7d_165x165.webp",🇧🇭 BAHRAIN QURAN
+http://www.inlife.tv/radio/bahrain/bahrain-radio-1023
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428427/a9078bb4c37feafe3b5f4caa385e0d7d_165x165.webp",🇧🇭 BAHRAIN Chaabia
+https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1831694752_b981072.m3u8
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428419/6bfac5c9f8eadc2122230e862d72c9e5_165x165.webp",🇶🇦 Quran Kareem
+http://stream.zeno.fm/gfwesn7k0hhvv
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/30381/c620855ede19b4f1a309ee02514b6988_165x165.webp",🇶🇦 Sawt Alkhaleej
+http://ruby.streamguys.com:8120/sar-qatar-2
+#EXTINF:-1 tvg-logo="les/images/stations/422676/e112c63e2a93afe2f1553fe8c49c098f_165x165.webp",🇶🇦 Aljazeera English
+http://listen.aljazeera.com/english/livestream
+#EXTINF:-1 tvg-logo="les/images/stations/422676/e112c63e2a93afe2f1553fe8c49c098f_165x165.webp",🇶🇦 Aljazeera Arabic
+https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/30382/ba575face9e273c4350230022673444e_165x165.webp",🇶🇦 SAWA GULF
+http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/422677/e2332a41c62faf4bfe2881e3339e0763_165x165.webp",🇶🇦 OLIVE FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428420/773e0dabcb27c7d10dec621d5c79c846_165x165.webp",🇶🇦 INTA FM
+https://s4.radio.co/s907eaefbe/listen
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423502/418600548133bf540a83c7076c37ec69_165x165.webp",🇸🇾 NINAR FM
+https://ninarfm.grtvstream.com:8896/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/410341/bioi5c05347d73dd4144783409_165x165.webp",🇸🇾 Sham FM
+https://radioshamfm.grtvstream.com:8400/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423510/6db8ee5881f7673b727e6f97cd0e901d_165x165.webp",🇸🇾 MIX FM
+https://stream.mixfmsyria.net/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423506/f780e19d166039fe49e4772ea1516fab_165x165.webp",🇸🇾 MELODY FM
+http://streaming.inet.sy:8000/melodyfm
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423507/49e04861dcac3ac1ffad72f20c494613_165x165.webp",🇸🇾 ASIMA FM
+https://asima.out.airtime.pro:8000/asima_a
+#EXTINF:-1 tvg-logo="https://daroid.com/thumbnail?src=images/appsicon/2020/05/info-appteve-safafm.jpg&size=200",🇸🇾 SADA FM
+http://sc8new.shoutcaststreaming.us:8032/stream.mp3
+#EXTINF:-1 tvg-logo="https://pea.fm/uploads/posts/2020-07/1595117780_al-madina-fm.jpg",🇸🇾 Almadina FM
+http://usa7.fastcast4u.com:4978/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/417104/z0a95c0f88d92709c551624033_165x165.webp",🇸🇾 Arabesque FM
+http://185.4.87.79:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423503/a14a9c21d3d4620f04fc367f108e42c8_165x165.webp",🇸🇾 FUSE FM
+http://usa7.fastcast4u.com:4986/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405393/epts5a44ec136924f747937815_165x165.webp",🇱🇧 Nostalgie FM
+https://scdn.nrjaudio.fm/adwz1/lb/55157/mp3_128.mp3
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/10244/1464082058_c175-6_165x165.webp",🇱🇧 Byblos Radio
+http://byblosnights.com:8000/liveaac
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/30104/85b7e623455f877a8f15ab7b88aef632_165x165.webp",🇱🇧 Sawt Elghad
+http://audiostreaming.itworkscdn.com:9030/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/24419/6a4ada164e8d0c32c5eaf095d69aed92_165x165.webp",🇱🇧 LBI Radio
+http://andromeda.shoutca.st:8192/mobile
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405397/evou5a44eeb8243ae275855540_165x165.webp",🇱🇧 Nidaa FM
+https://nidaa.fm:8443/stream.mp3
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405412/yq8w5a45075f83c63302264149_165x165.webp",🇱🇧 MIX FM
+https://atlantisfm.radionetz.de/mixfm.aac
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/422911/ed351a3a8e3b9cb22c755426d1654a89_165x165.webp",🇱🇧 STAR FM
+http://freeuk25.listen2myradio.com:4388/live
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405394/qdne5a44ecbdd1daa033186102_165x165.webp",🇱🇧 Virgin Radio
+https://stream.zeno.fm/dwxw3p9vea0uv
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405405/tpne5a44f3b00f559957948542_165x165.webp",🇱🇧 Aghani FM
+http://185.52.127.132/lb/1/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/422910/e12be8f06324f1a36462ab280ad3867f_165x165.webp",🇱🇧 Sawt El Shaeb FM
+http://vps1.osina.cloud:9320/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/421685/d72d323c25fde90ef296d12a9af31b07_165x165.webp",🇯🇴 MELODY FM
+http://s3.voscast.com:9966/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405419/x4275a450cb42b8b9400067037_165x165.webp",🇯🇴 Mazaj FM
+https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405424/mu605a4510800e721969410800_165x165.webp",🇯🇴 Yaqeen FM
+http://188.247.86.67:8004/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428400/35bac292da0bf91a9a5bee42b167379f_165x165.webp",🇯🇴 Jordan Radio
+https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/24326/6b004cbc3a0a5aba921a023f006039e6_165x165.webp",🇯🇴 Beat FM
+https://securestreams2.autopo.st:1242/live
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-8BGUk4snurNTOkjb-vAFFCA-t500x500.jpg",🇯🇴 WATTAN FM
+http://rs.hadara.ps:8556/live
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a2/f3/a2f31793c6ad1c414ef702e22e8e0d65.jpg",🇯🇴 Radio Dahab
+https://dahab.ice.infomaniak.ch/dahab-192.mp3
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405423/uv6n5a45100bb0cf4302078994_165x165.webp",🇯🇴 Hala FM
+http://us10a.serverse.com:8027/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405420/uoma5a450da7952f7387764837_165x165.webp",🇯🇴 FANN FM
+http://188.247.86.67:8000/;
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/405415/hmva5a450a2603697105507298_165x165.webp",🇯🇴 Mood FM
+https://securestreams2.autopo.st:1241/;
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/c4/8e/36001/c300.png",🇯🇴 
+
+
 
