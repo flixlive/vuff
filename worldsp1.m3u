@@ -43,16 +43,6 @@ http://185.150.190.225:16472/
 http://185.150.190.225:16476/
 #EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷 ⚽️➾  Premiere 6
 http://185.150.190.225:16482/
-#EXTINF:-1 tvg-name="" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Arenasport.png",🇭🇷 ⚽️➾ Arena Sport 1
-http://93.155.227.38:90/m3u8/arenasport1.m3u8
-#EXTINF:-1 tvg-name="" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Arenasport.png",🇭🇷 ⚽️➾ Arena Sport 2
-http://93.155.227.38:90/m3u8/arenasport2.m3u8
-#EXTINF:-1 tvg-name="" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Arenasport.png",🇭🇷 ⚽️➾ Arena Sport 3
-http://93.155.227.38:90/m3u8/arenasport3.m3u8
-#EXTINF:-1 tvg-name="" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Arenasport.png",🇭🇷 ⚽️➾ Arena Sport 4
-http://93.155.227.38:90/m3u8/arenasport4.m3u8
-#EXTINF:-1 tvg-name="" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Arenasport.png",🇭🇷 ⚽️➾ Arena Sport 6
-http://185.85.152.220:9901/arenasport6/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/sport1.png",🇨🇿 ⚽️➾ Sport 1
 http://185.188.188.235/live/sport1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/sport2.png",🇨🇿 ⚽️➾ Sport 2
@@ -129,84 +119,6 @@ http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/691
 http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/693
 #EXTINF:-1 tvg-id="" tvg-name="⚽ beIN English" tvg-logo="https://i.ibb.co/gVPZYY6/1enhd.png" group-title="World sport",⚽ beIN English
 http://207.244.250.245:25461/alphaworldsport88/0PvGR2r0Is/360
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="Live EPL",Sky Sports Main Event
-https://webudit.cdnhks.lol/lb/premium38/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="Live EPL",Sky Sports Premier League
-https://webudit.cdnhks.lol/lb/premium130/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/WPL9Gpw/Desain-tanpa-judul-28-modified-1.png" group-title="VIP SPORT 1",Sky Sports Football
-https://webudit.cdnhks.lol/lb/premium35/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.ibb.co/YZTdPz8/Desain-tanpa-judul-29-modified.png" group-title="VIP SPORT 1",Sky Sports Arena
-https://webudit.cdnhks.lol/lb/premium36/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://i.ibb.co/2ghs68G/Desain-tanpa-judul-30-modified.png" group-title="VIP SPORT 1",Sky Sports Action
-https://webudit.cdnhks.lol/lb/premium37/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="VIP SPORT 1",Sky Sports Main Event
-https://webudit.cdnhks.lol/lb/premium38/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="VIP SPORT 1",Sky Sports Premier League
-https://webudit.cdnhks.lol/lb/premium130/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.ibb.co/88XwF6F/Desain-tanpa-judul-32-modified.png" group-title="VIP SPORT 1",Sky Sports F1
-https://webudit.cdnhks.lol/lb/premium60/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.ibb.co/31gt3hf/Desain-tanpa-judul-33-modified.png" group-title="VIP SPORT 1",Sky Sports Cricket
-https://webudit.cdnhks.lol/lb/premium65/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.ibb.co/cbtc1M3/Desain-tanpa-judul-34-modified.png" group-title="VIP SPORT 1",Sky Sports Golf
-https://webudit.cdnhks.lol/lb/premium70/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.postimg.cc/https://i.postimg.cc/kG4TChLh/20230227-002111.png"  group-title="VIP SPORT 1",Sky Sports Mix
-https://webudit.cdnhks.lol/lb/premium449/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Live EPL",Supersport Premier League
-https://webudit.cdnhks.lol/lb/premium414/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Football
-https://webudit.cdnhks.lol/lb/premium56/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Premier League
-https://webudit.cdnhks.lol/lb/premium414/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport La Liga
-https://webudit.cdnhks.lol/lb/premium415/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Grandstand
-https://webudit.cdnhks.lol/lb/premium412/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Variety 1
-https://webudit.cdnhks.lol/lb/premium416/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Variety 2
-https://webudit.cdnhks.lol/lb/premium417/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Variety 3
-https://webudit.cdnhks.lol/lb/premium418/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Variety 4
-https://webudit.cdnhks.lol/lb/premium419/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Action
-https://webudit.cdnhks.lol/lb/premium420/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Rugby
-https://webudit.cdnhks.lol/lb/premium421/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Golf
-https://webudit.cdnhks.lol/lb/premium422/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Motorsport
-https://webudit.cdnhks.lol/lb/premium424/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="VIP SPORT 1",Supersport Tennis
-https://webudit.cdnhks.lol/lb/premium423/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 1
-https://webudit.cdnhks.lol/lb/premium400/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport2Romania.ru" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 2
-https://webudit.cdnhks.lol/lb/premium401/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport3Romania.ro" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 3
-https://webudit.cdnhks.lol/lb/premium402/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-logo="https://i.postimg.cc/rmH6Y4wG/1663597018-picsay.png" group-title="VIP SPORT 1",Digi Sport 4
-https://webudit.cdnhks.lol/lb/premium403/index.m3u8
-#EXTINF:-1 tvg-id="OrangeSport1.ro" tvg-logo="https://i.ibb.co/QjnhVbB/tv-station-orange-sport-1-1513-modified.png" group-title="VIP SPORT 1",Orange Sport 1
-https://webudit.cdnhks.lol/lb/premium439/index.m3u8
-#EXTINF:-1 tvg-id="OrangeSport2.ro" tvg-logo="https://i.ibb.co/McJHnch/tv-station-orange-sport-2-1514-modified.png" group-title="VIP SPORT 1",Orange Sport 2
-https://webudit.cdnhks.lol/lb/premium440/index.m3u8
-#EXTINF:-1 tvg-id="OrangeSport3.ro" tvg-logo="https://i.ibb.co/cLnkwf9/tv-station-orange-sport-3-1515-modified.png" group-title="VIP SPORT 1",Orange Sport 3
-https://webudit.cdnhks.lol/lb/premium441/index.m3u8
-#EXTINF:-1 tvg-id="OrangeSport4.ro" tvg-logo="https://i.ibb.co/NF3bByd/tv-station-orange-sport-4-1516-modified.png" group-title="VIP SPORT 1",Orange Sport 4
-https://webudit.cdnhks.lol/lb/premium442/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live SERIE A",Eleven 1 HD
-https://webudit.cdnhks.lol/lb/premium455/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live SERIE A",Eleven 2 HD
-https://webudit.cdnhks.lol/lb/premium456/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live SERIE A",Eleven 3 HD
-https://webudit.cdnhks.lol/lb/premium457/index.m3u8
-#EXTINF:1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live EPL",Eleven Sports 1 Poland
-https://webudit.cdnhks.lol/lb/premium71/index.m3u8
-#EXTINF:2 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live EPL",Eleven Sports 2 Poland
-https://webudit.cdnhks.lol/lb/premium72/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="Live EPL",Eleven Sports 3 Poland
-https://webudit.cdnhks.lol/lb/premium428/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lifepng.com/wp-content/uploads/2020/12/Espn-Logo-png-hd.png" ,ESPN 1 MX
 http://167.114.156.136:25461/INFINITV/ZX89NM22/35
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://www.lifepng.com/wp-content/uploads/2020/12/Espn-Logo-png-hd.png" ,ESPN 2 MX
